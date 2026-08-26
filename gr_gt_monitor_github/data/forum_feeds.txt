@@ -1,0 +1,8 @@
+# Add one forum RSS/Atom feed URL per line. Lines starting with # are ignored.
+# Example (Discourse-based forums often expose this pattern):
+# https://forum.example.com/latest.rss
+#
+# Many forum platforms (Discourse, XenForo, some vBulletin) publish these even
+# if there's no visible link to them, worth checking a forum's page source
+# for <link type="application/rss+xml"> or trying /rss, /feed, /latest.rss
+# on the forum's root URL.
