@@ -6,14 +6,18 @@
 # if there's no visible link to them, worth checking a forum's page source
 # for <link type="application/rss+xml"> or trying /rss, /feed, /latest.rss
 # on the forum's root URL.
-https://www.grgtforum.com/threads/gr-gt-at-weathertech-raceway-laguna-seca.35/
-https://www.grgtforum.com/threads/well-if-you-dont-have-one-already-you-wont-at-least-not-in-the-first-batch.34/
-https://www.grgtforum.com/threads/awesome-photos-of-the-toyota-gr-gt-in-red.33/
-https://www.grgtforum.com/threads/how-is-this-process-going-to-play-out.32/
-https://www.grgtforum.com/threads/additional-new-toyota-gr-gt-pictures.31/
-https://www.grcorollaforum.com/threads/gr-gt.8500/?utm_source=google&utm_medium=organic
-https://www.germancarforum.com/threads/toyota-gazoo-racing-presents-the-world-premiere-of-the-gr-gt-and-gr-gt3.290071/page-4
-https://www.clublexus.com/forums/car-chat/1046480-lexus-lfa-concept-and-toyota-gr-gt-everything-you-need-to-know-10.html
+
+https://www.grgtforum.com/forums/-/index.rss
+https://www.germancarforum.com/forums/toyota.554/index.rss
 https://lexusenthusiast.com/forums/forums/toyota-GR/index.rss
-https://www.corvetteforum.com/forums/other-cars/4965354-revealed-the-gr-gt.html
-https://www.supraforums.com/threads/toyota-gr-gt.1136432/page-2?utm_source=google&utm_medium=organic
+https://grassrootsmotorsports.com/feeds/forum/
+https://www.supraforums.com/forums/-/index.rss
+
+# Confirmed vBulletin, needs a specific forum ID: hover over the subforum
+# link on the site itself, the number at the end of that URL is the ID,
+# then swap it in below and remove the leading #.
+# https://www.clublexus.com/forums/external.php?type=RSS2&forumids=REPLACE_ME
+# https://forums.corvetteforum.com/external.php?type=RSS2&forumids=REPLACE_ME
+
+# grcorollaforum.com runs on the Fora platform, no RSS support found.
+# Use the bookmarklet on that one instead.
