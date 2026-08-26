@@ -1,0 +1,35 @@
+name: GR GT Monitor Scan
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests vaderSentiment
+
+      - name: Run scan
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/scan.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "gr-gt-monitor-bot"
+          git config user.email "actions@github.com"
+          git add docs/data.json
+          git diff --quiet --cached || git commit -m "Update mention data"
+          git push
