@@ -1138,5 +1138,35 @@
     "sentiment_label": "neutral",
     "added_at": "2026-08-26T19:20:30.063897+00:00",
     "occurred_at": "2026-08-25T10:00:11Z"
+  },
+  {
+    "id": "1787772979105-0",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1phX0QzcERWVmFIczZueFJCdXlFX3Iza0hmNEdSNkZBekI2aTRaeWpVRDIwVHJjNzc5QzdyYUp2T0NqLXRGajF6VkdEa3E1M1Zwd0lRenI3cGVEVVg4OHJCMmJBYWdHMEJVSHl2dFJlQ0FlellrTHFxS0lfZEU3UmRtMk94TURXVzk4dkFWNmFMS1B6Wkk5R0p5T3ZaclUxTkg0NVkyWVVPYW03dWFsRDVTYlNZT0MwTTZYeDBsNDYxR2Jud3lOb1dtRlFUeFY4QVdyMW5B?oc=5",
+    "title": "Toyota's Gazoo Racing GR GT Becomes \"Subtly Chonk\" in Fantasy Land: Purply Widebody on BBS E88s - autoevolution",
+    "source": "autoevolution",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-26T19:36:19.105158+00:00",
+    "occurred_at": "Tue, 26 May 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1787772979105-1",
+    "url": "https://youtube.com/watch?v=6eOEI_CkHho",
+    "title": "TOYOTA GR GT 2027: El Toyota de 300.000$ que HUMILLAR\u00c1 a Ferrari | V8 Biturbo H\u00edbrido de 700HP",
+    "source": "V12 Viral ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-26T19:36:19.105158+00:00",
+    "occurred_at": "2026-08-26T19:29:26Z"
+  },
+  {
+    "id": "1787772979105-2",
+    "url": "https://lexusenthusiast.com/forums/threads/gr-gt-megathread.6595/",
+    "title": "GR GT Megathread",
+    "source": "GR (Gazoo Racing) Discussion",
+    "platform": "forum",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-26T19:36:19.105158+00:00",
+    "occurred_at": "Tue, 25 Aug 2026 05:36:34 +0000"
   }
 ]
