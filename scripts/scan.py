@@ -112,6 +112,65 @@ def fetch_youtube():
     return results
 
 
+def fetch_bluesky():
+    results = []
+    for kw in KEYWORDS:
+        try:
+            resp = requests.get(
+                "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts",
+                params={"q": kw, "limit": 50, "sort": "latest"},
+                timeout=15,
+            )
+            if resp.status_code != 200:
+                continue
+            data = resp.json()
+            for post in data.get("posts", []):
+                uri = post.get("uri", "")
+                handle = post.get("author", {}).get("handle", "")
+                rkey = uri.rsplit("/", 1)[-1] if uri else ""
+                record = post.get("record", {})
+                results.append({
+                    "title": record.get("text", ""),
+                    "url": f"https://bsky.app/profile/{handle}/post/{rkey}" if handle and rkey else uri,
+                    "source": f"@{handle}" if handle else "Bluesky",
+                    "platform": "bluesky",
+                    "occurred_at": record.get("createdAt", ""),
+                })
+        except Exception as e:
+            print(f"Bluesky fetch failed for '{kw}': {e}")
+    return results
+
+
+def fetch_newsdata():
+    api_key = os.environ.get("NEWSDATA_API_KEY")
+    if not api_key:
+        print("No NEWSDATA_API_KEY set, skipping NewsData.io.")
+        return []
+    results = []
+    for kw in KEYWORDS:
+        try:
+            resp = requests.get(
+                "https://newsdata.io/api/1/news",
+                params={"apikey": api_key, "q": kw, "language": "en"},
+                timeout=15,
+            )
+            if resp.status_code != 200:
+                continue
+            data = resp.json()
+            for item in data.get("results", []):
+                results.append({
+                    "title": item.get("title", ""),
+                    "url": item.get("link", ""),
+                    "source": item.get("source_id", "NewsData"),
+                    "platform": "news",
+                    "occurred_at": item.get("pubDate", ""),
+                    "_summary": item.get("description") or "",
+                })
+        except Exception as e:
+            print(f"NewsData fetch failed for '{kw}': {e}")
+    return results
+
+
 def fetch_forum_feeds():
     results = []
     if not os.path.exists(FEEDS_PATH):
@@ -148,6 +207,8 @@ def main():
     all_items += fetch_google_news()
     all_items += fetch_reddit()
     all_items += fetch_youtube()
+    all_items += fetch_bluesky()
+    all_items += fetch_newsdata()
     all_items += fetch_forum_feeds()
 
     now = datetime.now(timezone.utc).isoformat()
