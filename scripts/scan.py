@@ -117,14 +117,40 @@ def fetch_youtube():
     return results
 
 
+def get_bluesky_session():
+    handle = os.environ.get("BLUESKY_HANDLE")
+    app_password = os.environ.get("BLUESKY_APP_PASSWORD")
+    if not handle or not app_password:
+        print("No BLUESKY_HANDLE/BLUESKY_APP_PASSWORD set, skipping Bluesky.")
+        return None
+    try:
+        resp = requests.post(
+            "https://bsky.social/xrpc/com.atproto.server.createSession",
+            json={"identifier": handle, "password": app_password},
+            timeout=15,
+        )
+        if resp.status_code != 200:
+            print(f"Bluesky login failed with status {resp.status_code}: {resp.text[:200]}")
+            return None
+        return resp.json().get("accessJwt")
+    except Exception as e:
+        print(f"Bluesky login failed: {e}")
+        return None
+
+
 def fetch_bluesky():
     results = []
+    access_token = get_bluesky_session()
+    if not access_token:
+        return results
+    auth_headers = dict(BROWSER_HEADERS)
+    auth_headers["Authorization"] = f"Bearer {access_token}"
     for kw in KEYWORDS:
         try:
             resp = requests.get(
-                "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts",
+                "https://bsky.social/xrpc/app.bsky.feed.searchPosts",
                 params={"q": kw, "limit": 50, "sort": "latest"},
-                headers=BROWSER_HEADERS, timeout=15,
+                headers=auth_headers, timeout=15,
             )
             if resp.status_code != 200:
                 print(f"Bluesky returned status {resp.status_code} for '{kw}': {resp.text[:200]}")
