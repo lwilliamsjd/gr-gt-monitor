@@ -214,7 +214,6 @@ def main():
 
     all_items = []
     all_items += fetch_google_news()
-    all_items += fetch_reddit()
     all_items += fetch_youtube()
     all_items += fetch_bluesky()
     all_items += fetch_newsdata()
