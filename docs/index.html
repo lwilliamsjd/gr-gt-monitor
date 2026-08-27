@@ -101,8 +101,8 @@
 </div>
 
 <div class="panel" style="margin-bottom: 26px;">
-  <h2>Top keywords</h2>
-  <div style="position:relative; height:160px;"><canvas id="keywordChart"></canvas></div>
+  <h2>Platform breakdown</h2>
+  <div style="position:relative; height:220px;"><canvas id="keywordChart"></canvas></div>
 </div>
 
 <div class="panel">
@@ -230,10 +230,11 @@ function renderCharts(data) {
   });
 
   if (keywordChart) keywordChart.destroy();
+  const platformColors = ['#eb0a1e', '#3ecf8e', '#5a9bd5', '#f2b134', '#9b59b6', '#e67e22', '#1abc9c', '#e74c3c'];
   keywordChart = new Chart(document.getElementById('keywordChart'), {
-    type: 'bar',
-    data: { labels: keywordEntries.map(e => e[0]), datasets: [{ data: keywordEntries.map(e => e[1]), backgroundColor: '#3ecf8e', borderRadius: 4 }] },
-    options: { plugins: { legend: { display: false } }, scales: { x: { grid: { display: false }, ticks: { color: '#8a8d93' } }, y: { grid: { color: '#26272b' }, ticks: { color: '#8a8d93' }, beginAtZero: true } }, maintainAspectRatio: false }
+    type: 'pie',
+    data: { labels: keywordEntries.map(e => e[0]), datasets: [{ data: keywordEntries.map(e => e[1]), backgroundColor: platformColors, borderColor: '#16171a', borderWidth: 2 }] },
+    options: { plugins: { legend: { position: 'right', labels: { color: '#8a8d93', boxWidth: 12, padding: 10 } } }, maintainAspectRatio: false }
   });
 }
 
