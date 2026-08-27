@@ -234,7 +234,7 @@ function renderCharts(data) {
   keywordChart = new Chart(document.getElementById('keywordChart'), {
     type: 'pie',
     data: { labels: keywordEntries.map(e => e[0]), datasets: [{ data: keywordEntries.map(e => e[1]), backgroundColor: platformColors, borderColor: '#16171a', borderWidth: 2 }] },
-    options: { plugins: { legend: { position: 'right', labels: { color: '#8a8d93', boxWidth: 12, padding: 10 } } }, maintainAspectRatio: false }
+        options: { plugins: { legend: { position: 'right', labels: { color: '#8a8d93', boxWidth: 16, padding: 16, font: { size: 16 } } } }, maintainAspectRatio: false }
   });
 }
 
