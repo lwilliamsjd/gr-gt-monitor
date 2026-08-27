@@ -69,6 +69,7 @@ def fetch_reddit():
                 headers=HEADERS, timeout=15,
             )
             if resp.status_code != 200:
+                print(f"Reddit returned status {resp.status_code} for '{kw}': {resp.text[:200]}")
                 continue
             data = resp.json()
             for child in data.get("data", {}).get("children", []):
@@ -122,8 +123,10 @@ def fetch_bluesky():
                 timeout=15,
             )
             if resp.status_code != 200:
+                print(f"Bluesky returned status {resp.status_code} for '{kw}': {resp.text[:200]}")
                 continue
             data = resp.json()
+            print(f"Bluesky returned {len(data.get('posts', []))} posts for '{kw}'")
             for post in data.get("posts", []):
                 uri = post.get("uri", "")
                 handle = post.get("author", {}).get("handle", "")
@@ -155,8 +158,10 @@ def fetch_newsdata():
                 timeout=15,
             )
             if resp.status_code != 200:
+                print(f"NewsData returned status {resp.status_code} for '{kw}': {resp.text[:200]}")
                 continue
             data = resp.json()
+            print(f"NewsData returned {len(data.get('results', []))} articles for '{kw}'")
             for item in data.get("results", []):
                 results.append({
                     "title": item.get("title", ""),
