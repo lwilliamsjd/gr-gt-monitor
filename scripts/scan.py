@@ -12,6 +12,10 @@ KEYWORDS = ["GR GT", "Toyota GR GT"]
 DATA_PATH = "docs/data.json"
 FEEDS_PATH = "data/forum_feeds.txt"
 HEADERS = {"User-Agent": "gr-gt-monitor/1.0 (personal research tool)"}
+BROWSER_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "application/json",
+}
 
 analyzer = SentimentIntensityAnalyzer()
 
@@ -66,7 +70,7 @@ def fetch_reddit():
             resp = requests.get(
                 "https://www.reddit.com/search.json",
                 params={"q": kw, "sort": "new", "limit": 50},
-                headers=HEADERS, timeout=15,
+                headers=BROWSER_HEADERS, timeout=15,
             )
             if resp.status_code != 200:
                 print(f"Reddit returned status {resp.status_code} for '{kw}': {resp.text[:200]}")
@@ -120,7 +124,7 @@ def fetch_bluesky():
             resp = requests.get(
                 "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts",
                 params={"q": kw, "limit": 50, "sort": "latest"},
-                timeout=15,
+                headers=BROWSER_HEADERS, timeout=15,
             )
             if resp.status_code != 200:
                 print(f"Bluesky returned status {resp.status_code} for '{kw}': {resp.text[:200]}")
