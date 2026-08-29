@@ -2098,5 +2098,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-29T04:09:09.119966+00:00",
     "occurred_at": "2026-08-29T03:14:36Z"
+  },
+  {
+    "id": "1787990929899-0",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jRmFYdVJtYUFnQ0sxZ1JYXzVsUmd4eHFoNjJiWHN4WWJ3M3BacU44TnlJemd6dWNpTURGOGtLNlNOSjgxWnBaeGpmMTJMWHE3dlhValdaYXJLbDR4YmRkTlpjU2xGSVNwaDFSWFZUbEpQS0FPeXFtUmMzN1hhZw?oc=5",
+    "title": "Toyota MR2 Revival: Mid-Engine Sports Car Below the GR GT - AOL.com",
+    "source": "AOL.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T08:08:49.898879+00:00",
+    "occurred_at": "Fri, 28 Aug 2026 17:59:04 GMT"
+  },
+  {
+    "id": "1787990929899-1",
+    "url": "https://youtube.com/watch?v=mQZLjT6t15w",
+    "title": "GR GT\ud83d\udca5",
+    "source": "Speedup Edits",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T08:08:49.898879+00:00",
+    "occurred_at": "2026-08-29T08:00:36Z"
+  },
+  {
+    "id": "1787990929899-2",
+    "url": "https://youtube.com/watch?v=PuXjUzDsGh0",
+    "title": "\u30c8\u30df\u30ab GR GT \u958b\u5c01",
+    "source": "\u30e6\u30fc\u30ab\u30fc\u30ba",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T08:08:49.898879+00:00",
+    "occurred_at": "2026-08-29T07:24:07Z"
   }
 ]
