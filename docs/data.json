@@ -2178,5 +2178,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-29T12:10:07.876290+00:00",
     "occurred_at": "2026-08-29T11:30:28Z"
+  },
+  {
+    "id": "1788012529293-0",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVG1CT1BZSmx5YXQtVFZXNDJHV01janQzZ2gtZlhSTEpZMEpIcm1lUFdHOFU0dlBPdEJxODBHOEZYMFp0QjhHVkp6Wjk0cHJULU1FSmFWeFFmSlRPWWhzb1ZjWk5STjAxMk9aZVVmWWhTellLUGZNSWpsYmF4MTN0TE9hbWFoanM?oc=5",
+    "title": "The Clever Engineering That Makes The Toyota GR GT So Special - Motor1.com",
+    "source": "Motor1.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T14:08:49.292636+00:00",
+    "occurred_at": "Sat, 31 Jan 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788012529293-1",
+    "url": "https://youtube.com/watch?v=FhFK_G9kS3Q",
+    "title": "Realistic Forza Horizon 6 | GR GT Prototype | PXN V10 Steering Wheel 2K 60FPS",
+    "source": "AnkuXLive",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T14:08:49.292636+00:00",
+    "occurred_at": "2026-08-29T12:30:00Z"
   }
 ]
