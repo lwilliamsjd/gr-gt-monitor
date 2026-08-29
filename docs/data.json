@@ -2078,5 +2078,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-29T02:08:43.550963+00:00",
     "occurred_at": "2026-08-29T01:23:54Z"
+  },
+  {
+    "id": "1787976549120-0",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZTlCTnV2U0NvWHYzM183S2VEMHVBaEJ4aFhjSGdOWDR1c3FYRUlsVVlWN1VKd3l0M0hpRkRaaEJOX19FMGFocDZCeGF0NnNpSG9mLVlyUXVvd2VaNjRpZGRTQllRTWVjbS15TWFrQXdJUVJfM29TNVozSjY2NTdwWENJblFaSVZweGpQVFpLN29udGVmOHAzcmJ3WUdBdw?oc=5",
+    "title": "Toyota\u2019s GR GT Spills More of Its Secrets at Laguna Seca - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T04:09:09.119966+00:00",
+    "occurred_at": "Mon, 17 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1787976549120-1",
+    "url": "https://youtube.com/watch?v=qj9wL7eyZ-s",
+    "title": "GR GT and GR GT3 at WeatherTech RacewayLaguna Seca #automobile #luxurylifestyle #mercedes #supercars",
+    "source": "H\u1ea3i Phong Official",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T04:09:09.119966+00:00",
+    "occurred_at": "2026-08-29T03:14:36Z"
   }
 ]
