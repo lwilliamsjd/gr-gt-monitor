@@ -2138,5 +2138,45 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-29T10:08:58.226186+00:00",
     "occurred_at": "2026-08-29T10:00:04Z"
+  },
+  {
+    "id": "1788005407876-0",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnYxQ1l4TjFBVEtOWDBSaWtralp0NEh5ZEQ1LXdvR0xhblZWRS1aeEF2V3lwaDVZUndrTGtBRHFHWVFncjZMUk1PSm1jeHlLTEpmdlVDYWk4RF8wNkp2NjYzcktUd2NuUTdRRnZOeUN0UVFadnZkYnpIX0lLaURHeHlwdVhTdw?oc=5",
+    "title": "Toyota GR GT, GR GT3, Lexus LFA Concept Debut - MotorWeek",
+    "source": "MotorWeek",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-08-29T12:10:07.876290+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788005407876-1",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDFrcF9nTG96aVJhTzZTRlMzd3VqRzRRUXRqSkdKQ01oY0xyTFNOOEZnMjlEaWN5TW45WXU4VGI2T0FRTmVEVUFHaFJuUmthWU54X2hWV0ZmcGx5bUItV1l1eFpoV3ltNjJmdXA4d1NVc3ZyRFdjWjN4NEh4NDdjNnFmOTZtWmt6WVU5S2JOb1o4WUE3Q3NxVlAwY3NGQQ?oc=5",
+    "title": "Toyota Knows the GR GT \u2018Makes No Financial Sense.\u2019 But Akio Promised No Boring Cars - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T12:10:07.876290+00:00",
+    "occurred_at": "Fri, 21 Aug 2026 18:27:53 GMT"
+  },
+  {
+    "id": "1788005407876-2",
+    "url": "https://youtube.com/watch?v=k6Pd2TwwFAE",
+    "title": " Toyota GR GT SHOCKS the World \u2013 650HP Hybrid V8 Monster The $300K Japanese Supercar Nobody Expected",
+    "source": "Future Wheelz",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-08-29T12:10:07.876290+00:00",
+    "occurred_at": "2026-08-29T11:52:06Z"
+  },
+  {
+    "id": "1788005407877-3",
+    "url": "https://youtube.com/watch?v=d8lB7Jjl3HM",
+    "title": "Toyota GR GT Mod for Bus Simulator Indonesia | Bussid Mod Download",
+    "source": "GAME LAND",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T12:10:07.876290+00:00",
+    "occurred_at": "2026-08-29T11:30:28Z"
   }
 ]
