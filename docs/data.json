@@ -2128,5 +2128,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-29T08:08:49.898879+00:00",
     "occurred_at": "2026-08-29T07:24:07Z"
+  },
+  {
+    "id": "1787998138226-0",
+    "url": "https://youtube.com/watch?v=5A-qWkge1kc",
+    "title": "2027 Toyota GR GT Spotted Testing at the N\u00fcrburgring | Toyota&#39;s Next Supercar!",
+    "source": "Carspotter Jeroen",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-29T10:08:58.226186+00:00",
+    "occurred_at": "2026-08-29T10:00:04Z"
   }
 ]
