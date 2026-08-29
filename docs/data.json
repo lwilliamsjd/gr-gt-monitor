@@ -2228,5 +2228,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-29T18:08:58.890359+00:00",
     "occurred_at": "2026-08-29T16:40:17Z"
+  },
+  {
+    "id": "1788034153686-0",
+    "url": "https://youtube.com/watch?v=utBBlwW_epM",
+    "title": "2027 Toyota GR GT \u2014 Toyota\u2019s Most INSANE Supercar Yet!  The Japanese Beast Has Arrived | MVP Auto",
+    "source": "MVP AUTO",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-08-29T20:09:13.685826+00:00",
+    "occurred_at": "2026-08-29T19:36:20Z"
   }
 ]
