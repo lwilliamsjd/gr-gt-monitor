@@ -2298,5 +2298,45 @@
     "sentiment_label": "neutral",
     "added_at": "2026-08-30T10:09:06.601893+00:00",
     "occurred_at": "2026-08-30T09:00:31Z"
+  },
+  {
+    "id": "1788091775189-0",
+    "url": "https://youtube.com/watch?v=Fn1YvS3hA88",
+    "title": "Toyota GR GT \u2013 The 650PS Twin-Turbo V8 Successor to the LFA",
+    "source": "SwagDez",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-30T12:09:35.189033+00:00",
+    "occurred_at": "2026-08-30T12:01:02Z"
+  },
+  {
+    "id": "1788091775189-1",
+    "url": "https://youtube.com/watch?v=tJ6mFReE4uA",
+    "title": "Drawing Aventador and GR GT | LIVE",
+    "source": "HG Createship",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-30T12:09:35.189033+00:00",
+    "occurred_at": "2026-08-30T11:45:19Z"
+  },
+  {
+    "id": "1788091775189-2",
+    "url": "https://youtube.com/watch?v=zmuFoY86rEo",
+    "title": "GR GT Toyota",
+    "source": "Ghost_Edits",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-30T12:09:35.189033+00:00",
+    "occurred_at": "2026-08-30T10:48:04Z"
+  },
+  {
+    "id": "1788091775189-3",
+    "url": "https://bsky.app/profile/imgd.bsky.social/post/3mucak5swhq2y",
+    "title": "\u300c\u30c8\u30e8\u30bf\u306e\u5f0f\u5e74\u9077\u5bae\u3068\u3057\u3066\u8a95\u751f\u3059\u308b\u3053\u306e\u30af\u30eb\u30de\u306f\u3001\u5727\u5012\u7684\u306a\u5b58\u5728\u3067\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u300d \u00bb GR GT World Premiere | GAZOO Racing https://toyotagazooracing.com/jp/gr/grgt/wp/ ",
+    "source": "@imgd.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-30T12:09:35.189033+00:00",
+    "occurred_at": "2026-08-30T11:02:47.298024Z"
   }
 ]
