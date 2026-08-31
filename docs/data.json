@@ -2408,5 +2408,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-31T10:09:06.312272+00:00",
     "occurred_at": "2026-08-31T08:08:58Z"
+  },
+  {
+    "id": "1788178183136-0",
+    "url": "https://youtube.com/watch?v=BKKbBE0l2B0",
+    "title": "Toyota GR GT",
+    "source": "Baryum H\u00e9lium",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T12:09:43.135954+00:00",
+    "occurred_at": "2026-08-31T11:20:44Z"
   }
 ]
