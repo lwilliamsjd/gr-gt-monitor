@@ -2448,5 +2448,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-31T16:08:56.691006+00:00",
     "occurred_at": "2026-08-31T14:45:00Z"
+  },
+  {
+    "id": "1788199757426-0",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGVWZ2a0ZjT0xpeEkybGFKd21lZjRpaGFHTjJCemFmRzRGbDNIc0hEQWhqRlowQ2o4QVZtYi1nbWtWMEE4LXpiQ0J2aUVDZzA2UGVkZVVucw?oc=5",
+    "title": "2027 Toyota GR GT Preview: Specs, Price Photos, Release Date - CarsDirect",
+    "source": "CarsDirect",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T18:09:17.426197+00:00",
+    "occurred_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788199757426-1",
+    "url": "https://youtube.com/watch?v=9L2a1mmMmZg",
+    "title": "Do You Love OR Hate The Look of the New GR GT?",
+    "source": "Doug DeMuro",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T18:09:17.426197+00:00",
+    "occurred_at": "2026-08-31T18:00:10Z"
+  },
+  {
+    "id": "1788199757426-2",
+    "url": "https://bsky.app/profile/handle.invalid/post/3mtntsc6o762x",
+    "title": "Toyota GR GT: Sound-Check des neuen V8-Hybrid-Sportlers\n\nhttps://mst.site/PirQh",
+    "source": "@handle.invalid",
+    "platform": "bluesky",
+    "sentiment_label": "neutral",
+    "added_at": "2026-08-31T18:09:17.426197+00:00",
+    "occurred_at": "2026-08-22T10:21:26+02:00"
   }
 ]
