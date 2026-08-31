@@ -2368,5 +2368,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-31T06:10:59.158163+00:00",
     "occurred_at": "2026-08-31T04:14:46Z"
+  },
+  {
+    "id": "1788163893074-0",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXByakhHdkotX0hxRkRUdW9qbXoydGxncEt2bjZkMWVsa0lQand6dXU0WXN3b0hWTkd5SGM1QktuSE5IdU5MaTRwcnZwY0x0T3hUVGEzVFlqb3lrNFlNcnRoNURXcjVuVXFKVHI2MXd1SXVFZzg4T0hjbUNHMHVjMU5Qa2RxdEhzY3ZRZGNYVDNFd01EYnc?oc=5",
+    "title": "Everything We Know About Toyota\u2019s Sports Car Onslaught: GR GT, GT3, Lexus LFA - MotorTrend",
+    "source": "MotorTrend",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-08-31T08:11:33.074235+00:00",
+    "occurred_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788163893074-1",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDExTkZmaGN4ekxhQ1JsUGEwdGFWMW1zbjJmX0JaRVVNa1lYc2R6MTdJVnRQQmNhLVA2Y3ZtRzMzYVI4aGxhM3dFTVBGQkp5Yk1vUVBjcjdpeGVieWQyQkUzQXNNR2J4X1hCZUdzbVBINUhGbUpZRDRJcGV2Q3B5WWRNUkJqa2Z1akJtRlFZOHVwdEtvdUUxZTZfODNBMjFIS2c?oc=5",
+    "title": "Check Out the New Toyota GR GT, Toyota GR GT3, and Lexus LFA Concept - Autoweek",
+    "source": "Autoweek",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-08-31T08:11:33.074235+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
   }
 ]
