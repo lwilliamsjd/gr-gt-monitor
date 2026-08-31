@@ -2418,5 +2418,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-31T12:09:43.135954+00:00",
     "occurred_at": "2026-08-31T11:20:44Z"
+  },
+  {
+    "id": "1788192536691-0",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2F1WG9yUXlRR2xBX29Fak1iQU1IcmxrZjNxc0F6d2RkYkh5LTRNdXJ2VWVqMFZ3YU5vUUZHV00ydFJEdnY5Rm1ydlBkRFpFbXBxZFJkVjgzVjJGOTRla0hNeWFBb3d6bmx1TjlrZldIS2xwRmdXOHB6RVc0MUhLTnZIUmJNZlhGRXNYLXFXZHhPcldFd0hGSDc3YUlXMEJm?oc=5",
+    "title": "TOYOTA GAZOO Racing presents the world premiere of the GR GT and GR GT3 - Toyota Europe Newsroom",
+    "source": "Toyota Europe Newsroom",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T16:08:56.691006+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788192536691-1",
+    "url": "https://youtube.com/watch?v=H_usRWWdP2Y",
+    "title": "Stock vs Tuned | Toyota GR GT",
+    "source": "pleromatic",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T16:08:56.691006+00:00",
+    "occurred_at": "2026-08-31T15:30:21Z"
+  },
+  {
+    "id": "1788192536691-2",
+    "url": "https://youtube.com/watch?v=6lfc_4sJlQ4",
+    "title": "GR GT  VS   GTR",
+    "source": "GTR",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T16:08:56.691006+00:00",
+    "occurred_at": "2026-08-31T14:45:00Z"
   }
 ]
