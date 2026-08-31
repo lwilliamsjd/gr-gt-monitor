@@ -2488,5 +2488,45 @@
     "sentiment_label": "positive",
     "added_at": "2026-08-31T20:08:49.891736+00:00",
     "occurred_at": "2026-08-31T20:00:23Z"
+  },
+  {
+    "id": "1788214122519-0",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdExfcWl5d3RCRUh2cXoyT2I5Wmdad2lvN3ZsM2ZuTlZKS19QVmwxcVozNjNSdUhLUmhPZEFtSzZGUkhtWHZlQkVYcFJwNVlhQW1IS21BWUlDYUo2WG5oTzVTNDVHQXVtSnJMQVZzUEU0VlI3T1JPbHB4NVlhQWRDWVJXM3pMQVJPdzlQT1NTVXNsWWtVRm9uM1ltMWZ1S2c?oc=5",
+    "title": "Toyota Hints At A Wilder GR GT With Porsche 911 GT3 RS-Style Aero - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T22:08:42.518748+00:00",
+    "occurred_at": "Sat, 11 Jul 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788214122519-1",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXA0Q2ktMm1ydndRX29FQVQwYVdPWDlYckQxbGhqOU5QQU9GbHBERXZTVmx4S2lNakd0ZVZYMVZ5bHJfbzhHUkJHRlVwRHNjMThBWHRpSlBRYXVlTS05NjJpVUw2TGpxOHM1SDU1NkYzbFRTbTE5aFhTMU0tVTNCanRMbXJPSHRGdXBoTmV6LXhuWUVKQWJpTEFEczgxYkJzSE5sWm1WbFNtY1M0bXg2OUdOQTZtZzh0TnFrLXByUU1ScFF6R1V4cmVn?oc=5",
+    "title": "Spy Photos: 2027 Toyota GR GT RS Track Version Benchmarks Against Porsche's 911 GT3 RS - autoevolution",
+    "source": "autoevolution",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T22:08:42.518748+00:00",
+    "occurred_at": "Fri, 10 Jul 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788214122519-2",
+    "url": "https://youtube.com/watch?v=AZjQ2kNNPCQ",
+    "title": "What the Electric Motor in the GR GT Is For",
+    "source": "Brian Makse",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T22:08:42.518748+00:00",
+    "occurred_at": "2026-08-31T21:45:23Z"
+  },
+  {
+    "id": "1788214122519-3",
+    "url": "https://youtube.com/watch?v=SWqLyJnmaLk",
+    "title": "Toyota GR GT edit",
+    "source": "f4_ ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T22:08:42.518748+00:00",
+    "occurred_at": "2026-08-31T20:08:46Z"
   }
 ]
