@@ -2478,5 +2478,15 @@
     "sentiment_label": "neutral",
     "added_at": "2026-08-31T18:09:17.426197+00:00",
     "occurred_at": "2026-08-22T10:21:26+02:00"
+  },
+  {
+    "id": "1788206929892-0",
+    "url": "https://youtube.com/watch?v=J1HlvlxaxkU",
+    "title": "Tomica - Toyota GR GT #GRGT",
+    "source": "CJ Mac TV",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-08-31T20:08:49.891736+00:00",
+    "occurred_at": "2026-08-31T20:00:23Z"
   }
 ]
