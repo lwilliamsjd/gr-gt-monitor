@@ -2568,5 +2568,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-01T02:15:12.628795+00:00",
     "occurred_at": "2026-09-01T01:42:44Z"
+  },
+  {
+    "id": "1788243693882-0",
+    "url": "https://youtube.com/watch?v=dowxi3aPbNA",
+    "title": "How to make a 1989 MR2 SC sound like a 2025 GR GT in FH6",
+    "source": "Martin Square",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T06:21:33.882186+00:00",
+    "occurred_at": "2026-09-01T04:58:13Z"
+  },
+  {
+    "id": "1788243693882-1",
+    "url": "https://bsky.app/profile/speederyt.bsky.social/post/3muglqa4iyc2o",
+    "title": "somehow a game(spiritfarer) from like 2 years before the gr gt was even teased has a drawing of a car pretty close to the final design of the gr gt",
+    "source": "@speederyt.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T06:21:33.882186+00:00",
+    "occurred_at": "2026-09-01T04:33:41.796Z"
   }
 ]
