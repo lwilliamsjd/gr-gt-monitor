@@ -2608,5 +2608,325 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-01T08:18:13.704460+00:00",
     "occurred_at": "2026-09-01T08:02:33Z"
+  },
+  {
+    "id": "1788257823688-0",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUHNaSWFBR1JzYXlONWd5b3o1Qk9WWTBNZmtBYk5hNUtMVGFhZTRuRlJTM0dkMXV4dms0ZGZxbUtubjhFelpTUXFmbjFRQ0V4YUFCbnkxLS11N3Z2SUc5ZlJqYmlleHplNkxhSA?oc=5",
+    "title": "Here\u2019s the Toyota GR GT in Red, What Do You Think? - autoweek.com",
+    "source": "autoweek.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 12 Jun 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788257823688-1",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbTBwV3ZoZzhGczdjcGhYaGJUbVNqS2tQM0lMRFM3YVpWbEstb0dWY01qbG51UmxHTlJhNXd3QVFQZkNVSDNvMEdadHl6NjBTc2Nz?oc=5",
+    "title": "2027 Toyota GR GT: What We Know So Far - Car and Driver",
+    "source": "Car and Driver",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Tue, 02 Dec 2025 17:40:34 GMT"
+  },
+  {
+    "id": "1788257823688-2",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CUDZUR1NRQktuOUkyOUNOT2thTHcxY3REWTcwbVQzcFhsSWVNeUdhX2xBa2NqWWY1bHoycVRXUXlXblRZbkZ5dEtubU1WUXFiR0tEWDBOMU05SVNsNXRsUEdzUHFlaXc3ZXRsM2ZPTjBlNU5JQXV0UlJn?oc=5",
+    "title": "The Wait for Toyota's New Supercar Is Over: Meet the 641-HP, Hybrid V-8-Powered GR GT - roadandtrack.com",
+    "source": "roadandtrack.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823688-3",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ob3hsQ2MyS09GUnFTSU9zV2JpNnhxVUdBTkJhTmc2R2FzMEtFZGFwZTlxRmEtcmxjQ3Rfc3VDdzRDZGNLb2RDd0tvdjBLZTc3WHJLak1IaWRqcnFCQXVkdUVkenVvUFZobUNfSTFlLS1HRzgx?oc=5",
+    "title": "Toyota GR GT Supercar Revealed - Motor1.com",
+    "source": "Motor1.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-4",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96Q1BMeHpnQm9WYkhETDA4SGtqdTZiVVdSTmtwenlvX3JrSzF3OGJVM2dzVHZ4N0ZfYnBkVUljZ0ZCQ1BSMXBsNnVTVnYtWjFJZ0k4dWNtRm80bi0wREE?oc=5",
+    "title": "Finally! The Toyota GR GT Is Here, And It's Ready To Hunt Supercars - carbuzz.com",
+    "source": "carbuzz.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhRXNpSjQzT0JmOGJDYUMtd04yT0tLakREbU1vNVFKLUg2LWYyNTRCMnM3WWdpZ1FHRkxWNXgyQ1JMMFdWZm5tOWVDOThrQVNxNVE4OTQxN3poQ3BoYkVXdU8wd2lfcnc?oc=5",
+    "title": "GR GT, GR GT3, and Lexus LFA Concept World Premiere - GAZOO Racing",
+    "source": "GAZOO Racing",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-6",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGlqQ3Nnb1ltdnloNU9EeHROMVJmNGI4bGNpZEczMWlzZEl3cXMxSmtfTWxtOUlOaVpJU3JCXzFKOXpDbWdBcUNLVnlrbXVrMkRlLVZEN1Z0dG5tMEIxblE4cm8wNHlVa0JLUUswYUpEV3pKNXBSVncyaVQxNDBPRDExSjE1R19z?oc=5",
+    "title": "View Photos of the 2027 GR GT, Toyota's New Supercar - Car and Driver",
+    "source": "Car and Driver",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-7",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3FwQXNYZ2pERmJMNWxJbjRLSGZrQ1U0U3V0MGV5c1UwNHRHZ18zWmpFTVp1YTZ2YzFIQzc5TGpJQ0JrRlQ4LXlGOWRTQUJYZkw4eTJMdURhRHdSLXlUdC1mYW9scms5dTdQSTljYmtlYXJVUWdBZ19PeVJaVTF5aU55RVNqUUNhU0xhZk9ZbXU?oc=5",
+    "title": "First Look: Behold, the All-New Toyota GR GT V-8 Hybrid-Powered Supercar! - MotorTrend",
+    "source": "MotorTrend",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-8",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlQ4NkJuWTJGU1NDT1BqVnctWkVzTldnZzlBTnRqVUdKZUF6MDJJeWhXQjNXc2Q0QThTanZOWm1oZTJjUkNIWnNZWGxESHcxb2pUVnZxWmtBZl9NQ25LX0xFd1lncHlnUFVjY3UxR1c1Ym1SdDdSTnNYUmpsS19Bem5qeXh0V2M?oc=5",
+    "title": "Toyota and Gazoo Racing Look to Slay Supercars with the New GR GT and Its Hybrid Twin-Turbo V-8 - Car and Driver",
+    "source": "Car and Driver",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-9",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwOEZMLXV5dEs2S0JISmhnRTBDYU1fNzZXbnUyRjhYSU5aN204Zll3MURjQTdTd05YQkRFTE8tZ3pFN2RHUjZZWU5rUFZLekVBZEt3S0dRcEF5dmJwRU44?oc=5",
+    "title": "Photos - Toyota GR GT - Motor1.com",
+    "source": "Motor1.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 02:07:00 GMT"
+  },
+  {
+    "id": "1788257823689-10",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWZsRW9aTkU1RXhRemZjVm5MQV9oRjBNTmVRZGtlZFE4UV9TTHc2Q1E2eW5FLXVJMG1rOEIzSTZwMWlTdjREdlRBWS1TUjlUV2ppYXgwcEhxYm13X0Nya0w2azdSZllXamRXRWdmVnhoc2U5bDNNWnpCODRreWxvU0t4NXZmaUk?oc=5",
+    "title": "Toyota GR GT Supercar Picks up Where the Lexus LFA Left Off - Hagerty",
+    "source": "Hagerty",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-11",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTBqSVhWbWs2MDdqQkhDdThRdDdhNUhwYWxEWmthNndRcEhacUJvcjItUnBfUXZzR2V6TFo3WmxRbGdJajhVMFBhVjUtOWtuT1l4UEw0M2JQMWtsektpbWhabmVxM3JaZHJNbWhmY1I5T1ROeHhkQm1ldHVWU1E3Vy1n?oc=5",
+    "title": "At Long Last, the Toyota GR GT Is About to Arrive. Here's Everything We Know So Far - roadandtrack.com",
+    "source": "roadandtrack.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Wed, 03 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-12",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTJONWtZYWg0V0R2SWJ4cjVUeFRSNGF2S3poOG1pUG1LUnlyTkpSTGk5V1l5bDQwUWx3MzY5UHBmRG54c1pYZ1MzQTN6Uy1WY2lhSlVCT0FfZllRSTZqYzNrbmVBVmh4TFdzc25HQ0JYdUpUbmJybHhVaHhMdUp0cTZPZVc4VUtJZUhyVTgyNllsMkMtc0E?oc=5",
+    "title": "Toyota's LFA Successor Is Officially Called the GR GT and Looks to Ditch the Toyota Badge Entirely - Car and Driver",
+    "source": "Car and Driver",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Mon, 01 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-13",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNExaRTZIdExyWHUtd0F0V21pcFVZcnhaVjVwOURLcmNTYVJWaWptV1NrZEN4dWt6Y3Voc1AzaEVFZFJiOXAtOWloQkZ0NUNmNDA4N2JjXzhtMHc5Y3RVTV9iZDNpblB2c3FaMTJfR3ZkeHF3YU5UNWNsajBkcUg0TGFJQURPa0xQNnR2enBvc3lPRm1YR1pEUkp2U2xFb2s?oc=5",
+    "title": "Don\u2019t Call It a Toyota: The GR GT Is a V8 Hybrid Race Car for the Road - thedrive.com",
+    "source": "thedrive.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-14",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hYjZkT2lVaXN6WjQzR1V5TnVXQkxrLVJSOU9XZ2ljSERyYllSTUVNazdESE5IWFpMMEVHYThmMmNyelk5WkdZdktnNS1DMDVRSU1GbmpvNHlMd0Q4SVo4WDVUWTIzXzdu?oc=5",
+    "title": "TOYOTA GAZOO Racing and Lexus Hold World Premiere of GR GT, GR GT3, and Lexus LFA Concept - \u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e \u516c\u5f0f\u4f01\u696d\u30b5\u30a4\u30c8",
+    "source": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e \u516c\u5f0f\u4f01\u696d\u30b5\u30a4\u30c8",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-15",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWdFU2FmUUNVdWJsYk5ydUV4YlBROHlibmlNRDdXYUpKVGhqd1IxZGQwV2R6aGhGT1N0bDlEOWdNV2RLN2l0VE5UMHNNclpYdVVGeWVpR0VuNWJ4SFFXN1hZZjFpaFRkVmlucHJLQnZxbUg1SGJRVm5Zd3gxWE1EdUo5TkRWS3R2UWV6Szh4QQ?oc=5",
+    "title": "Toyota Gazoo Racing Reveals New GR GT and GR GT3 - IMSA",
+    "source": "IMSA",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-16",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGQtQTJpb3hndmJ5VS1DMHlWU29BcVpVb0hvZHdwUndoLTlmMVFzV1FkUnI0RjF5MWxrWXpsYWNBeUQ4Z3p6X19YNHM5Ykh0X0RWcV92ckN5clJNSUp4OUhqUS1FdVdTdFl0VndTZVl1RHBCS0ZhT2NvS20ydlFiOFlzTUZ0NC16eVJWakY4RG1MczJWOVdrMUtoMzAzTTd5NXc?oc=5",
+    "title": "Toyota Teases Undisguised GR GT Supercar Ahead of Official Debut on December 5 - roadandtrack.com",
+    "source": "roadandtrack.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Mon, 01 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-17",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk91YjVDcndSMUVHZDEwSUwxZUx0V0RIWHYwYmNVMmNGb24zcEFiVUl5OGZhLXVxLVh2ZFN1LWR6MGVydm9FQWhlb0ZtV0xjQ1VhQjdVbEdERFhzWW8xakJBSFpGOVdMQ1FCX2V6Q1pFb29Ga2hNajJRT2FzT19ScGR2X2thRmJETDN1ZDhFLXRNLV9wZGp5WjNaOTNXTjg5QkE?oc=5",
+    "title": "The GR GT Won\u2019t Be Sold in Toyota Dealerships. So Where Will You Buy One? - thedrive.com",
+    "source": "thedrive.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-18",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcEItVGFRWkY1eDI3SGFLZndxYWVxc2pUV2FNTHdnRGptSV90X3hLVFQxM1ZoRGU3SWpNYzdvc1pla2RIcW5JZzhGUTFreEx0em5JODRsTkhlODk1aGZCNG1pcXJkVzN3SGRDeXMyaGVGTlBlcTJwVThsQlZtSE0?oc=5",
+    "title": "Toyota\u2019s GR GT Will Be a $200,000-Plus Supercar - thedrive.com",
+    "source": "thedrive.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-19",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ME9SNGExekZvSVlheWZyVWtPZkd2OUxQeUoxc2ROZ1RrOUlIbkxzWlNsMWpkbTVkYUdxdG1iMS1BV2pVaW43eWdJaXJfcmR4ZjZYX1VtWXdxVGdjNzNrNWNMM3BxMWN6?oc=5",
+    "title": "GR GT, GR GT3, and Lexus LFA Concept World Premiere - \u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e \u516c\u5f0f\u4f01\u696d\u30b5\u30a4\u30c8",
+    "source": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e \u516c\u5f0f\u4f01\u696d\u30b5\u30a4\u30c8",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-20",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cEszbjBqTUptSlpMYUhQb011bnoxOUdDUk1pdm9ac1pYNm5LSXBPMjVjcUhXblU3d014UVR1M2pGMlc5aEdGbUJWQzZYem9oU1NSeVZOcFJuVnphd0tSTGRNVnpLd0E?oc=5",
+    "title": "TOYOTA GAZOO Racing Launches \u201cTHE OVERTAKE\u201d TV Commercial for Its New GR GT Flagship Model - GAZOO Racing",
+    "source": "GAZOO Racing",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-21",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaUpsbmQ1S2lUTXF3eE1GUEp1YkJoT2dTZnRKYTMtSE9SdERXcXFqX3NLUUdwczBHSlh5X3hCY3F6bFA5bnlVVzVvM3V1cW1XeDFCSkVyQkVyNW40clZvMUo5TEpLM2NEeEZLWTZ4QUNRRHZDUGZDMGRkMUtZMFNSR3NmakJlY0k1dUNKN3l5Nlgyb0ZoakpEOXd0aW1LbU9LanNER0Y0cWVEWV9ydVVpTFlMbjU0bktxd3ZB?oc=5",
+    "title": "The New Toyota GR GT & GR GT3, An End Of The Year Knockout Duo - Monochrome Watches",
+    "source": "Monochrome Watches",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Sat, 20 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823689-22",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGx1RDJrZllaNkpMbHhSX08tTWhUMlJmelVhLTV4ZXRaMlVTQVBmeHAzNGMwVDdLek03SnhuN0hSTWdNLTFSZzhWb3N4ckZEb2VFMmNqUzM0ZWhrSmpQazBYTV9LVWE2ZVVyNl81YjdOUnc5dXlOTGE1SVBwWmJEWmxjdXRSbGJqcmRV?oc=5",
+    "title": "Toyota's GR GT Supercar Debuts For Production With Twin-Turbo Hybrid V8, Absurd Proportions And Race-Driven Engineering - Jalopnik",
+    "source": "Jalopnik",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823690-23",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWV80N2pWeXhpdFFRWV9rWXM2dUxLQ0c2RUVUeEZiWU9SaEpCUzcyMXplVUNzd2FZUEJSbTVfV3V4Z0NQWmk3RndXR0RHbDhBX0VOM1ZYWGJpYXM?oc=5",
+    "title": "GR GT / GR GT3 | Toyota Motor Corporation Official Global Website - \u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e \u516c\u5f0f\u4f01\u696d\u30b5\u30a4\u30c8",
+    "source": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e \u516c\u5f0f\u4f01\u696d\u30b5\u30a4\u30c8",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823690-24",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pQ1M0VUswRWNoOERJVV9Bb3lvTFhBNzNhTXNDUWp0dksxOUNDbWR4WTdhNnVBaDJidXhrMU9jcFJxVVg1MVAyTlFGNmt4VklySEhvRFVRUWlGd040NFZBa1JWTV9wMmlCYVpYVTFpcWRTc3cx?oc=5",
+    "title": "Finally - A First Glimpse Of The New Toyota GR GT Without Camo And In Action - carbuzz.com",
+    "source": "carbuzz.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 28 Nov 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823690-25",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX2Mzb1FRU1hJU2lNaWZULUN5d2hxV3lqQ1RLTjN6R2FSQjJlbkc1UUpFRC1zLUlqbm1fdDhLRWduTmN6cEVVT3h3WkdZRWlidDRycnRlRS1HS1RzdGFZOG9BaG4zMUNVa0hZNG9OVGFHOGZTci1pU3dqSTRudllzdWtvUFk1V3kyVzlVRw?oc=5",
+    "title": "Here\u2019s What the Toyota GR GT\u2019s Twin-Turbo V8 Sounds Like - thedrive.com",
+    "source": "thedrive.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 11 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823690-26",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEsxVElhSnpoX2JDWkM2ckcxRzFKYk8yTE93bjk0d0dfbEtOSXJSTV80X1lmanp4bnJZdzF1OTlWYXA4a09NRDFqZTROMTBLRXBLQV8yV1JsNlJiRnhGU2E0UGl1WXNxQmJCMG12ZXVzb3E1amwtOWoydlpKMEJlWi1iWlctNDVuN1NjZms4aGZ2VE9LS25zZWNKSk85cHlJUE91Nm8zUGY?oc=5",
+    "title": "The new Toyota GR GT is a 199mph+, 641bhp V8 supercar that wants to take on the AMG GT - Top Gear",
+    "source": "Top Gear",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823690-27",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTZsbkttVlFDczItbUNiWXNodkhYemt4ZENFTGxKanVyVWdTSUV6V3F0NGFzUHlvbVVQVE5idlhhMzJHOGlEY1ZEaERhZThJT1NUU3FpdUNtMFBKN3B0bHlXS3ZoVy1SaXhaSXlRSTBjTG81ejI1LVVKRnAyem90V3pFc050d054X3pvVjRJVFQtbThnbjd6WDdNMmdRSDk0aFVqSTM0ZWQ4eEQtaHc?oc=5",
+    "title": "Making Function Sexy: Toyota\u2019s GR GT Was Designed for Aerodynamics Above All Else - thedrive.com",
+    "source": "thedrive.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Tue, 09 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823690-28",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUFiNHFNUDZ4eGVaRXdTOUYydkJVQjFsRG05Vm9HbHlvWDY0WUZ1S1RoTzhvaWlzZGZCQnE1aG00MVpGWUlDdXF4Tkc2ZG00Q1Y1clFlNUhQTDFnUWRRcGZUYzZzLVFKNlB0V3ZNYkpHZ2YzM1dhczdOUDBIRzl6czI4ekF3QVZFWVlxYXJpUQ?oc=5",
+    "title": "Gallery: Toyota GR GT, GR GT3, Lexus LFA Concept - autoweek.com",
+    "source": "autoweek.com",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788257823690-29",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEltS3FzVFEtN1hWelItR0dpTHU2S08xdlZGSmt4aFB3YTdDZGpabGs1TkNZQ3ByajM3X3o1RDRMSWFvZkdhb2JXMExIUTdjNDZud1ZGa2tRN3hFemZJcUhnRE40RVg4TDEyU2lTaDR3X3Z4WmtJdDdUdDJjaF9qMFRsejZVQjNjSXY4Sw?oc=5",
+    "title": "GR GT3 Won\u2019t Race at N24; 2026 Debut Still on Cards - Sportscar365",
+    "source": "Sportscar365",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "Mon, 13 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788257823690-30",
+    "url": "https://youtube.com/watch?v=FAol0UdQYcE",
+    "title": "2026 Toyota GR GT Design preview",
+    "source": "AutoMotoTV",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "2026-09-01T09:40:13Z"
+  },
+  {
+    "id": "1788257823690-31",
+    "url": "https://youtube.com/watch?v=9-7E8tL8Rwk",
+    "title": "TOYOTA GR GT Impossible Drift Parking #toyota #beamngdrive #drift",
+    "source": "Bear Slides",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T10:17:03.688634+00:00",
+    "occurred_at": "2026-09-01T08:19:02Z"
   }
 ]
