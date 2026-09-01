@@ -2588,5 +2588,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-01T06:21:33.882186+00:00",
     "occurred_at": "2026-09-01T04:33:41.796Z"
+  },
+  {
+    "id": "1788250693704-0",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObl9CVUJBQ01idFNNNEtiRGZjQlcxaXZZZG5oLWUwZTdnazU3NDJCcEd3SzJwMmF6RzFnX2FibF9aaXNaS1JlZk9lOGNMWUFBUVNCVWQyWVV1RmdGdFZoWG9VdTMySERxTXZzaXdjZXNhb3RxeWk4VlhldTlyUU1wa1Vsc2x3UmlzMEV5YXBlS091VHdmTk5RcFpSUHZLVFlNYW9V?oc=5",
+    "title": "Toyota Says GR GT Production Won\u2019t Meet Demand \u2018By Design\u2019 - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T08:18:13.704460+00:00",
+    "occurred_at": "Tue, 18 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788250693704-1",
+    "url": "https://youtube.com/watch?v=QhtQ21EJhHg",
+    "title": "TOYOTA GR GT \u30c8\u30e8\u30bf\u306eV8\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30b9\u30dd\u30fc\u30c4\u30ab\u30fc\u306f\u30dc\u30f3\u30cd\u30c3\u30c8\u304c \u3081\u3063\u3061\u3083\u9577\u3044\uff01 #gr gt #toyota #shorts",
+    "source": "\u30b1\u30f3\u30b1\u30f3\u306e\u81ea\u52d5\u8eca\u30c1\u30e3\u30f3\u30cd\u30eb\u3010I love automobiles!\u3011",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T08:18:13.704460+00:00",
+    "occurred_at": "2026-09-01T08:02:33Z"
   }
 ]
