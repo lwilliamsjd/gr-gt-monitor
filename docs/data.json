@@ -3098,5 +3098,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-01T16:40:19.188188+00:00",
     "occurred_at": "2026-09-01T14:25:44Z"
+  },
+  {
+    "id": "1788293798477-0",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1ZZdGx0Ym9ZOENIWVVtWDBSSExJbHZZTzFCZ2J1b1hlWm5zVGV4MzFYeExjVlNWMTlreVB3MnJBa0Z6UUw1dmN6dVhrZk1OQ2NockdIOTJQRUNaMTdobjd6LUZXeUZoRGhabVhrNm9ob19lNGlyWTF1cEw0ajJFaUJOWS1LRks2c1Nmb0oyVUhfTllpdE8zU3V1Ujc?oc=5",
+    "title": "Buying Toyota\u2019s $225,000 GR GT Will Feel Like An Interview Process - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T20:16:38.477069+00:00",
+    "occurred_at": "Wed, 27 May 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788293798477-1",
+    "url": "https://youtube.com/watch?v=iSx53BLCMU0",
+    "title": "Toyota GR GT edit",
+    "source": "f4_ ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T20:16:38.477069+00:00",
+    "occurred_at": "2026-09-01T20:06:37Z"
+  },
+  {
+    "id": "1788293798477-2",
+    "url": "https://youtube.com/watch?v=yylIhuAmyzE",
+    "title": "GR GT vs Lamborghini Temerario",
+    "source": "Drive RTX",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T20:16:38.477069+00:00",
+    "occurred_at": "2026-09-01T18:48:01Z"
   }
 ]
