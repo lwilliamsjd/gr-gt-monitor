@@ -2928,5 +2928,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-01T10:17:03.688634+00:00",
     "occurred_at": "2026-09-01T08:19:02Z"
+  },
+  {
+    "id": "1788272221273-0",
+    "url": "https://youtube.com/watch?v=S7oMuHMu5ls",
+    "title": "Toyota GR GT \ud83d\udd25\ud83c\udfce\ufe0f | Building the Ultimate Toyota Supercar from Tiny Parts!",
+    "source": "Mini Motors",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T14:17:01.273061+00:00",
+    "occurred_at": "2026-09-01T14:01:20Z"
+  },
+  {
+    "id": "1788272221273-1",
+    "url": "https://youtube.com/watch?v=2Mol74E7vh8",
+    "title": "Turn on the sound to hear the Toyota GR GT and its new 4-liter twin-turbo V8 engine",
+    "source": "Rev Hunters",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T14:17:01.273061+00:00",
+    "occurred_at": "2026-09-01T12:52:00Z"
+  },
+  {
+    "id": "1788272221273-2",
+    "url": "https://youtube.com/watch?v=rQAHdLyU0hw",
+    "title": "TOYOTA GR GT #toyotagr  #fyp  #jdm  #toyota  #cardesigner",
+    "source": "Shift.1X",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-01T14:17:01.273061+00:00",
+    "occurred_at": "2026-09-01T12:40:35Z"
   }
 ]
