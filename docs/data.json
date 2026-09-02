@@ -3298,5 +3298,55 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-02T08:18:20.388421+00:00",
     "occurred_at": "Tue, 18 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788344270285-0",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCWkZGeXh1ajNVOFE0aDFRVG9fTEVyNTV2MWplSlZmbV9mdURWSmNLeGpOYmVVRkNBdXEyMUVXZzRUbHVfdUZ6OVROWnl4eXV0dkkzSUV1N28wZzdNMXkweG5TZWFZd0U?oc=5",
+    "title": "TOYOTA GAZOO Racing World Premieres GR GT & GR GT3 | PRESS RELEASE - GAZOO Racing",
+    "source": "GAZOO Racing",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T10:17:50.285194+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788344270285-1",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczN2TTAyNU1naWduMkdNb3BIbjZvX1ZCSGxXaE5zTTJ3Y1FRc3RSWjdMZG5mUnZ6cEZneVB0S1BDTExUNUZkejZTcGZjc3JfaU5ISjNlMHFib0hveDVhNEJzTjJNSlE1ckQzMXZib1JGdUxYcXRqeDNpV1NLbEFPYnJ5Z2hhQ25qYjdmd0RqWGR1bTF5MmFFb0JtdERDLXVnakE?oc=5",
+    "title": "TOYOTA GAZOO Racing GR GT3 revealed in new Forza Horizon 6 cover artwork - Newsroom Toyota Europe",
+    "source": "Newsroom Toyota Europe",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-02T10:17:50.285194+00:00",
+    "occurred_at": "Fri, 23 Jan 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788344270285-2",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2hFbFhpVjBDRncycUJLN3hsRkF6bXIxOXdSSG5LOUJvSEl1c0E2Z3FOLWdMWW9ZeHB2NGsta1VBeUwxZk1ielFvOEVnTnNUZEk4RUJHenh5dlhEZWR6ajZWdkJ0ZzltSi1VSlE2T1NXbjZOak42LTJKWVVqZXNUeEJ1YjFyZ2plbWFXc2pGZ3kzWEtQZGpZZkEyeUFaNDBwQVFycWhn?oc=5",
+    "title": "Toyota Gazoo Racing unveils GR GT and GR GT3 - Professional Motorsport World",
+    "source": "Professional Motorsport World",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T10:17:50.285194+00:00",
+    "occurred_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788344270285-3",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SR2w5TGhBdEdRaTRyNzZqUnRFRTh2cUtzbXZWQ2VBUWpqcUZxWjBDV2ZoMXlvSGdIU2JKdHpuakVWSEI2YmVrTEdYN3FtazRQSkJRc2hVOThYanZkRUhtQVNHdw?oc=5",
+    "title": "Toyota GR GT Unveiled - Supercars.net",
+    "source": "Supercars.net",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T10:17:50.285194+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 07:50:24 GMT"
+  },
+  {
+    "id": "1788344270285-4",
+    "url": "https://youtube.com/watch?v=Slqxc5j4E7c",
+    "title": "GR GT vs Lamborghini Temerario",
+    "source": "Drive RTX",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T10:17:50.285194+00:00",
+    "occurred_at": "2026-09-02T08:34:50Z"
   }
 ]
