@@ -3558,5 +3558,75 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-02T16:17:50.021137+00:00",
     "occurred_at": "Fri, 23 Jan 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788373229661-0",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjV0c0FGWEZpTXJtd1F4c0c2MlF4YTRCa0UwWW9Yak9mMGVHTlB3ZmtiWGlIdzNlNTFkZlhrWEdENFZGdmlTSE1sQ0Z1T0h1c09WTGdELVdMaEwzOGxJT3ZyYnhoVWpkUjNRbzJyZ0w2RFdaZGxVNS1OSUFtU0hXbHEwVFlnNTNROFFxUjZYZmo3a3Ezb0xkOXpodDVEX1dXakhz?oc=5",
+    "title": "Toyota Says US Allocation of GR GT Supercar Is Already (Basically) Sold Out \u2018By Design\u2019 - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T18:20:29.661086+00:00",
+    "occurred_at": "Mon, 17 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788373229661-1",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmtDaWcyUl93NzM3dURkWkpwclhBMnBUaE9qRGNMRU5BSHk5NTZleWhBcW5SeURNTDZFRDZud2t2WlFNVTdudXh4TFhEM0pCZFhORUpQQUYtdmRNRUMyOE9raHA4TUduQ3BrLVJkM2VNS3VBN3lmbWlJSWJFal9HaXpVNHpfNElNLUhZQTQxNV91ODY5SHNkZE9Baw?oc=5",
+    "title": "Toyota\u2019s New GR GT Will Be Hard to Get\u2014and That\u2019s Just How the Automaker Wants It - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T18:20:29.661086+00:00",
+    "occurred_at": "Wed, 19 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788373229661-2",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkpuclNQTFA1Q0VCbThidVF2bjJNOEl2VWR5S0ZKeEl3eDFjYUtnZlRJOHQzOUtSSFdPU2c0d2pjeUF5R1JscFJYX2tfbVVyYXpiTWhiaHdwNVVBVlh2WDFoeXYwekstTFlaRHphazE0amFKSTYtRVo3Z1IwcXluNTYyRmk0eW95Q3BCdXhsdG0zUmVFSUhNRlJaNGZKUHZzem9la0ZSek1ud01meEFrZjZhcEtPdmIyb0g5OTlXNTAtaVMwcWpPM0FWZ1c?oc=5",
+    "title": "Widebody Gazoo Racing GR GT Was Crafted Digitally, Inspired by the Legends of the Past - autoevolution",
+    "source": "autoevolution",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T18:20:29.661086+00:00",
+    "occurred_at": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788373229661-3",
+    "url": "https://youtube.com/watch?v=Mi-HoZe06xY",
+    "title": "Toyota GR GT: el heredero del 2000GT y el Lexus LFA",
+    "source": "aurixen vision",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-02T18:20:29.661086+00:00",
+    "occurred_at": "2026-09-02T18:11:52Z"
+  },
+  {
+    "id": "1788373229661-4",
+    "url": "https://youtube.com/watch?v=2Vpb9QEeMJ8",
+    "title": "Forza Horizon 6 -TOYOTA GR GT-Gameplay",
+    "source": "Robinhood  R",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-02T18:20:29.661086+00:00",
+    "occurred_at": "2026-09-02T17:29:09Z"
+  },
+  {
+    "id": "1788373229661-5",
+    "url": "https://youtube.com/watch?v=3JRbt0SjNtk",
+    "title": "2027 Toyota GR GT: The Supercar Toyota Fans Have Been Waiting For ( wheel wise )",
+    "source": "Wheel Wise",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T18:20:29.661086+00:00",
+    "occurred_at": "2026-09-02T17:05:41Z"
+  },
+  {
+    "id": "1788373229661-6",
+    "url": "https://youtube.com/watch?v=kqWoApiMsfU",
+    "title": "This is the actual cover car for the FH6 Toyota GR GT Prototype and it is insane | Forza Horizon 6",
+    "source": "Dr-Rex ",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-02T18:20:29.661086+00:00",
+    "occurred_at": "2026-09-02T16:58:45Z"
   }
 ]
