@@ -3708,5 +3708,45 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-02T20:17:02.414846+00:00",
     "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788387360970-0",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMTN5Q0s3RndocFJoSm5Dbk5hdk4wV1N5SndUREFKZnVOWFZ1aHI0VWN4X2R6OWpGcmRUSEtZSVM5blRQc1lZanBPZHVxUHh3TXRvcjh3S0hYY0lsMWtGSnJSVFZ3Vk85NWVsa1YtejlKOHN0RXc?oc=5",
+    "title": "Toyota's Ambitious GR GT3 Is Ready to Take the Fight to the Racing World - Road & Track",
+    "source": "Road & Track",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T22:16:00.970597+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788387360971-1",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlFDTGFic1hmUXB0UFhFZGRFeXR2NEo0enpBZFZfd01DNk5hOTdISXVQRExUZHJWQnBhOWNSQ2hlcUhKSndzY2l5MWRnYjNQZkdrZGdKdy1JWFNERFRDVFNGTVBocWRVcE96S0pSSEJET3l6SU9CNklnUjVTMnU5Q3VYZGY0WWZyaW9N?oc=5",
+    "title": "Toyota and Lexus reveal new high-performance GR GT and LFA - CBT News",
+    "source": "CBT News",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T22:16:00.970597+00:00",
+    "occurred_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788387360971-2",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkRwdXotVlNMS1FVM0lPS2J1dWpHbWMyS25XaTVuSl9ENG1leThIaWdnNEVQc0N0OC1jbjRFbHJnWnJSYnY4YVhSNlc5RzJ6NU9wSWxyVUJpSWdBa0J1SGJ6X01ZbmtJRWJUNVJJR09WUmt4UE9kYmVydURnS1k0SFdqZkREV3NaWUVqLU5RWERhb0E2S241RFQtd0tIdw?oc=5",
+    "title": "Toyota GR GT, Possible Lexus LFA Successor to Debut December 4 - MotorWeek",
+    "source": "MotorWeek",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T22:16:00.970597+00:00",
+    "occurred_at": "Tue, 02 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788387360971-3",
+    "url": "https://bsky.app/profile/basmitharts.bsky.social/post/3mukxa3pewc2q",
+    "title": "New GR GT looks great.",
+    "source": "@basmitharts.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T22:16:00.970597+00:00",
+    "occurred_at": "2026-09-02T22:10:04.165Z"
   }
 ]
