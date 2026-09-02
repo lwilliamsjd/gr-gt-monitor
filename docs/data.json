@@ -3238,5 +3238,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-02T00:25:31.137526+00:00",
     "occurred_at": "2026-09-01T23:00:14Z"
+  },
+  {
+    "id": "1788315891189-0",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWkzWG1aN0Qxbm54dkM3QlhJYVNQdERYaFRYQzB5TFRnNVgySkVhd3FQOTNDVENTdjdKUTlTWkY0N2pLb283bm5FVnhzUmszZ0hOOFVaWFhucGpRT2U3NVBoSlB6dTRrYVdVREpYckNOT1NHNFpjdjhNQkY4cmZOQnNseVRlMWgwalJBWUpBeXdOQ1Nf?oc=5",
+    "title": "2027 Toyota GR GT - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T02:24:51.188950+00:00",
+    "occurred_at": "Thu, 02 Jul 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788315891189-1",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjFxUlVLdE40Z0tSOERxWGNVd3BpY1ZOZ0JIaTRYWGdkTkVHMmdkOXBVTVptWEd5OEZfOG04STEwMUotMlJaSDlqc3VYRmZhSEpnUHdqcjdTdjRueWdhS2xOX1BxZk1zQ2JNZXA1X1JjZHZPQ1hYaHN1cXRGcGF1SDlKeFlKMjEySnl4cndUN24zcVptbWVKdUZjUQ?oc=5",
+    "title": "Toyota GR GT set to bring its 641-hp oomph to supercar segment - nwitimes.com",
+    "source": "nwitimes.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T02:24:51.188950+00:00",
+    "occurred_at": "Fri, 06 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788315891189-2",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeWw4eWpNUzlIeF94Z0RvYTVEdzVYNTFEWkRCdTdoSWFYc3U5MEc3VVBUT2ltU00xSW90bnM2eEx3ZzlzWkNUNXZzTFZKbHdlU1NYWmlWX1NDUW15dGRmb2pJTXNwdVpGMlNuQVZ0eHd3bEtYOEZCcGVBa2xKRmxFamNYMUdwbjB0TExCUnoteVBzNm1RV0FjVmRFM181SWlZZjJfZWJB?oc=5",
+    "title": "Toyota Unveils GR GT, GR GT3, and Lexus LFA Concept in Japan - duPont REGISTRY News",
+    "source": "duPont REGISTRY News",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-02T02:24:51.188950+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
   }
 ]
