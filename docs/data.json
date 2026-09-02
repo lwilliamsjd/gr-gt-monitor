@@ -3628,5 +3628,85 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-02T18:20:29.661086+00:00",
     "occurred_at": "2026-09-02T16:58:45Z"
+  },
+  {
+    "id": "1788380222414-0",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeG1aM21mTV9iekt0N2NIMmFvOVNKT0d3bGVORllKOHJBSndWa2xadW5oRDV0OGZnNUY1Z0t3bV9zR3llZGllelphNHRLekg0NFRYWnB4cTdLck5ZdVlQSHkyU0pIbUlGVDBJbm5ta2ZtUmtEYWs0ZnRIdmt2Y0c0b0Z3SQ?oc=5",
+    "title": "Toyota GR GT Unveiled With 641-HP Twin-Turbo V8, And It Could Get Even More Powerful - Autoblog",
+    "source": "Autoblog",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T20:17:02.414846+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788380222415-1",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHlubGRCaVNyb0l0c2VpMjVDeWE3V0wxZVhrYUoyNEl1QUJoRGlIekZiSi03WW5NTzJFR00tZ0VwYUc3dGJHN3FyWGg4N3ptaHNVanM2Y2kzRnJQeUh3bTBtcDNYLUdYZ1pLa3ZHN01iNE9ULURWVlhhWG9wbmpTLV9WQVA?oc=5",
+    "title": "Lexus LFA Successor Teased With a Toyota Badge and the GR GT Name - Autoblog",
+    "source": "Autoblog",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T20:17:02.414846+00:00",
+    "occurred_at": "Fri, 28 Nov 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788380222415-2",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUERhZ2JrOXZwZFYtRy1DQnJLM1lxRjB3T0hPT2Y5X2h4dWhwTlBNLS0wQnIzNnNlT2VRbUxsdG9FaG96LU1zVWQwM25aZ3h0c1BHTGRuT3l0aUhZNjFWNDd5OTRJemliajFHemh6MmFaN1lNMlUxX3VJZ1ZPV1ZVcEZrd19iaEItS3FvRFA5T0ZNMnpF?oc=5",
+    "title": "Watch live: Toyota reveals V8-powered GR GT supercar! - drivencarguide.co.nz",
+    "source": "drivencarguide.co.nz",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T20:17:02.414846+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788380222415-3",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzlMVWhaWTZXeC1kYjRTcGFOOWEtc00yUTQwSFJ3RmJvdTVDaXlJckdlSGdOTVNrUm5zeDgxMjV4UnA3U2pVU3BBSW05X0kyRG1mdS1PclFnTm43eGxjRzdVUXptZjZELTR5bi15b0pIZXdFaTYwM1RsbEVSRVFmUGNYaVY5WXFhcHVRZmxkMGMzQVVKc0wzQnlxblk1ZTA?oc=5",
+    "title": "Toyota\u2019s GR GT Hype Machine Is Spinning Ahead of Reality - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T20:17:02.414846+00:00",
+    "occurred_at": "Thu, 12 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788380222415-4",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSEFXOEhCWUVpOVptYTNOT3RGSldJMWRIOGppbDF3c1l6OFRmT3UzOXUzalprdm9ZY2ZhLWRSenpQSEptaWM1ZEpZMVV4SWVwOHljT0lmT2p3Uk0xVTh2T01TRzQweW05R1QtQ1A3cWctVFRZdFFFMnZwdjBpZnZMcTlRcmRWUmRnNHlyaUNvLXkySVVGaVoyNDc3dnR2bnpoZjB0TDAtb2U5dXIxNURvaWhtTnJiSDdQZldJeUQ0SXNWUklmdy0wQkJvcFo?oc=5",
+    "title": "(Toyota) Gazoo Racing GR GT Becomes a Lowered Widebody Supercar Across Imagination Land - autoevolution",
+    "source": "autoevolution",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T20:17:02.414846+00:00",
+    "occurred_at": "Fri, 23 Jan 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788380222415-5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MM2ZkVXNQc280LVhPTjNON3hBRzlfWmk1N1JuMDVQV0tmOG1xMlhtSUhQdGdYcGVBdWxndjE4eFp1SzUxZEVINnhOcUxLMVk2cjlBMm5ETnBpX3BIN2h1WWtfa2Z5ckJqTXJF?oc=5",
+    "title": "This mind-blowing new Toyota GR GT is the ultimate track supercar and it could be coming to the streets - supercarblondie.com",
+    "source": "supercarblondie.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T20:17:02.414846+00:00",
+    "occurred_at": "Wed, 25 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788380222415-6",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQ1A5OTZtMkl2Q1JBeHdkR3YxUEgzMVV6WHRNUmU4U1kyNklfX29FVG1hRThrNHVGcWZKaV8xUlZRTzZINF94TUtUOC1HOEZPeGk3cm1JMjZFN0JvVXM2MFhOMkM1bzR2eElWdDBWekx4cm5r?oc=5",
+    "title": "Here\u2019s the Toyota GR GT in Red, What Do You Think? - AOL.com",
+    "source": "AOL.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T20:17:02.414846+00:00",
+    "occurred_at": "Fri, 12 Jun 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788380222415-7",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFBrcktwa1Q1cWlBbVlnSE53SVltOC1Bd3RSVHlKVzcxbUtqQURfMjJuejBadU1BeGZpSmE1WTNrMWRHcWxZNWRLMWE5MjRhdVJvcDZ5Qnc5ZGdTbmpxX2dLdDhZVmZMSVNuQVR5NWtBMGYyUXJ0S3dEZ1djVWlrX09oSWtMQnlVZ2VZRVp0cVNwdFRFbERsa011S0tYUG8?oc=5",
+    "title": "Toyota's GR GT Debuts As Hybrid Supercar Corvette Z06 Rival - GM Authority",
+    "source": "GM Authority",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-02T20:17:02.414846+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
   }
 ]
