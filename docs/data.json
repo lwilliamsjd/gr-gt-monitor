@@ -4148,5 +4148,65 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-03T10:18:11.966286+00:00",
     "occurred_at": "2026-09-03T08:53:48.072Z"
+  },
+  {
+    "id": "1788438166216-0",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX09uQ0JBNnZ6NXZac09EdEFTcE5STXZfQ3dXaG5IQXprZUVXYmU3Y3BKQVBzd21nNXR5RTBMSS01dVl2VlNrTExSMEE2Umhfc0Z3WWNXd3hlUmZ1Z2ZaQTRZTllQTWxvRG1lX1R0c0NINkVST3RsREtmR3MxcW5GTVBEVVlnRXdwNFAxTGdwczVwM0trYUJVQ2RHdVg?oc=5",
+    "title": "Toyota, Lexus Debut Upcoming GR GT, LFA Concept Supercar Duo - Cars.com",
+    "source": "Cars.com",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-03T12:22:46.216643+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788438166217-1",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2RZMG9Od0xGbEF6c3N0a043R2FUNjhBaUVYWG5jTlNwQ2doVEtWSVAzVVIxWVhyeHR6WnhZUHZ4WWxQREpfZ0RHSF82VkhycVBFM0szTWhyZ015Y2J5RnM4VUo3cjhydE5oM3p4bGNyZW45bVJJdHdub25haUpfQUdQWk0wNzhWQkxrdg?oc=5",
+    "title": "Lexus Will Drop A New Sports Car Alongside Toyota\u2019s GR GT - Carscoops",
+    "source": "Carscoops",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T12:22:46.216643+00:00",
+    "occurred_at": "Tue, 02 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788438166217-2",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVV9qRll3VWZ5ZjZ2OV9OcWZSQV9DSzFZUXVmWEZQMTBjSmxmRGxrZ3pWUWx3NkNjUG9yRkxXbE1qR09MeFJaZGtKcjF5a1U2eGphZWVYWjA5dVU1SFo0YWNSUzRSeW9JRlplQ2lnUE92RnBkd1JwSU1MTHZBeFZEWmQxT2JWQXJsVlZLOUJRcFh1a3cxT1Nqc21kNDQ0YkFiZDNiNDhvVUdZaVVFZnNybmZ4cHlDNTJGcFZyV0o5cG11dHZBb3UxMnVZUV95Wms?oc=5",
+    "title": "Next Toyota Supercar Comes After 2000GT and Lexus LFA With GR GT Branding on December 5 - autoevolution",
+    "source": "autoevolution",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T12:22:46.216643+00:00",
+    "occurred_at": "Fri, 28 Nov 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788438166217-3",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUdqR1VXRTZuOVFYUEpGeFZMZlFfc2VzcUgtZjZMcmxtWExqNzAxZlFQWWhRRXVzSUV0SjFxNnRSUWV1QVBhYi1Gb0VPN1NVQ04xUnpKU3ZKTGF3d0NXblBnMjN3VnZqdmZOQlp4WjR6SVZOaXlFLUxLclFLd05HSVo5TmFUOXc?oc=5",
+    "title": "Toyota GR GT Reveal Date Confirmed, Tasty V8 Sound Included - CarBuzz",
+    "source": "CarBuzz",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T12:22:46.216643+00:00",
+    "occurred_at": "Mon, 13 Oct 2025 07:00:00 GMT"
+  },
+  {
+    "id": "1788438166217-4",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhVzI0V3EyRi1xNU1VV3pzNVlrM0t4X1J3d1p5d0FQdnBHMnhxZnhOa19KV2MwdUc5UEFqY0lBenRySmFQdkpmTGd5QTV6dEcxRGlNdHA0WGt3d3YyWENQSFNBbWRiVk92bUJYNzlzdkZRUHNObk5N?oc=5",
+    "title": "Toyota May Limit Who Can Buy the $200,000 GR GT as Dealer Demand Surges - AOL.com",
+    "source": "AOL.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T12:22:46.216643+00:00",
+    "occurred_at": "Sat, 18 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788438166217-5",
+    "url": "https://youtube.com/watch?v=pjAGKyMmE0s",
+    "title": "Toyota GR GT Precision Drifting Around Cones \ud83d\ude33 #drift #car #performance",
+    "source": "Turbo Gamer",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T12:22:46.216643+00:00",
+    "occurred_at": "2026-09-03T11:00:22Z"
   }
 ]
