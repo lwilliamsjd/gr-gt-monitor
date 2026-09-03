@@ -3838,5 +3838,65 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-03T05:35:17.524199+00:00",
     "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788416578641-0",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmJ5WkwyMXFtdGplb3lvUHJYUnRjbk51RWV6SGkwXzlYNjIzS1FhYTBVTVFVaE1YZWg2Yzg3SFg5N2hXbXBEQWhuLU04Q2doNmM0OXV5S1U0cTQ5bGdQMkRueVZCeHJ2WXpmZ0pQdHpNYkJ0SUdJY1hXVUtJb2luem05bFk0QURuV1d2UGp3MTE4S29IbE9CYk1icmlMMXJNbmdiZU1LcVdfZXVaUXhtWk13?oc=5",
+    "title": "Toyota\u2019s GR GT Supercar Gets A Hybrid V8 And Looks Astonishingly Good - The Autopian",
+    "source": "The Autopian",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T06:22:58.640911+00:00",
+    "occurred_at": "Thu, 04 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788416578641-1",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2xpWmpndUhYcVJkd2V5TXYwUmJjLUtXUzFLTnh1S2M1d19fck11VWVEaTdjRjIyVlJpeDdhUzRXZmcxZzZjQ3lPLUtBXzZ1bjlUNUdDSEtHeW1EbmRYTnVLdnhuT1RlYVhRSFlCMUJPZUlNOFl1djdfRks4bkZ5a2puMWlZQXM1WVUwTjhXcDZmUzcyMHlEWG5B?oc=5",
+    "title": "Check Out the New Toyota GR GT, Toyota GR GT3, and Lexus LFA Concept - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-03T06:22:58.640911+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788416578641-2",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkFrS0NYTnNhU1BUaUtudnZpSHNwWWRTalF6X3A3T2VSbENXOUUyalZ1WWU5d0NLeWRfckp5enAxSzU0S0xHVU5uM0Y1OHdHWFZ5bGFYYW9KNE4xbWNXSFdkeG13bENzS0RWMUFxSmM4VUh3QThBUmJKQjBiMzVhWXRBa0h6cXRXSjZHNTc5MVA1Q3d4T2k0SFV4d3JhUTJ2LXdzNi1BcmhuWnY1NWc?oc=5",
+    "title": "Inside Toyota\u2019s Dramatic Japanese Reveal Of The New GR GT Supercar & GR GT3 Racecar - maxim.com",
+    "source": "maxim.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T06:22:58.640911+00:00",
+    "occurred_at": "Wed, 10 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788416578641-3",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlItaFBJam4tLWUwSzRYQXZFd3J2M1VKTTdlcXdaQlU4NEROYzc3Nkp3Y0F3M2hVWWdrV3NueF9Cc0oyQ1h1d2VWci16em1DTHhHR2wzOVQ4TnRKYjZYM0xmUi1aRHZETk96SW45cnpnLXBaV01sZkRfZVJ0VnlpUGp4TkZuYUZ3SWFmbzg5OEdRbHN6?oc=5",
+    "title": "TOYOTA GAZOO Racing Unveils GR GT and GR GT3 Flagships - Hypebeast",
+    "source": "Hypebeast",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T06:22:58.640911+00:00",
+    "occurred_at": "Sun, 07 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788416578641-4",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jWXBKSk9MQ2ZHRWdMQWU1SXoxcEtFb2hHaWt3MUlVY0lLbGFZMklpSnJ5NHh3alhpTlp5TFZRNW5GanEzM3N4Sm81WGV1U0ZWZ3k5eFFtT3RRb3FDU2d3YXVsVU5PUQ?oc=5",
+    "title": "You Can Drift Toyota's New GR GT Sports Car In The Next Forza Horizon Game - CarBuzz",
+    "source": "CarBuzz",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T06:22:58.640911+00:00",
+    "occurred_at": "Sat, 24 Jan 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788416578641-5",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFN6OWhJYW1HdkFvNHJ3eEZRa3NYWFRlbmN6cXZwT1k5WW1Mc2V4RWpYdEdnZFBSVGZ4bWxQeExwX2Y0QVdabldNUXNYSEVkZS1Hc09fbDRHMU5QSHNrTEl2djB3Smw1M3ZFS3hNa1BlaVZEMS1lc0J4RXlrU0h2T2lfNmlRR3VwSkdv?oc=5",
+    "title": "Christmas has come early with the Toyota GR GT - Classic Driver",
+    "source": "Classic Driver",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T06:22:58.640911+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
   }
 ]
