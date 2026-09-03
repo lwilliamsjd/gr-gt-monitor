@@ -4508,5 +4508,45 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-03T18:19:44.038831+00:00",
     "occurred_at": "2026-09-03T17:05:42Z"
+  },
+  {
+    "id": "1788466559968-0",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHd6UDdtV3Z6Ynl4LTdkTGJoa2VBSzRWVDE4MThqVGVzTnFPejZNc3JVVFNGMkFlVGRxLXg0Z2RiZWR6Y19OeG5wYkhfMDA1YUNYbXVud1RKZTkyY1liTklQektiU2tGbFc5N25sSU1hTm56Q3JOdHQ3UlRBbks3LWw3MjFLSHFpbTc1RWZSRm5xX1FyUGZxSF9tUHlLRzVNdlA1SE9vTW4?oc=5",
+    "title": "Toyota Won\u2019t Abandon Affordable Sports Cars As $225,000 GR GT Arrives - Autoblog",
+    "source": "Autoblog",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-03T20:15:59.968662+00:00",
+    "occurred_at": "Sat, 23 May 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788466559969-1",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHdYX1hBc0l5aUdwdzJNdWFwdGtySFNSOVAwUGhjSEdHRXdCNEtXR3o3S2RLbFNwN0h5YXNMMWU3T1d1dTBVNU8wdmRfX3hnbV9PSnNudFM5UW1FN0psdzZIZ2h1TEhXZktMQ0RrM1pieWZyTzlNTDd0bVhmS1l4eEM1UUpjNGdCQ1dNQWxHZDkyeTNRZVU0U0xJcF8?oc=5",
+    "title": "GR GT3 race car to be offered by Mcdonald's, for a limited time only - drive.com.au",
+    "source": "drive.com.au",
+    "platform": "news",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-03T20:15:59.968662+00:00",
+    "occurred_at": "Sun, 19 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788466559969-2",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR0NqRlVNeWRfcjB6LUdmWDctNzZwamZsc1J3YUR0UFVYcDlnYm9maTJaV1d2Z2s3dWwzcFh0ejNJZWxnT19FR2ZUOXNjVGc1eTRfMUZpY0s1RjRhWGx4ZnIyUmlVa3UwT3VvRTFjTzFTaldRUlg0cXNaVTBOV3BYQ0laUjN2Sy1FVTlHOFlkRDFUb296Z2ZGOQ?oc=5",
+    "title": "Road Vs. Race: The Toyota GR GT and GR GT3 Aerodynamics Explained - The Drive",
+    "source": "The Drive",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T20:15:59.968662+00:00",
+    "occurred_at": "Wed, 10 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788466559969-3",
+    "url": "https://youtube.com/watch?v=spW5hgEi17A",
+    "title": "Toyota gr gt edit",
+    "source": "f4_ ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T20:15:59.968662+00:00",
+    "occurred_at": "2026-09-03T19:48:00Z"
   }
 ]
