@@ -4208,5 +4208,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-03T12:22:46.216643+00:00",
     "occurred_at": "2026-09-03T11:00:22Z"
+  },
+  {
+    "id": "1788445063317-0",
+    "url": "https://youtube.com/watch?v=h-tANbPMvkA",
+    "title": "2027 Toyota GR GT Supercar - Porsche Killer with V8, RWD &amp; 911 GT3 Money? !",
+    "source": "Rev & Render YT",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-03T14:17:43.316706+00:00",
+    "occurred_at": "2026-09-03T13:17:13Z"
+  },
+  {
+    "id": "1788445063317-1",
+    "url": "https://youtube.com/watch?v=Tjzij4sMrZk",
+    "title": "TOYOTA GR GT3 \u30ec\u30fc\u30b9\u4ed5\u69d8\u306eGR -GT #shorts #gt #toyota Toyota&#39;s GR GT3 Concept: First Impressions",
+    "source": "\u30b1\u30f3\u30b1\u30f3\u306e\u81ea\u52d5\u8eca\u30c1\u30e3\u30f3\u30cd\u30eb\u3010I love automobiles!\u3011",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T14:17:43.316706+00:00",
+    "occurred_at": "2026-09-03T12:56:32Z"
   }
 ]
