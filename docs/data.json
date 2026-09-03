@@ -4548,5 +4548,55 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-03T20:15:59.968662+00:00",
     "occurred_at": "2026-09-03T19:48:00Z"
+  },
+  {
+    "id": "1788473752088-0",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQTkzdkYxZXV2dUFKYjhaUkNoX3NuSzNYTHg1YU01RmdqeEZvWTl2S3JsejE4SERVUzRYM3pwR0NXQ0ZaX3N5dWc0ZFBIU3FsQlVOOUo3ZzBjNW5RLTgxRTZpWVVMclFHR2R2VTU1cFlXa3poMTJQZlNOVjFCRjZSZFgtNA?oc=5",
+    "title": "This Forza-Ready Toyota GR GT Supercar Goes Full Widebody - HotCars",
+    "source": "HotCars",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T22:15:52.088418+00:00",
+    "occurred_at": "Sun, 01 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "id": "1788473752088-1",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUVoaDZST2NoVlZmbW1kT1p3dWdVS1BrdzEteUxPRFJyY0pmalI2ZmRJX0I0YWl3YnVRVThyMmk2Qlo5QkU1UU1Ya181RTFrRWM5cnBTN3p3QXB0NGRxUVM4WXlUbWRXUlI5bVhhbUpRZzZnNWxKYnlXajlhVVRHYWNHVDBuMko4NmFfcHd2c0drclN0ejM4?oc=5",
+    "title": "Toyota GR GT Looks Like A Batmobile And Hits Like A Supercar - Carscoops",
+    "source": "Carscoops",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T22:15:52.088418+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788473752088-2",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZmdGSEdYeTNrYjE2ektic05jNTNJTmlHSV95MGgxVzY3TmhHNThCNHdJalVabjJ3anVnOTNRSXdJNFFHTEEyWW1aMWpsbDM2UDhsMlVJa2lET1V6VDgyR0poQ2JMRlZBZUFWSTJTWkM?oc=5",
+    "title": "Toyota GR GT Gallery: Brutal V8 Supercar In Pictures - autoblog.com",
+    "source": "autoblog.com",
+    "platform": "news",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-03T22:15:52.088418+00:00",
+    "occurred_at": "Sat, 06 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788473752089-3",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG1STmxZZXRyRS1GMDBKREMxUFFvTXR3czNlMHpkZzllTHhoQ281YlEzb0FUWG80ZURYVy1SbHJwdmcyVkUzSlFSclhtZW5WMUpaWGIxc29HaHRSaWlldml4VTllRzZMT0Q2dDFuNkFsMHMzdzk3Z0wzVDV5ZkR6QXBoQUVXY25lcDc5VGw0U0FQclZvWnZnUHpZT0Y3VTQ0?oc=5",
+    "title": "Toyota Gazoo Racing reveals V8-powered GR GT - pistonheads.com",
+    "source": "pistonheads.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T22:15:52.088418+00:00",
+    "occurred_at": "Fri, 05 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788473752089-4",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWFlNTV6Rzd4NTltREhlbUg4UDUyYUNISUFHWjNMOUh2cTJJU181bzQySmdJQzZJT0lQYjJTek80S2ZoT3d6dEFGYkkyRDdic0ZsNjVSRFVkcDRFblZVYnpwa2dDT29UNnZkc2RfV2hhQVZFTmZLeGpZRnh3NHYtckRyYTBOdjNhN3pkN2ZGYzdLc2xhd3Z1R3FUWVEyMVZjTTAyN2NhMFd5MDBlamh5VDRZQXBOazB4Z0ZGdWNEUDYxSzNHX3AyS0JvNV9ZelE?oc=5",
+    "title": "All-New Toyota Gazoo Racing GR GT Receives Some Virtual Goodies, Does It Feel Cooler Now? - autoevolution",
+    "source": "autoevolution",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-03T22:15:52.088418+00:00",
+    "occurred_at": "Mon, 08 Dec 2025 08:00:00 GMT"
   }
 ]
