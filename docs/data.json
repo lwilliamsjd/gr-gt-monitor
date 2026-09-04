@@ -4758,5 +4758,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-04T18:18:26.116153+00:00",
     "occurred_at": "2026-09-04T16:00:07Z"
+  },
+  {
+    "id": "1788552994936-0",
+    "url": "https://youtube.com/watch?v=j3LTqCBl7zM",
+    "title": "Toyota GR GT Prototype Sound | Forza Horizon 6",
+    "source": "RLGVR Real Life Gaming Visual Reals",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-04T20:16:34.936536+00:00",
+    "occurred_at": "2026-09-04T19:27:32Z"
+  },
+  {
+    "id": "1788552994937-1",
+    "url": "https://youtube.com/watch?v=ceKxEprj9SM",
+    "title": "700 HP GR GT Prototype - Forza Horizon 6 | Thrustmaster T300RS GT Edition Steering Wheel",
+    "source": "Rpm Society",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-04T20:16:34.936536+00:00",
+    "occurred_at": "2026-09-04T19:01:12Z"
   }
 ]
