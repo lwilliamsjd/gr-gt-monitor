@@ -4598,5 +4598,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-03T22:15:52.088418+00:00",
     "occurred_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "id": "1788481466938-0",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTExFWjBLaUZaRHdGUkxTd1NGbWJJdG9YT1JOaDhUOHhJaW51U1hYeUkxTUF1VG5SM2lXaEZXRWFVZVFQbXpQZVFVd0FXWEprX2dhQU1pOFZwbUM2enhRX0t3RXh4Z0VpOUZfWFBkOTl1ZkhXdVlnYjNGbzl2TlBTVmJrSkUtcUxHMzBubTJmbkpaZUlNQ0l1eVVCeE8?oc=5",
+    "title": "Toyota GR GT first look, combustion Alpine A110... - PistonHeads",
+    "source": "PistonHeads",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-04T00:24:26.938619+00:00",
+    "occurred_at": "Mon, 13 Jul 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788481466938-1",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV19YQnd1TWZQY2JjX2NNbEhZOTV0TUR4WlpXMFByZDV3NHNRazJqNEswaXlRVFlmcEZLQjZwQTQyWENzUVR1UkNXeloyQjZqQ0QwMTYyV2NXSXl2TlV3V09KUkRMLTd5a0NuX3ZRWGFJWmJ5LVdQdVF2V3h6LXg3RmFtTWNoSHdSSXBvWDhEMW1yX29YeGVUNXhJeUZMZDZ0cG5RZTJuQTJsd2s?oc=5",
+    "title": "SPIED: Toyota busy testing GR GT ahead of 2027 launch - AutoIndustriya",
+    "source": "AutoIndustriya",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-04T00:24:26.938619+00:00",
+    "occurred_at": "Tue, 21 Jul 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1788481466939-2",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGRoS2hsczJlMzU2cUNfY0lIY3VoaUR1OWxaQ21tZFVCQ2s1N1g3MTNVZjlxVm5OUFFkWWRRVHFkYl9RaFY3Y2JaOWQ3NzFOWk5kUUt1aWJRblNOTkkxenlRdGxnYVVxdU9KdE5BWGtkWXRJaVhHR05KY0h3dkJ2aVR0WmRiTlNz?oc=5",
+    "title": "Toyota GR GT & Lexus LFA Concept: The One-Two Punch - GTspirit",
+    "source": "GTspirit",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-04T00:24:26.938619+00:00",
+    "occurred_at": "Mon, 08 Dec 2025 08:00:00 GMT"
   }
 ]
