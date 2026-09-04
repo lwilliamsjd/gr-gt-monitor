@@ -4728,5 +4728,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-04T14:16:02.270097+00:00",
     "occurred_at": "2026-09-04T12:59:20Z"
+  },
+  {
+    "id": "1788538642592-0",
+    "url": "https://youtube.com/watch?v=7P9EpW_Zt60",
+    "title": "Tomica Toyota GR GT Unboxing ",
+    "source": "\ud835\udd67\ud835\udd6b\ud835\udd5a\ud835\udd5f\ud835\udd6b\ud835\udd6b\ud835\udd6b",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-04T16:17:22.591711+00:00",
+    "occurred_at": "2026-09-04T16:05:32Z"
+  },
+  {
+    "id": "1788538642592-1",
+    "url": "https://youtube.com/watch?v=2zQ_rXIIquU",
+    "title": "Ser\u00e1 que o GR GT est\u00e1 t\u00e3o bom assim\ud83e\udd14\ud83d\udd25 #forzahorizon6 #cars #fyp",
+    "source": "4k Gamer Clips",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-04T16:17:22.591711+00:00",
+    "occurred_at": "2026-09-04T14:50:41Z"
   }
 ]
