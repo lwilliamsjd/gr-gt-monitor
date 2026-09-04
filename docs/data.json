@@ -4678,5 +4678,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-04T10:17:23.211182+00:00",
     "occurred_at": "2026-09-04T08:49:20Z"
+  },
+  {
+    "id": "1788524502659-0",
+    "url": "https://youtube.com/watch?v=opfvfWZb10Y",
+    "title": "\u30102027\u65b0\u578b\u3011\u30c8\u30e8\u30bfGR GT\u304c\u30e4\u30d0\u3059\u304e\u308b\uff01\u6f06\u9ed2\u306e\u30dc\u30c7\u30a3\u306b\u96a0\u3055\u308c\u305f\u6b21\u4e16\u4ee3\u30b9\u30fc\u30d1\u30fc\u30ab\u30fc\u306e\u6b63\u4f53\u3068\u306f\uff1f",
+    "source": "Thai Auto Reviews Official",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-04T12:21:42.659173+00:00",
+    "occurred_at": "2026-09-04T11:45:21Z"
+  },
+  {
+    "id": "1788524502659-1",
+    "url": "https://youtube.com/watch?v=MNRwUdCvGnc",
+    "title": "Toyota GR GT vs GR GT3 Diecast Unboxing &amp; Comparison",
+    "source": "AeroDetail Car",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-04T12:21:42.659173+00:00",
+    "occurred_at": "2026-09-04T10:29:54Z"
   }
 ]
