@@ -4818,5 +4818,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-05T04:15:50.367103+00:00",
     "occurred_at": "2026-09-05T04:14:40Z"
+  },
+  {
+    "id": "1788589189057-0",
+    "url": "https://youtube.com/watch?v=PrWCzcDvXsU",
+    "title": "GR GT on the road",
+    "source": "SrVendetta \ud83c\udfae",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-05T06:19:49.057201+00:00",
+    "occurred_at": "2026-09-05T04:17:49Z"
   }
 ]
