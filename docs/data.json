@@ -4948,5 +4948,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-06T10:16:11.132897+00:00",
     "occurred_at": "2026-09-06T09:45:39Z"
+  },
+  {
+    "id": "1788704144846-0",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EM1p4MjgxWDU2LUpVVG5yV1AyaDRpTDJDbnV3b0FmcndJbEdfcXZOanlwUzAzaUx1eUxKYi1HVU9rd2dmZnVNbTBLUlU0UzdFamNTUEU0YmMtei1tcmp6QlQ1T1F6akc0?oc=5",
+    "title": "SPY PHOTOS: SPIED! Toyota GR GT Camouflage Can\u2019t Hide Aggressive Stance! - AutoSpies.com",
+    "source": "AutoSpies.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T14:15:44.846558+00:00",
+    "occurred_at": "Sat, 05 Sep 2026 19:59:46 GMT"
+  },
+  {
+    "id": "1788704144846-1",
+    "url": "https://youtube.com/watch?v=_tnTaN8uVcc",
+    "title": "Pushing the Limits with the GR GT Concept in Japan \ud83c\udfce\ufe0f\ud83d\udca8",
+    "source": "PhotoRealismGaming",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T14:15:44.846558+00:00",
+    "occurred_at": "2026-09-06T14:00:23Z"
+  },
+  {
+    "id": "1788704144847-2",
+    "url": "https://youtube.com/watch?v=dkXmw2NtJ5s",
+    "title": "Why Toyota Is Making the GR GT So Rare #Toyota #ToyotaGRGT #GRGT",
+    "source": "Sonny Talks Cars",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T14:15:44.846558+00:00",
+    "occurred_at": "2026-09-06T14:00:26Z"
   }
 ]
