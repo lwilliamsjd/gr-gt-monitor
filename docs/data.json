@@ -4978,5 +4978,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-06T14:15:44.846558+00:00",
     "occurred_at": "2026-09-06T14:00:26Z"
+  },
+  {
+    "id": "1788711408849-0",
+    "url": "https://youtube.com/watch?v=BtjjrlaRcOE",
+    "title": "Forza Leaderboards - GR GT Shikisai 2:11.xxx",
+    "source": "Elizabeth Tamimi",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T16:16:48.849477+00:00",
+    "occurred_at": "2026-09-06T15:56:16Z"
+  },
+  {
+    "id": "1788711408849-1",
+    "url": "https://youtube.com/watch?v=yOcT4Qtnhnw",
+    "title": "2027 Toyota GR GT \u2013 Dieser Neue Toyota Wird Porsche &amp; BMW SCHOCKIEREN! ",
+    "source": "Drive Evolution",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T16:16:48.849477+00:00",
+    "occurred_at": "2026-09-06T15:34:08Z"
+  },
+  {
+    "id": "1788711408849-2",
+    "url": "https://youtube.com/watch?v=JtXkctikKXQ",
+    "title": "HARD RAIN RACE WITH GR GT TWO LAPS Salt flats GP Midnight chaser&#39;s Roblox",
+    "source": "ALPYINA \ud835\uddda\ud835\udde7",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T16:16:48.849477+00:00",
+    "occurred_at": "2026-09-06T15:13:26Z"
   }
 ]
