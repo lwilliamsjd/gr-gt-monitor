@@ -5008,5 +5008,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-06T16:16:48.849477+00:00",
     "occurred_at": "2026-09-06T15:13:26Z"
+  },
+  {
+    "id": "1788718685325-0",
+    "url": "https://youtube.com/watch?v=NE23ILhz8eU",
+    "title": "FL Rank 9 - Stock GR GT - Shikisai Sprint",
+    "source": "bigph1l",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T18:18:05.325550+00:00",
+    "occurred_at": "2026-09-06T17:59:34Z"
+  },
+  {
+    "id": "1788718685325-1",
+    "url": "https://youtube.com/watch?v=VD9fHrohAak",
+    "title": "2027 Toyota GR GT First Look \u2013 Toyota\u2019s Most Powerful GT Yet?",
+    "source": "THE TURBO TRIBE",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T18:18:05.325550+00:00",
+    "occurred_at": "2026-09-06T17:00:06Z"
+  },
+  {
+    "id": "1788718685326-2",
+    "url": "https://youtube.com/watch?v=5wBcEGoZHfA",
+    "title": "Toyota GR GT - Is This Toyota&#39;s Most Exciting Sports Car Yet? #shorts",
+    "source": "AUTO CROWN",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T18:18:05.325550+00:00",
+    "occurred_at": "2026-09-06T17:00:29Z"
   }
 ]
