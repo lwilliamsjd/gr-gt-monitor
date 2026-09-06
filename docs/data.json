@@ -5048,5 +5048,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-06T20:16:21.379685+00:00",
     "occurred_at": "2026-09-06T17:06:33Z"
+  },
+  {
+    "id": "1788732962475-0",
+    "url": "https://youtube.com/watch?v=EjT_MHe4MGg",
+    "title": "The Kyza&#39;s GR GT \u2014 JDM Supercar Reimagined \ud83c\uddef\ud83c\uddf5\ud83d\udc9c #ORROLIX #shorts",
+    "source": "orrolix",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T22:16:02.475350+00:00",
+    "occurred_at": "2026-09-06T21:57:53Z"
+  },
+  {
+    "id": "1788732962475-1",
+    "url": "https://youtube.com/watch?v=rheLBNbfblM",
+    "title": "GTA V   2026 Toyota GR GT Teaser demo",
+    "source": "Josketer",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-06T22:16:02.475350+00:00",
+    "occurred_at": "2026-09-06T21:37:46Z"
   }
 ]
