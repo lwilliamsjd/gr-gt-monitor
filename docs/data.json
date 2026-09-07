@@ -5128,5 +5128,15 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-07T12:24:25.956091+00:00",
     "occurred_at": "2026-09-07T10:25:07Z"
+  },
+  {
+    "id": "1788790669864-0",
+    "url": "https://youtube.com/watch?v=tQdD86JlGCw",
+    "title": "Why the Toyota GR GT Is a Halo Car #Toyota #ToyotaGRGT #GRGT",
+    "source": "Sonny Talks Cars",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-07T14:17:49.864379+00:00",
+    "occurred_at": "2026-09-07T14:00:27Z"
   }
 ]
