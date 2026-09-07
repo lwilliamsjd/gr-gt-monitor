@@ -5138,5 +5138,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-07T14:17:49.864379+00:00",
     "occurred_at": "2026-09-07T14:00:27Z"
+  },
+  {
+    "id": "1788797808367-0",
+    "url": "https://youtube.com/watch?v=wIKjcHn20ME",
+    "title": "Toyota GR GT",
+    "source": "Lamborghini V12 GT",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-07T16:16:48.366921+00:00",
+    "occurred_at": "2026-09-07T16:05:48Z"
   }
 ]
