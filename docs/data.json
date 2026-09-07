@@ -5098,5 +5098,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-07T04:18:57.514800+00:00",
     "occurred_at": "2026-09-07T02:45:45Z"
+  },
+  {
+    "id": "1788783865956-0",
+    "url": "https://youtube.com/watch?v=He_pkdkFWaE",
+    "title": "Toyota GR GT Prototype 2026 3D model by 3DModels.org",
+    "source": "3DModels org",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-07T12:24:25.956091+00:00",
+    "occurred_at": "2026-09-07T11:24:29Z"
+  },
+  {
+    "id": "1788783865956-1",
+    "url": "https://youtube.com/watch?v=B27MD2aKals",
+    "title": "Drawing Lamborghini Aventador and Toyota GR GT | Drawing",
+    "source": "HG Createship",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-07T12:24:25.956091+00:00",
+    "occurred_at": "2026-09-07T11:15:28Z"
+  },
+  {
+    "id": "1788783865956-2",
+    "url": "https://youtube.com/watch?v=eiOxeerGKpY",
+    "title": "GR GT\u306e\u901a\u5e38\u7248\u304c\u51fa\u306a\u304b\u3063\u305f\u4ef6\u3067\u3076\u3061\u30ae\u30ec\u308b\u30d7\u30ea\u30ab\u30b9!!!",
+    "source": "ViSRO",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-07T12:24:25.956091+00:00",
+    "occurred_at": "2026-09-07T10:25:07Z"
   }
 ]
