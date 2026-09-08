@@ -5218,5 +5218,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-08T14:19:11.859664+00:00",
     "occurred_at": "2026-09-08T14:00:26Z"
+  },
+  {
+    "id": "1788884313173-0",
+    "url": "https://youtube.com/watch?v=J_YDWyaKjd8",
+    "title": "Toyota GR GT vs Tokyo Traffic \u2014 BeamNG.drive \ud83c\udfce\ufe0f\ud83c\uddef\ud83c\uddf5",
+    "source": "Mr. EI",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-08T16:18:33.173290+00:00",
+    "occurred_at": "2026-09-08T15:28:40Z"
+  },
+  {
+    "id": "1788884313173-1",
+    "url": "https://youtube.com/watch?v=bPc9PXd6Vt4",
+    "title": "Toyota GR GT",
+    "source": "GARIAUTOCARE RAW",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-08T16:18:33.173290+00:00",
+    "occurred_at": "2026-09-08T14:18:20Z"
   }
 ]
