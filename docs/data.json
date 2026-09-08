@@ -5198,5 +5198,15 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-08T10:18:06.138177+00:00",
     "occurred_at": "2026-09-08T08:42:36Z"
+  },
+  {
+    "id": "1788870159551-0",
+    "url": "https://youtube.com/watch?v=mO44rS__MPc",
+    "title": "Toyota Gazoo Racing details its 650-hp hot-V turbo V8 hybrid layout for the GR GT coupe.",
+    "source": "Hamilton GOAT",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-08T12:22:39.551209+00:00",
+    "occurred_at": "2026-09-08T10:26:36Z"
   }
 ]
