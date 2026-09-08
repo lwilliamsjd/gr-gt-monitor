@@ -5168,5 +5168,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-08T00:27:18.859010+00:00",
     "occurred_at": "2026-09-07T23:00:33Z"
+  },
+  {
+    "id": "1788841046037-0",
+    "url": "https://youtube.com/watch?v=BD1AstBlxPY",
+    "title": "Toyota GR GT Prototype | Relaxing Night Drive in Japan | Forza Horizon 6",
+    "source": "MOTREN",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-08T04:17:26.037416+00:00",
+    "occurred_at": "2026-09-08T03:09:10Z"
   }
 ]
