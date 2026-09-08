@@ -5178,5 +5178,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-08T04:17:26.037416+00:00",
     "occurred_at": "2026-09-08T03:09:10Z"
+  },
+  {
+    "id": "1788862686138-0",
+    "url": "https://youtube.com/watch?v=qwQXWi16fUs",
+    "title": "2027 Toyota GR GT \u2013 Full Review, Specs, Performance &amp; Everything You Need to Know",
+    "source": "Speed District",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-08T10:18:06.138177+00:00",
+    "occurred_at": "2026-09-08T09:00:14Z"
+  },
+  {
+    "id": "1788862686138-1",
+    "url": "https://youtube.com/watch?v=u5E4b6zIsR8",
+    "title": "Toyota GR GT: Everything We Know About the New Supercar",
+    "source": "Mr Haider Lux",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-08T10:18:06.138177+00:00",
+    "occurred_at": "2026-09-08T08:42:36Z"
   }
 ]
