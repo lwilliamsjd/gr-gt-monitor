@@ -5448,5 +5448,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-10T18:18:56.125511+00:00",
     "occurred_at": "2026-09-10T16:30:28Z"
+  },
+  {
+    "id": "1789071338199-0",
+    "url": "https://bsky.app/profile/newestcarsusa.bsky.social/post/3mv6rqbx2el2x",
+    "title": "Toyota GR GT: 641-HP Road Car Takes Shape With GT3",
+    "source": "@newestcarsusa.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-10T20:15:38.198772+00:00",
+    "occurred_at": "2026-09-10T19:24:59Z"
   }
 ]
