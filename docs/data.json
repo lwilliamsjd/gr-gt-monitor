@@ -5458,5 +5458,35 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-10T20:15:38.198772+00:00",
     "occurred_at": "2026-09-10T19:24:59Z"
+  },
+  {
+    "id": "1789078499890-0",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlNBRk1FdjR1dFZYVFJTM2treC0zM0JCZDJITlA3RFEyNkk3QUNUd2NwNDVwekw3VHpFZmZKMTZNRnRpN2RvU3V0eXNtRGhuc0pSZFI3d0J5R1V1ZHNGY3NvY3FzWHRPb2xDbGlIWThaTGEwWDRoLWlOT0tXTTBQQndaeDJOWlhFTHVOTUV3Z0x4anlFLTVwWQ?oc=5",
+    "title": "Toyota's 640-HP GR GT Is Being Shaped by Its GT3 Race Car - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-10T22:14:59.890958+00:00",
+    "occurred_at": "Thu, 10 Sep 2026 17:01:00 GMT"
+  },
+  {
+    "id": "1789078499891-1",
+    "url": "https://youtube.com/watch?v=xnKShcp99NQ",
+    "title": "GR GT FH6 Rank 9 Challenge ",
+    "source": "Maulzilla",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-10T22:14:59.890958+00:00",
+    "occurred_at": "2026-09-10T21:11:39Z"
+  },
+  {
+    "id": "1789078499891-2",
+    "url": "https://youtube.com/watch?v=45GjPlrh2Oc",
+    "title": "Into the Mist | GR GT | Forza Horizon 6 | 4K",
+    "source": "Nocturne Roads",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-10T22:14:59.890958+00:00",
+    "occurred_at": "2026-09-10T20:49:05Z"
   }
 ]
