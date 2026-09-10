@@ -5348,5 +5348,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-10T08:18:50.673887+00:00",
     "occurred_at": "Thu, 10 Sep 2026 07:46:04 GMT"
+  },
+  {
+    "id": "1789035490065-0",
+    "url": "https://youtube.com/watch?v=RGm3m6zNaDY",
+    "title": "Forza Horizon 6 Toyota GR GT in japan.",
+    "source": "Pee Channel",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-10T10:18:10.065483+00:00",
+    "occurred_at": "2026-09-10T10:11:10Z"
+  },
+  {
+    "id": "1789035490066-1",
+    "url": "https://youtube.com/watch?v=YWsXXpA41-4",
+    "title": "\u3010\u307e\u308a\u3093\u3011TOYOTA GR Gazoo Racing GR GT GR GT3",
+    "source": "\u3010\u307e\u308a\u3093\u3011\u30ab\u30ef\u30e9\u30dc\u30f2\u30bf",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-10T10:18:10.065483+00:00",
+    "occurred_at": "2026-09-10T09:15:14Z"
   }
 ]
