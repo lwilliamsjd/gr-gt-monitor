@@ -5508,5 +5508,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-11T06:21:23.290309+00:00",
     "occurred_at": "2026-09-11T04:45:07Z"
+  },
+  {
+    "id": "1789121850904-0",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xd1gyVFpRYjJSM3JxV05hQWtJTWxOTVp2SktMaGpvVmNQc25naGQ3eGUwRlNaY3hrZmVJZVlkUnB5QXZQQ2ptQ2M0cWg4eGJEOTNDNk1rWWhMN216b2xEbldTTHZ4MG0wNFE?oc=5",
+    "title": "Spotted: Toyota GR GT Benchmarking Against GR GT3 At Laguna Seca - Motor1.com",
+    "source": "Motor1.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-11T10:17:30.904536+00:00",
+    "occurred_at": "Fri, 11 Sep 2026 09:27:00 GMT"
+  },
+  {
+    "id": "1789121850904-1",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdzB1bjFVOUUyUXBMTzAwT1JUamxGZDd5VTROd0RPVjlrZGJKNmpGR0FPbTRVZnBiNUVtV09PSDBqVnBKRXk0X2psYS1aLVNrcGpFRDgwSG1ZdE5BWnh6Wmw2RGxmVnh1QUNEaUZYeExoQzlNTlU2c1l5V2hJX29UNkwtWXFzY3VxakZRSw?oc=5",
+    "title": "Toyota GR GT could get an open-top version - The Supercar Blog",
+    "source": "The Supercar Blog",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-11T10:17:30.904536+00:00",
+    "occurred_at": "Tue, 04 Aug 2026 07:00:00 GMT"
   }
 ]
