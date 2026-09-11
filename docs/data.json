@@ -5528,5 +5528,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-11T10:17:30.904536+00:00",
     "occurred_at": "Tue, 04 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1789129334611-0",
+    "url": "https://youtube.com/watch?v=Z24xUjrfKn8",
+    "title": "Spotted: Toyota GR GT Benchmarking Against GR GT3 At Laguna Seca",
+    "source": "Car In A Minute",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-11T12:22:14.611455+00:00",
+    "occurred_at": "2026-09-11T12:00:26Z"
+  },
+  {
+    "id": "1789129334611-1",
+    "url": "https://youtube.com/watch?v=gW12mwvZ8o8",
+    "title": "\u30c8\u30df\u30ab \u9999\u6e2f\u9650\u5b9a \u30c8\u30e8\u30bfGR GT",
+    "source": "TO-PO. MINICARS",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-11T12:22:14.611455+00:00",
+    "occurred_at": "2026-09-11T11:23:53Z"
+  },
+  {
+    "id": "1789129334611-2",
+    "url": "https://youtube.com/watch?v=udpnNepzVoc",
+    "title": "Can the new Toyota GR GT 2026 beat a racing car at Le Mans? | Assetto Corsa Gameplay",
+    "source": "21st Century Gaming",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-11T12:22:14.611455+00:00",
+    "occurred_at": "2026-09-11T10:30:11Z"
   }
 ]
