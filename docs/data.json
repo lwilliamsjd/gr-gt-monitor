@@ -5558,5 +5558,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-11T12:22:14.611455+00:00",
     "occurred_at": "2026-09-11T10:30:11Z"
+  },
+  {
+    "id": "1789136250286-0",
+    "url": "https://youtube.com/watch?v=sar3YojEMCQ",
+    "title": "\u30c8\u30df\u30ab \u9999\u6e2f\u9650\u5b9a \u30c8\u30e8\u30bf GR GT",
+    "source": "TO-PO. MINICARS",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-11T14:17:30.285956+00:00",
+    "occurred_at": "2026-09-11T12:49:08Z"
   }
 ]
