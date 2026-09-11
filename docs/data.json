@@ -5588,5 +5588,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-11T16:17:51.048943+00:00",
     "occurred_at": "2026-09-11 00:00:00"
+  },
+  {
+    "id": "1789164979006-0",
+    "url": "https://www.motor1.com/news/807941/toyota-gr-gt-hybrid-v8/",
+    "title": "Spotted: Toyota GR GT Benchmarking Against GR GT3 At Laguna Seca",
+    "source": "motor1",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-11T22:16:19.006373+00:00",
+    "occurred_at": "2026-09-11 09:27:11"
   }
 ]
