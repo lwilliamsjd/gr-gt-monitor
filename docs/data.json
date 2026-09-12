@@ -5638,5 +5638,15 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-12T04:17:37.931743+00:00",
     "occurred_at": "2026-09-12T03:36:49Z"
+  },
+  {
+    "id": "1789194027958-0",
+    "url": "https://youtube.com/watch?v=A2Q11vvPnkY",
+    "title": "Scrap metal to Toyota GR GT see the transformation",
+    "source": "Vision Editor ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T06:20:27.958000+00:00",
+    "occurred_at": "2026-09-12T04:19:35Z"
   }
 ]
