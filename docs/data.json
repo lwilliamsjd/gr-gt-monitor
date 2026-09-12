@@ -5698,5 +5698,55 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-12T10:15:47.902674+00:00",
     "occurred_at": "2026-09-12T09:34:38Z"
+  },
+  {
+    "id": "1789215590095-0",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjF6bHg4cVk0d3JlclRFTF9Pa1NzUzFDMW9ST0lfdDhzZHBMWmZEVWFYdWFBbHplTk9GX0VCaExXdFNVN3JyWElzUnlvVVZXa3o0aEV1NTUyVEY3Y3kzN3N6LURjTC1TOE5XRVRzOTdSb1dHV3Jxa1gyQmJTOXBsMElORVlRQWJJQzhpeE90YTRmRldiY0RDOUpGWVgwT29SU2Z5WG1qcEhhQQ?oc=5",
+    "title": "Spotted: Toyota GR GT Benchmarking Against GR GT3 At Laguna Seca - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T12:19:50.095754+00:00",
+    "occurred_at": "Fri, 11 Sep 2026 09:27:11 GMT"
+  },
+  {
+    "id": "1789215590096-1",
+    "url": "https://youtube.com/watch?v=TOw2TewNxfA",
+    "title": "Toyota GR GT Prototype vs Super GT | Forza Horizon 6",
+    "source": "Apex Velocity",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T12:19:50.095754+00:00",
+    "occurred_at": "2026-09-12T11:00:18Z"
+  },
+  {
+    "id": "1789215590096-2",
+    "url": "https://youtube.com/watch?v=RUWVfh7abSc",
+    "title": "Toyota GR GT \ud83d\udd25\u2764\ufe0f\ud83d\udcaa #toyotahrgt #car #toyota",
+    "source": "Mr Mehdi",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T12:19:50.095754+00:00",
+    "occurred_at": "2026-09-12T10:52:08Z"
+  },
+  {
+    "id": "1789215590096-3",
+    "url": "https://youtube.com/watch?v=5Dl-sbNYwlA",
+    "title": "First time hearing the GR GT roar at the N\u00fcrburgring! Can\u2019t wait for the street version! \ud83d\udd25\ud83e\udd29",
+    "source": "grisseauto",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T12:19:50.095754+00:00",
+    "occurred_at": "2026-09-12T10:29:30Z"
+  },
+  {
+    "id": "1789215590096-4",
+    "url": "https://youtube.com/watch?v=VLvyRWvYg7s",
+    "title": "Toyota GR GT #automobile #lifeisbutadream #cartok #butifyoucloseyoureyes #hotwheels",
+    "source": "luxury workshop ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T12:19:50.095754+00:00",
+    "occurred_at": "2026-09-12T10:22:27Z"
   }
 ]
