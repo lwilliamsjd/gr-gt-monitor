@@ -5678,5 +5678,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-12T08:16:28.278722+00:00",
     "occurred_at": "2026-09-12T04:06:13Z"
+  },
+  {
+    "id": "1789208147903-0",
+    "url": "https://youtube.com/watch?v=gR-_Sbfyrbo",
+    "title": "crushing toyota gr gt ohh my goodness \ud83d\ude31\ud83d\ude31\ud83d\ude31 #crushing #toyota #supra #grgt",
+    "source": "crushing \ud83d\udcaa",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-12T10:15:47.902674+00:00",
+    "occurred_at": "2026-09-12T08:51:17Z"
+  },
+  {
+    "id": "1789208147903-1",
+    "url": "https://bsky.app/profile/thedailydrives.bsky.social/post/3mvcrojsvh72l",
+    "title": "The Lexus LFA went out of production in 2012. Toyota just filled the hole it left behind.\n\nMeet the GR GT: 641 hp, Toyota's first-ever twin-turbo V8, an all-aluminum chassis, and a direct target on the Porsche 911 Turbo S. Arriving around 2027, around $225K.\n\n#Toyota #GRGT #Supercar #CarNews",
+    "source": "@thedailydrives.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-12T10:15:47.902674+00:00",
+    "occurred_at": "2026-09-12T09:34:38Z"
   }
 ]
