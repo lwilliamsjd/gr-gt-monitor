@@ -5608,5 +5608,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-12T02:17:04.342674+00:00",
     "occurred_at": "2026-09-12T01:30:20Z"
+  },
+  {
+    "id": "1789186657932-0",
+    "url": "https://youtube.com/watch?v=DTywe5q3mcg",
+    "title": "Scrap metal to Toyota GR GT #car #making #craft #scrapmetal #transformation",
+    "source": "Vision Editor ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T04:17:37.931743+00:00",
+    "occurred_at": "2026-09-12T04:12:45Z"
+  },
+  {
+    "id": "1789186657932-1",
+    "url": "https://youtube.com/watch?v=fZCUNTfIeGw",
+    "title": "2027 Toyota GR GT - interior Exterior and Drive",
+    "source": "Elite Motors Garage",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T04:17:37.931743+00:00",
+    "occurred_at": "2026-09-12T03:46:55Z"
+  },
+  {
+    "id": "1789186657932-2",
+    "url": "https://youtube.com/watch?v=0bswLjhUX88",
+    "title": "Forza Horizon 6 - Minami Chase in a GR GR GT! (Ultra Graphics WIth Nvidia GTX 5060!)",
+    "source": "Kevin Enjoying The Ride",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-12T04:17:37.931743+00:00",
+    "occurred_at": "2026-09-12T03:36:49Z"
   }
 ]
