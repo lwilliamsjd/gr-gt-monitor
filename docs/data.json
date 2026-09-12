@@ -5648,5 +5648,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-12T06:20:27.958000+00:00",
     "occurred_at": "2026-09-12T04:19:35Z"
+  },
+  {
+    "id": "1789200988278-0",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VOElOVHpSTFZWUG9DUVU2OHIzTUg4WldNLU5USHVHTFlxY3ZBZXIyRVZpMml4LW9mSkpRa1RSX2pTazJJaUhoMnZLSlV0X1hqMGxUdmNnUnUxX0t0WTdXa0JzNHNjRkw5dHowRzV4TnJKZw?oc=5",
+    "title": "Toyota's 640-HP GR GT Is Being Shaped by Its GT3 Race Car - AOL.com",
+    "source": "AOL.com",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T08:16:28.278722+00:00",
+    "occurred_at": "Thu, 10 Sep 2026 17:01:00 GMT"
+  },
+  {
+    "id": "1789200988279-1",
+    "url": "https://youtube.com/watch?v=WuO0Bk4138A",
+    "title": "Toyota GR GT wide body kyza inspired",
+    "source": "memoryfab",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-12T08:16:28.278722+00:00",
+    "occurred_at": "2026-09-12T07:00:39Z"
+  },
+  {
+    "id": "1789200988279-2",
+    "url": "https://youtube.com/watch?v=rNTz01DWA1o",
+    "title": "Toyota Gr GT3 - Senjata Baru Dari toyota #cars #toyota #toyotagrgt3 #fia #gt3",
+    "source": "OtoVerse",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-12T08:16:28.278722+00:00",
+    "occurred_at": "2026-09-12T04:06:13Z"
   }
 ]
