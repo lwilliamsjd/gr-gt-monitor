@@ -5918,5 +5918,15 @@
     "sentiment_label": "negative",
     "added_at": "2026-09-13T16:16:36.870296+00:00",
     "occurred_at": "2026-09-13T14:15:27Z"
+  },
+  {
+    "id": "1789323508379-0",
+    "url": "https://youtube.com/watch?v=WMRvOZW4-5I",
+    "title": "Toyota GR GT Prototype Body Kit - Forza Horizon 6 [RTX 3070]",
+    "source": "Arcazel",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-13T18:18:28.378798+00:00",
+    "occurred_at": "2026-09-13T18:01:54Z"
   }
 ]
