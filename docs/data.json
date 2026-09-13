@@ -5898,5 +5898,25 @@
     "sentiment_label": "negative",
     "added_at": "2026-09-13T12:20:00.623470+00:00",
     "occurred_at": "2026-09-13 00:00:00"
+  },
+  {
+    "id": "1789316196870-0",
+    "url": "https://youtube.com/watch?v=WhwN6tMMoAk",
+    "title": "Toyota GR GT 2025 #toyota #toyotagr #japan #forzahorizon6 #fyp #fh6",
+    "source": "Imbusz",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-13T16:16:36.870296+00:00",
+    "occurred_at": "2026-09-13T15:00:27Z"
+  },
+  {
+    "id": "1789316196870-1",
+    "url": "https://youtube.com/watch?v=Hmo2zouuma4",
+    "title": "2027 Toyota GR GT3 \u2013 Toyota Just Built a V10 Killer!",
+    "source": "PrimeCars",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-13T16:16:36.870296+00:00",
+    "occurred_at": "2026-09-13T14:15:27Z"
   }
 ]
