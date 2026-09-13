@@ -5928,5 +5928,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-13T18:18:28.378798+00:00",
     "occurred_at": "2026-09-13T18:01:54Z"
+  },
+  {
+    "id": "1789330581634-0",
+    "url": "https://youtube.com/watch?v=VuEAtrYNGIQ",
+    "title": "Toyota GR GT GT3 Body Kit - Forza Horizon 6 [RTX 3070] #forzahorizon6",
+    "source": "Arcazel",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-13T20:16:21.634292+00:00",
+    "occurred_at": "2026-09-13T19:24:12Z"
+  },
+  {
+    "id": "1789330581634-1",
+    "url": "https://youtube.com/watch?v=Z2Ih4-u3ym0",
+    "title": "Toyota GR GT Prototype Body Kit - Forza Horizon 6 [RTX 3070]",
+    "source": "Arcazel",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-13T20:16:21.634292+00:00",
+    "occurred_at": "2026-09-13T19:14:56Z"
+  },
+  {
+    "id": "1789330581634-2",
+    "url": "https://youtube.com/watch?v=LNx4jbLsn7E",
+    "title": "\u062a\u0648\u064a\u0648\u062a\u0627 \u062a\u0643\u0634\u0641 \u0635\u0648\u062a \u0627\u0644\u0648\u062d\u0634 \u0627\u0644\u062c\u062f\u064a\u062f! \ud83d\ude31\ud83d\udd25 GR GT \u0648GR GT3",
+    "source": "\u0623\u0648\u062a\u0648 \u0646\u0628\u0636 | AutoNabd",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-13T20:16:21.634292+00:00",
+    "occurred_at": "2026-09-13T18:46:49Z"
   }
 ]
