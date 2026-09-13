@@ -5838,5 +5838,65 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-13T10:21:02.345329+00:00",
     "occurred_at": "2026-09-13T10:00:05Z"
+  },
+  {
+    "id": "1789302000623-0",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ERXNfbmN0WktDWFpydzVVZlh6OEhmbkJlQkhoSG52dzlnbG9hM0J4dEd1Mk1XQjRIMXRmeFBYbjVrcl9NcmpMREFBSTloU3NWRVktWlluUWVhQW13dU82cDNXVmdVNDJjcWQyLXFR?oc=5",
+    "title": "Toyota's GR GT Is Already Sold Out at 250 US Units - HotCars",
+    "source": "HotCars",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-13T12:20:00.623470+00:00",
+    "occurred_at": "Sun, 13 Sep 2026 10:31:12 GMT"
+  },
+  {
+    "id": "1789302000623-1",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObnFFeEpleWJxYWk2NGJnQzhvMndzRVp0dzRNOFFyOWw0Rnh2UzVJUzFoaTJrcUtURVc4T0Q1dU9lQUljN3Y1cDI4RVBZMEFVbTRtbXQxU09MbmdqRDIzaVdXVXR2SGVWR3pKLWpQSS1SRFVuNl9NcHRpZHN1YTk0QjZB?oc=5",
+    "title": "Toyota Invades Laguna Seca With A Pair Of GR GTs, And The V8 Music Is Glorious - CarBuzz",
+    "source": "CarBuzz",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-13T12:20:00.623470+00:00",
+    "occurred_at": "Sun, 13 Sep 2026 11:30:11 GMT"
+  },
+  {
+    "id": "1789302000624-2",
+    "url": "https://youtube.com/watch?v=FICa_VrznGI",
+    "title": "\u3010\u65b0\u578bGR GT\u3011\u30c8\u30e8\u30bf\u306e\u65b0\u602a\u7269\u304c\u3064\u3044\u306b\u767b\u5834\uff012027\u5e74\u767a\u58f2\u3078\u2026V8\u30c4\u30a4\u30f3\u30bf\u30fc\u30dc\u00d7\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u306e\u885d\u6483",
+    "source": "AutoPasi\u00f3n",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-13T12:20:00.623470+00:00",
+    "occurred_at": "2026-09-13T11:46:58Z"
+  },
+  {
+    "id": "1789302000624-3",
+    "url": "https://youtube.com/watch?v=LMUrg3LDBmo",
+    "title": "Toyota GR GT: \u00bfAdi\u00f3s a los coches aburridos?",
+    "source": "KevinCarsHD",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-13T12:20:00.623470+00:00",
+    "occurred_at": "2026-09-13T10:48:22Z"
+  },
+  {
+    "id": "1789302000624-4",
+    "url": "https://bsky.app/profile/newestcarsusa.bsky.social/post/3mvfjvf3zfx2c",
+    "title": "Toyota GR GT Roars at Laguna Seca Ahead of 2027 Launch",
+    "source": "@newestcarsusa.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-13T12:20:00.623470+00:00",
+    "occurred_at": "2026-09-13T11:53:19Z"
+  },
+  {
+    "id": "1789302000624-5",
+    "url": "https://www.newsbreak.com/carbuzz-com-510675/4882976961649-the-toyota-gr-gt-is-a-limited-track-ready-supercar-car-flippers-are-going-to-hate",
+    "title": "The Toyota GR GT Is A Limited Track-Ready Supercar Car Flippers Are Going To Hate",
+    "source": "newsbreak",
+    "platform": "news",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-13T12:20:00.623470+00:00",
+    "occurred_at": "2026-09-13 00:00:00"
   }
 ]
