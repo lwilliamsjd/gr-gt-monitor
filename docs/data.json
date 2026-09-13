@@ -5808,5 +5808,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-13T00:24:11.143866+00:00",
     "occurred_at": "2026-09-13T00:07:26Z"
+  },
+  {
+    "id": "1789273007503-0",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Fd2UySktRQkpKa3ltYnpNRVdJTE9EVjdTV01xV2lReTlGTVlnVkYwcWdkS3lUVDRXVGRtdUFnSUQySFRJYml6MVM2ajdiZ3NlWk9qR3hSTGRieHRJZk9IaGpPVno0UW90Zk0zdnBuQQ?oc=5",
+    "title": "The Toyota GR GT Is A Limited Track-Ready Supercar Car Flippers Are Going To Hate - CarBuzz",
+    "source": "CarBuzz",
+    "platform": "news",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-13T04:16:47.502981+00:00",
+    "occurred_at": "Sun, 13 Sep 2026 02:31:00 GMT"
   }
 ]
