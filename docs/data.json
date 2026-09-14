@@ -5958,5 +5958,25 @@
     "sentiment_label": "negative",
     "added_at": "2026-09-13T20:16:21.634292+00:00",
     "occurred_at": "2026-09-13T18:46:49Z"
+  },
+  {
+    "id": "1789359466699-0",
+    "url": "https://youtube.com/watch?v=6hRi5EnMATo",
+    "title": "This Tiny Toyota GR GT Is INSANE! \ud83e\udd2f\ud83d\udd25 #Shorts#ToyotaGRGT #DiecastCars #MiniatureCars #CarASMR",
+    "source": "CastRush \ud83c\udfc1",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-14T04:17:46.699548+00:00",
+    "occurred_at": "2026-09-14T03:46:43Z"
+  },
+  {
+    "id": "1789359466700-1",
+    "url": "https://youtube.com/watch?v=Yu0fOdIxzYM",
+    "title": "Toyota GR GT Prototype\ud83d\udd25| Forza Horizon 6",
+    "source": "RLGVR Real Life Gaming Visual Reals",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-14T04:17:46.699548+00:00",
+    "occurred_at": "2026-09-14T02:17:53Z"
   }
 ]
