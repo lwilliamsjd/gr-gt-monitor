@@ -6018,5 +6018,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-14T16:17:15.381123+00:00",
     "occurred_at": "2026-09-14T16:00:35Z"
+  },
+  {
+    "id": "1789409970247-0",
+    "url": "https://youtube.com/watch?v=LjfvPCrwimw",
+    "title": "Toyota Just Built a MONSTER \u2014 Meet the 2027 GR GT \ud83d\udd25 #shorts #reels",
+    "source": "My Favorite Cars",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-14T18:19:30.246767+00:00",
+    "occurred_at": "2026-09-14T18:07:58Z"
+  },
+  {
+    "id": "1789409970247-1",
+    "url": "https://youtube.com/watch?v=6SqRIFvMghw",
+    "title": "2027 Toyota GR GT Finally Revealed? \ud83d\udd25 The Future of Toyota Performance!",
+    "source": "THE TURBO TRIBE",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-14T18:19:30.246767+00:00",
+    "occurred_at": "2026-09-14T17:00:02Z"
   }
 ]
