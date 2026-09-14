@@ -6008,5 +6008,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-14T12:22:42.776981+00:00",
     "occurred_at": "2026-09-14T11:33:07Z"
+  },
+  {
+    "id": "1789402635381-0",
+    "url": "https://youtube.com/watch?v=hkm0HKZRG5E",
+    "title": "\u00a1El TOYOTA GR GT en exclusiva!",
+    "source": "Toyota Espa\u00f1a",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-14T16:17:15.381123+00:00",
+    "occurred_at": "2026-09-14T16:00:35Z"
   }
 ]
