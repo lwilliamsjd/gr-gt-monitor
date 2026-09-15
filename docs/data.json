@@ -6048,5 +6048,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-15T00:24:39.541778+00:00",
     "occurred_at": "Thu, 27 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1789438708166-0",
+    "url": "https://youtube.com/watch?v=jn2n_DO-WAI",
+    "title": "Toyota GR GT edit #toyotagrgt",
+    "source": "sohamks",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-15T02:18:28.165933+00:00",
+    "occurred_at": "2026-09-15T00:52:51Z"
+  },
+  {
+    "id": "1789438708166-1",
+    "url": "https://youtube.com/watch?v=qQgBXgaQsjY",
+    "title": "\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e16 Ep1  Gacha Oc V99/Toyota Gr GT \u0e43\u0e19 private city ",
+    "source": "Weerawich Promin",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-15T02:18:28.165933+00:00",
+    "occurred_at": "2026-09-15T00:34:45Z"
   }
 ]
