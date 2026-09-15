@@ -6138,5 +6138,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-15T18:18:03.107619+00:00",
     "occurred_at": "2026-09-15T17:00:37Z"
+  },
+  {
+    "id": "1789503424390-0",
+    "url": "https://youtube.com/watch?v=mjmr5BnlNAk",
+    "title": "2027 Toyota GR GT \u2014 Toyota\u2019s New Supercar That Could Shock Ferrari &amp; Lamborghini!",
+    "source": "Rev Culture",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-15T20:17:04.390388+00:00",
+    "occurred_at": "2026-09-15T19:08:05Z"
+  },
+  {
+    "id": "1789503424391-1",
+    "url": "https://lexusenthusiast.com/forums/threads/official-toyotas-gr-gt3-concept-will-become-the-gr-gt-production-car.7719/",
+    "title": "Official: Toyota\u2019s GR GT3 Concept will become the GR GT production car",
+    "source": "GR (Gazoo Racing) Discussion",
+    "platform": "forum",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-15T20:17:04.390388+00:00",
+    "occurred_at": "Tue, 15 Sep 2026 16:24:39 +0000"
   }
 ]
