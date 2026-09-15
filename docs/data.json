@@ -6158,5 +6158,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-15T20:17:04.390388+00:00",
     "occurred_at": "Tue, 15 Sep 2026 16:24:39 +0000"
+  },
+  {
+    "id": "1789510615351-0",
+    "url": "https://lexusenthusiast.com/forums/threads/gr-brand-discussion.7804/",
+    "title": "GR Brand Discussion",
+    "source": "GR (Gazoo Racing) Discussion",
+    "platform": "forum",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-15T22:16:55.351238+00:00",
+    "occurred_at": "Tue, 15 Sep 2026 21:23:55 +0000"
   }
 ]
