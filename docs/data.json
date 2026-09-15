@@ -6088,5 +6088,15 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-15T12:21:23.942940+00:00",
     "occurred_at": "2026-09-15T10:34:56Z"
+  },
+  {
+    "id": "1789481856642-0",
+    "url": "https://youtube.com/watch?v=atCxLu_6W0s",
+    "title": "Toyota GR GT highway light traffic cutup | Assetto Corsa | Wheel Gameplay",
+    "source": "Twincharged",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-15T14:17:36.642065+00:00",
+    "occurred_at": "2026-09-15T14:05:46Z"
   }
 ]
