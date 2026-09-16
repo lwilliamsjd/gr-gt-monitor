@@ -6198,5 +6198,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-16T12:22:21.562812+00:00",
     "occurred_at": "2026-09-16T10:56:43.655Z"
+  },
+  {
+    "id": "1789575427980-0",
+    "url": "https://youtube.com/watch?v=wl4pwJ1gaPk",
+    "title": "\u062a\u0648\u06cc\u0648\u062a\u0627 GR GT\ud83d\udd25\u2764\ufe0f #\u0645\u0627\u0634\u06cc\u0646_\u0627\u0633\u067e\u0631\u062a #\u0645\u0627\u0634\u06cc\u0646 #\u0627\u0633\u067e\u0631\u062a #\u0645\u0627\u0634\u06cc\u0646_\u0628\u0627\u0632\u0627\u0646 #\u0645\u0627\u0634\u06cc\u0646_\u062e\u0627\u0635",
+    "source": "\u0645\u0627\u0634\u06cc\u0646 \u0644\u0627\u06a9\u0686\u0631\u06cc",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-16T16:17:07.980001+00:00",
+    "occurred_at": "2026-09-16T15:55:47Z"
+  },
+  {
+    "id": "1789575427980-1",
+    "url": "https://youtube.com/watch?v=FumAJlFufbs",
+    "title": "2025 GR GT Prototype VS Hypercars - Forza Horizon 6 | Steering Wheel Gameplay",
+    "source": "SIG Drive",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-16T16:17:07.980001+00:00",
+    "occurred_at": "2026-09-16T15:00:26Z"
   }
 ]
