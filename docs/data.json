@@ -6178,5 +6178,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-16T06:22:22.392455+00:00",
     "occurred_at": "2026-09-16T04:40:57Z"
+  },
+  {
+    "id": "1789561341563-0",
+    "url": "https://youtube.com/watch?v=PZqiSruFEpc",
+    "title": "Toyota GR GT - Forza Horizon 6 | Hokubu Circuit 10-Lap Race | MOZA R9 Wheel Gameplay | RTX 5090 | 4K",
+    "source": "MrDriverX",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-16T12:22:21.562812+00:00",
+    "occurred_at": "2026-09-16T12:00:13Z"
+  },
+  {
+    "id": "1789561341563-1",
+    "url": "https://bsky.app/profile/mactcam.bsky.social/post/3mvmy4xa5us2b",
+    "title": "\u30ab\u30b9\u30bf\u30e0CAR\n\u30c8\u30e8\u30bf GR GT\n\n#AIart #AI\u30a4\u30e9\u30b9\u30c8\n\n\u30e9\u30ea\u30fc\u4ed5\u69d8\u2026\u3068\u8a00\u3046\u306b\u306f\u30bf\u30a4\u30e4\u3067\u304b\u3059\u304e\ud83d\udca6",
+    "source": "@mactcam.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-16T12:22:21.562812+00:00",
+    "occurred_at": "2026-09-16T10:56:43.655Z"
   }
 ]
