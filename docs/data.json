@@ -6238,5 +6238,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-17T00:22:43.397342+00:00",
     "occurred_at": "2026-09-16T23:08:18Z"
+  },
+  {
+    "id": "1789633140524-0",
+    "url": "https://youtube.com/watch?v=ltugzP48cg8",
+    "title": "\u3010\u885d\u6483\u3011GR GT\u306e\u7c73\u56fd200\uff5e250\u53f0\u300cSOLD OUT\u300d\u306f\u4f55\u3092\u610f\u5473\u3059\u308b\uff1f",
+    "source": "Japan News ",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-17T08:19:00.524290+00:00",
+    "occurred_at": "2026-09-17T07:01:58Z"
   }
 ]
