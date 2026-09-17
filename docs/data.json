@@ -6268,5 +6268,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-17T14:18:02.976410+00:00",
     "occurred_at": "Fri, 17 Jul 2026 03:53:47 GMT"
+  },
+  {
+    "id": "1789683358411-0",
+    "url": "https://youtube.com/watch?v=e3AEi_RNIfU",
+    "title": "Toyota GR GT: The 641HP LFA Successor \ud83d\udd25",
+    "source": "Shayan's Vision",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-17T22:15:58.411193+00:00",
+    "occurred_at": "2026-09-17T22:00:17Z"
   }
 ]
