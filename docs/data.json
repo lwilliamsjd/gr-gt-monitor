@@ -6398,5 +6398,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-18T18:18:37.652578+00:00",
     "occurred_at": "2026-09-18T17:37:34Z"
+  },
+  {
+    "id": "1789762581288-0",
+    "url": "https://youtube.com/watch?v=m9kfs3JsLPg",
+    "title": "Revealing the GR GT3&#39;s Secrets | The NEW Gazoo Racing GT3 Race Car!",
+    "source": "IMSA Official",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-18T20:16:21.288737+00:00",
+    "occurred_at": "2026-09-18T13:00:06Z"
   }
 ]
