@@ -6388,5 +6388,15 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-18T16:15:50.133187+00:00",
     "occurred_at": "2026-09-18T14:45:05Z"
+  },
+  {
+    "id": "1789755517652-0",
+    "url": "https://youtube.com/watch?v=KlyChtPHXV4",
+    "title": "GR GT Prototype: A Cinematic Run Forza Horizon 6",
+    "source": "Ivan RSQ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-18T18:18:37.652578+00:00",
+    "occurred_at": "2026-09-18T17:37:34Z"
   }
 ]
