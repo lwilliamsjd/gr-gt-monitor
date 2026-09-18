@@ -6368,5 +6368,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-18T14:16:58.635494+00:00",
     "occurred_at": "Sat, 18 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1789748150133-0",
+    "url": "https://youtube.com/watch?v=PjGELSypjwQ",
+    "title": "\ud83d\ude80 2027 Toyota GR GT \u2013 The FUTURE of Toyota Performance Has Arrived! \ud83d\udd25\ud83c\udfc1",
+    "source": "USA Cars Experts",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-18T16:15:50.133187+00:00",
+    "occurred_at": "2026-09-18T14:49:59Z"
+  },
+  {
+    "id": "1789748150133-1",
+    "url": "https://youtube.com/watch?v=lCqQ8Gxp46Q",
+    "title": "\u3010\u30c8\u30e8\u30bf GR GT\u3011\u6700\u9ad8\u901f\u5ea6\u306f320km/h\u8d85\uff01\u30d5\u30a7\u30e9\u30fc\u30ea\u7d1a\u306e\u6027\u80fd\u3092\u8a87\u308b\u3001\u30c8\u30e8\u30bf\u53f2\u4e0a\u6700\u5f37\u306e\u30b9\u30fc\u30d1\u30fc\u30ab\u30fc\u304c\u3064\u3044\u306b\u767b\u5834\uff01\u2026\u2026JAPANESE CARS",
+    "source": "Jacson Chase",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-18T16:15:50.133187+00:00",
+    "occurred_at": "2026-09-18T14:45:05Z"
   }
 ]
