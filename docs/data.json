@@ -6288,5 +6288,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-18T00:22:53.782228+00:00",
     "occurred_at": "2026-09-17T23:07:51Z"
+  },
+  {
+    "id": "1789705028575-0",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObkwwQzl6dWU4Mk9Od25IYnZHVFpRMGZIQUZsaTNOR282QkhvSy1wcWpzWm9LSG16OVlFcl9qVmNPV3p6NTg1N3FvU1JmZEdDeUJXVlRDb29hTmtmSzM2TENubTRDcHl4anJQdnMtZnNSU09RbERVazJmNEZxMFZRM0doa2JOaVZ4TjhVdEszNlJRSmppMGZnaw?oc=5",
+    "title": "Toyota GR GT to Add A80 Supra-Style Targa Top Variant, Report Claims - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-18T04:17:08.575129+00:00",
+    "occurred_at": "Tue, 04 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "id": "1789705028575-1",
+    "url": "https://youtube.com/watch?v=BebLktSZmNs",
+    "title": " \u30c8\u30e8\u30bf\u65b0\u578bGR GT\u3001\u3064\u3044\u306b\u899a\u9192\uff01650PS\u8d85\u3048V8\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u304c\u30e4\u30d0\u3059\u304e\u308b\u2026\uff01JDM Supercar",
+    "source": "MVP Motors",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-18T04:17:08.575129+00:00",
+    "occurred_at": "2026-09-18T04:00:10Z"
   }
 ]
