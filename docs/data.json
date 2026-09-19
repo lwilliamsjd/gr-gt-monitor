@@ -6428,5 +6428,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-19T10:15:57.916218+00:00",
     "occurred_at": "2026-09-19T09:40:29Z"
+  },
+  {
+    "id": "1789820409629-0",
+    "url": "https://youtube.com/watch?v=2xdUzZ-ha7s",
+    "title": "The 2025 GR GR GT (Prototype) | Test Drive | Forza Horizon 6 4K HDR Wide",
+    "source": "SimuMania",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-19T12:20:09.629049+00:00",
+    "occurred_at": "2026-09-19T12:12:02Z"
+  },
+  {
+    "id": "1789820409629-1",
+    "url": "https://youtube.com/watch?v=hV1PV1pBjY4",
+    "title": "The Toyota GR GT/GT3 on Rolex Monterey Motorsports &amp; N\u00dcRBURGRING ft. MA5 - Aura (Bootleg Mix Video)",
+    "source": "Hide Tama",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-19T12:20:09.629049+00:00",
+    "occurred_at": "2026-09-19T12:00:19Z"
+  },
+  {
+    "id": "1789820409629-2",
+    "url": "https://bsky.app/profile/whowatchwear.bsky.social/post/3mvumnvpx7q24",
+    "title": "Toyota GR GT Prototype Brings a Sharper Look to California Streets #California #cars #GazooRacing #LagunaSeca\r\n\r\nhttps://whowatchwear.com/toyota-gr-gt-prototype-brings-a-sharper-look-to-california-streets/",
+    "source": "@whowatchwear.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-19T12:20:09.629049+00:00",
+    "occurred_at": "2026-09-19T11:52:44+00:00"
   }
 ]
