@@ -6468,5 +6468,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-19T18:18:26.259301+00:00",
     "occurred_at": "2026-09-19T16:27:07Z"
+  },
+  {
+    "id": "1789848955980-0",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNm9GSWxHeXhiM19SLTk1aTFwRi03eDZIeXNKeHFvY2pHanRLckRGbk9qU0pBbmFxSXhnQ3JqZ0NjM3Q1VlBhVldKM0hjYkdyeFJiNkhidXFrNVl5cXN2bWhiQW15ZEpSTzZMT2IyUXpuY2Q2QUhmNjQ3LXJENnBlMS1pZGJRQkdPWGZHSlcxMlRSUVU?oc=5",
+    "title": "Spotted: Toyota GR GT Benchmarking Against GR GT3 At Laguna Seca - inkl",
+    "source": "inkl",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-19T20:15:55.979879+00:00",
+    "occurred_at": "Fri, 11 Sep 2026 09:27:11 GMT"
+  },
+  {
+    "id": "1789848955980-1",
+    "url": "https://youtube.com/watch?v=tr2QbZIEHH4",
+    "title": "@YesThisCar Toyota GR GT sound (exterior, interior) #car #viral #automobile #shorts",
+    "source": "Piroo rock vibz ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-19T20:15:55.979879+00:00",
+    "occurred_at": "2026-09-19T19:56:43Z"
   }
 ]
