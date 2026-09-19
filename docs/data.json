@@ -6488,5 +6488,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-19T20:15:55.979879+00:00",
     "occurred_at": "2026-09-19T19:56:43Z"
+  },
+  {
+    "id": "1789856126048-0",
+    "url": "https://youtube.com/watch?v=8cTZW4nT_fM",
+    "title": "BMW iX3 or Toyota GR GT? Which One Would You Pick? \ud83d\ude97\ud83d\udd25",
+    "source": "Mirish Drifts",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-19T22:15:26.047865+00:00",
+    "occurred_at": "2026-09-19T22:07:16Z"
+  },
+  {
+    "id": "1789856126048-1",
+    "url": "https://youtube.com/watch?v=RS6_dTaWb_4",
+    "title": "TOYOTA GR GT | FORZA HORIZON 6 | LOGITECH STEERING WHEEL G923",
+    "source": "CRacing",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-19T22:15:26.047865+00:00",
+    "occurred_at": "2026-09-19T21:28:31Z"
   }
 ]
