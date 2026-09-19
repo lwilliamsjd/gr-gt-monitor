@@ -6408,5 +6408,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-18T20:16:21.288737+00:00",
     "occurred_at": "2026-09-18T13:00:06Z"
+  },
+  {
+    "id": "1789812957916-0",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcC0zaDd6azFnQ0kwYi01ck8tMlB0ZzYxY3JDakF5eHFyRzVLejhOOUM3M1VmVms1ZFY1VE5sdXlRaDNubi02UDRUeUYtZzdNZno0NWpUV2pBajdVaEwxdkpNdlo4Q2g1UEJrNHZiZHRvLU5WQ05UMnFRM0hnY3kwMW5Zd0RKanBzNVlqYmZ4MF9MVC1fSWJvT1RxUmZpTjRH?oc=5",
+    "title": "Aggressive-looking Toyota GR GT test vehicle spotted in California - The Supercar Blog",
+    "source": "The Supercar Blog",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-19T10:15:57.916218+00:00",
+    "occurred_at": "Sat, 19 Sep 2026 09:09:56 GMT"
+  },
+  {
+    "id": "1789812957916-1",
+    "url": "https://youtube.com/watch?v=Q9_vm9uu440",
+    "title": "Forza Horizon 6 Toyota GR GT 2025 Prototype",
+    "source": "KnYpSiK NOOB",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-19T10:15:57.916218+00:00",
+    "occurred_at": "2026-09-19T09:40:29Z"
   }
 ]
