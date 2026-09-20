@@ -6548,5 +6548,15 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-20T02:16:20.679948+00:00",
     "occurred_at": "2026-09-20T00:34:23.335Z"
+  },
+  {
+    "id": "1789877797195-0",
+    "url": "https://youtube.com/watch?v=3kfAb7276VY",
+    "title": "GR GT Relaxing Driving in Japan | FORZA HORIZON 6",
+    "source": "Haiku",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-20T04:16:37.195051+00:00",
+    "occurred_at": "2026-09-20T03:14:00Z"
   }
 ]
