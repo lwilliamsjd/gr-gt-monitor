@@ -6508,5 +6508,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-19T22:15:26.047865+00:00",
     "occurred_at": "2026-09-19T21:28:31Z"
+  },
+  {
+    "id": "1789863859026-0",
+    "url": "https://youtube.com/watch?v=0T1Psxktv4A",
+    "title": "Toyota GR GT - Forza Horizon 6 | Logitech G920 Steering Wheel Gameplay",
+    "source": "Jaleno Slice Gaming ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-20T00:24:19.026511+00:00",
+    "occurred_at": "2026-09-19T22:36:10Z"
+  },
+  {
+    "id": "1789863859027-1",
+    "url": "https://youtube.com/watch?v=YrrKPCJTbNM",
+    "title": "\u3010\u306a\u305c\u8d64\u5b57\u899a\u609f\u3067\u4f5c\u308b\u306e\u304b\uff1f\u3011\u7c73\u56fd\u5272\u308a\u5f53\u3066\u308f\u305a\u304b200\u53f0\u898f\u6a21\u306e\u30c8\u30e8\u30bf\u300cGR GT\u300d\u304b\u3089\u7d10\u89e3\u304f\u201c\u8d85\u5de8\u984d\u6295\u8cc7\u201d\u306e\u306d\u3089\u3044",
+    "source": "\u65e5\u672c\u30e9\u30a4\u30d6\u901f\u5831",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-20T00:24:19.026511+00:00",
+    "occurred_at": "2026-09-19T09:51:10Z"
   }
 ]
