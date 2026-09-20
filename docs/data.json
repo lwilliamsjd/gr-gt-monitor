@@ -6528,5 +6528,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-20T00:24:19.026511+00:00",
     "occurred_at": "2026-09-19T09:51:10Z"
+  },
+  {
+    "id": "1789870580679-0",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYldjSGxKY1ljb3pQTVoyelV1VUI4Zi11TFZkM2NvYUNIMnBpbkFVY3BJbUNtc0l5OVZBSVRYOEFVSGdZY0N1cTdGR29UanFVRmlqRl90SC00LTIzVTJ3djNxZVNDUG1NdlJheTFxMVN1YmM4SWMxTXFpVDVhTGFPclJtSld0MmRRdU9sM2JTQl9ycGRtcmpB?oc=5",
+    "title": "Toyota GR GT And GR GT3 Laguna Seca Laps: What The Specs Reveal - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-20T02:16:20.679948+00:00",
+    "occurred_at": "Tue, 15 Sep 2026 19:33:00 GMT"
+  },
+  {
+    "id": "1789870580680-1",
+    "url": "https://bsky.app/profile/mokudo.work/post/3mvvx7skynk24",
+    "title": "\u30de\u30c4\u30c0\u306fRX-VISION GT3 EVO\u3068\u3044\u3046\u5f62\u3067\u30ed\u30fc\u30bf\u30ea\u30fc\u306e\u5922\u3092\u8a9e\u3063\u3066\u304f\u308c\u308b\n\u30c8\u30e8\u30bf\u306fGR\u30e4\u30ea\u30b9 M\u30b3\u30f3\u30bb\u30d7\u30c8\u3084GR GT\u3067\u5922\u3092\u898b\u305b\u3066\u304f\u308c\u308b",
+    "source": "@mokudo.work",
+    "platform": "bluesky",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-20T02:16:20.679948+00:00",
+    "occurred_at": "2026-09-20T00:34:23.335Z"
   }
 ]
