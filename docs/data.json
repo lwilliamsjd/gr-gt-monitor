@@ -6578,5 +6578,15 @@
     "sentiment_label": "negative",
     "added_at": "2026-09-20T08:16:49.595935+00:00",
     "occurred_at": "Sun, 20 Sep 2026 07:32:06 GMT"
+  },
+  {
+    "id": "1789906796608-0",
+    "url": "https://youtube.com/watch?v=HEMgwdP9y1g",
+    "title": "\u041f\u043e\u0447\u0435\u043c\u0443 Toyota \u0440\u0435\u0448\u0438\u043b\u0430 \u0432\u0435\u0440\u043d\u0443\u0442\u044c V8 \u0432 \u0441\u0432\u043e\u044e GR GT",
+    "source": "\u041c\u043e\u0442\u043e\u0440\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e Mirax",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-20T12:19:56.607993+00:00",
+    "occurred_at": "2026-09-20T12:00:20Z"
   }
 ]
