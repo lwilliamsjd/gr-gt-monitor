@@ -6638,5 +6638,85 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-21T08:18:28.883044+00:00",
     "occurred_at": "Mon, 21 Sep 2026 07:15:00 GMT"
+  },
+  {
+    "id": "1789985809379-0",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wUzU2VFhOUTVES0RKXzFhWWRNVTlrbmpkckdSS1l4dFdjc25rWm9jRmV1c054dk5uQ2xpelNBSzljdw?oc=5",
+    "title": "Toyota GR GT3 Designed as a Racing Car, Then Sold for the Road - VOI.ID",
+    "source": "VOI.ID",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-21T10:16:49.379286+00:00",
+    "occurred_at": "Mon, 21 Sep 2026 07:31:52 GMT"
+  },
+  {
+    "id": "1789985809379-1",
+    "url": "https://youtube.com/watch?v=QhS89Z3nLwE",
+    "title": "A Brand-New 2027 Toyota GR GT Was Hidden Inside This Container! \ud83d\ude31\ud83c\udfce\ufe0f\ud83d\udce6",
+    "source": "Juicy Glow ASMR",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-21T10:16:49.379286+00:00",
+    "occurred_at": "2026-09-21T10:00:19Z"
+  },
+  {
+    "id": "1789985809379-2",
+    "url": "https://youtube.com/watch?v=J0uBox42xqs",
+    "title": "TOYOTA GR GT SPORTS CAR #carrestoration #mechanic #scorpio",
+    "source": "\u00c1K KARIM CAR",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-21T10:16:49.379286+00:00",
+    "occurred_at": "2026-09-21T09:52:05Z"
+  },
+  {
+    "id": "1789985809379-3",
+    "url": "https://youtube.com/watch?v=7s9uOXUe27o",
+    "title": "TOYOTA GR GT SPORTS CAR",
+    "source": "\u00c1K KARIM CAR",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-21T10:16:49.379286+00:00",
+    "occurred_at": "2026-09-21T09:51:58Z"
+  },
+  {
+    "id": "1789985809379-4",
+    "url": "https://youtube.com/watch?v=B-GLFWWjT9A",
+    "title": "TOYOTA GR GT SPORTS CAR #newyoutuber",
+    "source": "AK KARIM CR 7",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-21T10:16:49.379286+00:00",
+    "occurred_at": "2026-09-21T09:48:50Z"
+  },
+  {
+    "id": "1789985809379-5",
+    "url": "https://youtube.com/watch?v=ccau9z54DSc",
+    "title": "TOYOTA GR GT SPORTS CAR #asmrtapping",
+    "source": "AK KARIM CR 7",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-21T10:16:49.379286+00:00",
+    "occurred_at": "2026-09-21T09:48:30Z"
+  },
+  {
+    "id": "1789985809379-6",
+    "url": "https://youtube.com/watch?v=FMWLfdsD5Zo",
+    "title": "TOYOTA GR GT SPORTS CAR #newyoutuber",
+    "source": "AK KARIM CR 7",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-21T10:16:49.379286+00:00",
+    "occurred_at": "2026-09-21T09:48:13Z"
+  },
+  {
+    "id": "1789985809379-7",
+    "url": "https://youtube.com/watch?v=D_lLt35xI64",
+    "title": "[1000HP] ~ Toyota GR GT VS GTcars ~ Forza Horizon 6 | Steering Wheel Gameplay",
+    "source": "Pure Drive X",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-21T10:16:49.379286+00:00",
+    "occurred_at": "2026-09-21T09:11:20Z"
   }
 ]
