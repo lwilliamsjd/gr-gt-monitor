@@ -6758,5 +6758,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-21T16:17:27.535574+00:00",
     "occurred_at": "2026-09-21T14:30:11Z"
+  },
+  {
+    "id": "1790014733993-0",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBXdk9DQXRORl9OQzV2ZF83Z0dLeHBFR2FHOXJ3THdnX2tRSDZrMjk3cTZlbm4xZFNKNEF3U3pSazRoM0N0?oc=5",
+    "title": "Toyota GR GT3 Designed as a Racing Car, Then Sold for the Road - VOI.ID",
+    "source": "VOI.ID",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-21T18:18:53.993293+00:00",
+    "occurred_at": "Mon, 21 Sep 2026 07:15:00 GMT"
+  },
+  {
+    "id": "1790014733993-1",
+    "url": "https://youtube.com/watch?v=dMNHTa9fI4Q",
+    "title": "THIS TINY TOYOTA GR GT IS ABSOLUTELY INSANE! \ud83e\udd2f\ud83d\udd25\ud83c\udfce\ufe0f#shorts #diecastxofficialusa",
+    "source": "\ud835\ude3f\ud835\ude5e\ud835\ude5a\ud835\ude58\ud835\ude56\ud835\ude68\ud835\ude69\ud835\ude53",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-21T18:18:53.993293+00:00",
+    "occurred_at": "2026-09-21T18:00:12Z"
   }
 ]
