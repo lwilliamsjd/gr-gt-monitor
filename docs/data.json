@@ -6808,5 +6808,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-21T20:16:29.947848+00:00",
     "occurred_at": "2026-09-21T19:22:01Z"
+  },
+  {
+    "id": "1790058073355-0",
+    "url": "https://youtube.com/watch?v=QrAjesnMG8k",
+    "title": "Toyota GR GT Modified Limited Car\u2b50\ufe0f\ud83d\udca8 #shortvideo #roblox #toyotagrgt #shorts #rarecars",
+    "source": "SGK707",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-22T06:21:13.355141+00:00",
+    "occurred_at": "2026-09-22T05:48:49Z"
+  },
+  {
+    "id": "1790058073355-1",
+    "url": "https://youtube.com/watch?v=VrhmZWLDNWs",
+    "title": "2027 Toyota GR GT \u2013 Toyota\u2019s $300K Supercar That Changes Everything! \ud83d\udd25",
+    "source": "GlobalAutoReview",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-22T06:21:13.355141+00:00",
+    "occurred_at": "2026-09-22T05:48:13Z"
+  },
+  {
+    "id": "1790058073355-2",
+    "url": "https://youtube.com/watch?v=c3r_hjZhL-E",
+    "title": "20260922 \ud3ec\ub974\uc790 \ud638\ub77c\uc774\uc98c6 - 2025 GR GT(\ud504\ub85c\ud1a0\ud0c0\uc785) ",
+    "source": "gugualp",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-22T06:21:13.355141+00:00",
+    "occurred_at": "2026-09-22T04:52:41Z"
   }
 ]
