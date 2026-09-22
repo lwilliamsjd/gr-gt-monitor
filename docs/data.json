@@ -6838,5 +6838,15 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-22T06:21:13.355141+00:00",
     "occurred_at": "2026-09-22T04:52:41Z"
+  },
+  {
+    "id": "1790101341250-0",
+    "url": "https://youtube.com/watch?v=XGu20inmouQ",
+    "title": "Forza Horizon 6 \u2013 Toyota GR GT | Tokyo Highway by Night | Autumn Gameplay",
+    "source": "Azos Gaming",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-22T18:22:21.249782+00:00",
+    "occurred_at": "2026-09-22T16:30:39Z"
   }
 ]
