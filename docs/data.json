@@ -6898,5 +6898,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-23T02:16:47.779411+00:00",
     "occurred_at": "2026-09-23T01:41:18Z"
+  },
+  {
+    "id": "1790137049060-0",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnh6eE11a2dpU0hxNm12ekxxNElfYWdmbnJ1clpBc202R2tZeXlKRzY5NG5NMWtXRnRIRjRFSUdFdHp6V2JZX1pQTTZiWEhXZkVILXVhMjltM1hvODF0TnluWWpnalhQX2gzSGxnN1dDOTMyZW9faUVyMG5jM2pUdHBXSV9NS1p3U3Q0Wnh0enJ6eVdKVUR6NDN2M0g4SWxI?oc=5",
+    "title": "Toyota Put the Street-Legal GR GT Next to Its GR GT3 Racer at Laguna Seca, and That Was the Whole Point - Yahoo Autos",
+    "source": "Yahoo Autos",
+    "platform": "news",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-23T04:17:29.060432+00:00",
+    "occurred_at": "Tue, 22 Sep 2026 20:00:00 GMT"
+  },
+  {
+    "id": "1790137049061-1",
+    "url": "https://youtube.com/watch?v=dWtKfKUV4ko",
+    "title": "New Toyota GR GT Supercar : Indian / New  Toyota GT Cinematic Review #toyota #cars #supercars ",
+    "source": "Vaibhav Create",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-23T04:17:29.060432+00:00",
+    "occurred_at": "2026-09-23T02:46:18Z"
   }
 ]
