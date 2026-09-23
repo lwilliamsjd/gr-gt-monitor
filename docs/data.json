@@ -6918,5 +6918,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-23T04:17:29.060432+00:00",
     "occurred_at": "2026-09-23T02:46:18Z"
+  },
+  {
+    "id": "1790166092640-0",
+    "url": "https://youtube.com/watch?v=NH4kgv3mQsQ",
+    "title": "La GR GT \ud83e\udd29",
+    "source": "ELYO lyo lyo",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-23T12:21:32.640696+00:00",
+    "occurred_at": "2026-09-23T11:40:16Z"
+  },
+  {
+    "id": "1790166092641-1",
+    "url": "https://youtube.com/watch?v=tguUaPljtCs",
+    "title": "\u3010\u30c8\u30e8\u30bf\u65b0\u578bGR GT\u3011LFA\u306e\u9b42\u3092\u7d99\u3050\u30d5\u30e9\u30c3\u30b0\u30b7\u30c3\u30d7\u306e\u5168\u8c8c\u3068\u30c8\u30e8\u30bf\u306e\u4e16\u754c\u6226\u7565\u306b\u3064\u3044\u3066",
+    "source": "\u30a8\u30f3\u30bf\u30e1\u306e\u6b63\u4f53",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-23T12:21:32.640696+00:00",
+    "occurred_at": "2026-09-23T10:10:53Z"
   }
 ]
