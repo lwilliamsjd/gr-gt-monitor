@@ -7058,5 +7058,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-24T12:21:27.863872+00:00",
     "occurred_at": "2026-09-24T10:17:34Z"
+  },
+  {
+    "id": "1790259452760-0",
+    "url": "https://youtube.com/watch?v=CXN8XFvNojY",
+    "title": "FH6 GR GT Prototype Driving",
+    "source": "ZEN DRIVES",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-24T14:17:32.759804+00:00",
+    "occurred_at": "2026-09-24T14:00:11Z"
   }
 ]
