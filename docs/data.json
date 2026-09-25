@@ -7108,5 +7108,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-25T10:16:55.835623+00:00",
     "occurred_at": "2026-09-25T09:00:16Z"
+  },
+  {
+    "id": "1790338890206-0",
+    "url": "https://youtube.com/watch?v=l9FE940rhbw",
+    "title": "\u3010\u65b0\u578b\u767b\u5834\u3011\u30c8\u30e8\u30bf\u306e\u65b0\u578b\u300cGR GT\u300d\u304c\u3064\u3044\u306b\u767b\u5834\uff01\u9a5a\u7570\u306e\u6027\u80fd\u3001\u65b0\u30c7\u30b6\u30a4\u30f3\u3001\u305d\u3057\u3066\u8ab0\u3082\u304c\u6c17\u306b\u306a\u308b\u4fa1\u683c\u3092\u5fb9\u5e95\u89e3\u8aac\u3057\u307e\u3059\uff01",
+    "source": "Mustansar Khan",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-25T12:21:30.205931+00:00",
+    "occurred_at": "2026-09-25T12:06:24Z"
+  },
+  {
+    "id": "1790338890206-1",
+    "url": "https://youtube.com/watch?v=xTXfvn85Jek",
+    "title": "Toyota GR GT \ud83d\udd25| Ultimate Snow Drift &amp; Extreme Racing Gameplay! \ud83c\udfce\ufe0f\ud83d\udca8\u2744\ufe0f| Forza Horizon 6",
+    "source": "Heavy Driver Racing",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-25T12:21:30.205931+00:00",
+    "occurred_at": "2026-09-25T11:30:07Z"
   }
 ]
