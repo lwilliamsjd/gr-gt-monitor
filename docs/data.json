@@ -7128,5 +7128,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-25T12:21:30.205931+00:00",
     "occurred_at": "2026-09-25T11:30:07Z"
+  },
+  {
+    "id": "1790345864652-0",
+    "url": "https://youtube.com/watch?v=67wpgC355CY",
+    "title": "FH6 GR GT Prototype Driving",
+    "source": "ZEN DRIVES",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-25T14:17:44.652082+00:00",
+    "occurred_at": "2026-09-25T14:00:09Z"
+  },
+  {
+    "id": "1790345864652-1",
+    "url": "https://youtube.com/watch?v=TQB1iqh-h_c",
+    "title": "Epic Miniature Toyota GR GT Drift\ud83d\ude97\ud83d\udca8 #viral #ai #youtubeshorts #shorts #shortvideo #short #trending",
+    "source": "AI Zetex",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-25T14:17:44.652082+00:00",
+    "occurred_at": "2026-09-25T13:37:19Z"
   }
 ]
