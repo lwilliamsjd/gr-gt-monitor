@@ -7208,5 +7208,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-26T11:12:19.556529+00:00",
     "occurred_at": "2026-09-26T06:02:29Z"
+  },
+  {
+    "id": "1790439191393-0",
+    "url": "https://youtube.com/watch?v=RNcazpAlbjE",
+    "title": "TOYOTA GR GT",
+    "source": "Project gears",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-26T16:13:11.393399+00:00",
+    "occurred_at": "2026-09-26T12:12:24Z"
+  },
+  {
+    "id": "1790439191393-1",
+    "url": "https://youtube.com/watch?v=gszQfkoZEZk",
+    "title": "\ud83d\ude31 2027 Toyota GR GT \u2013 Toyota\u2019s NEW Supercar Is Here! Insane Design, Power &amp; Luxury!",
+    "source": "Wheels Vibe",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-26T16:13:11.393399+00:00",
+    "occurred_at": "2026-09-26T12:00:29Z"
   }
 ]
