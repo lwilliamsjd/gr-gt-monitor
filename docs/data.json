@@ -7228,5 +7228,15 @@
     "sentiment_label": "negative",
     "added_at": "2026-09-26T16:13:11.393399+00:00",
     "occurred_at": "2026-09-26T12:00:29Z"
+  },
+  {
+    "id": "1790495850713-0",
+    "url": "https://youtube.com/watch?v=Lu66zdEED5E",
+    "title": "Toyota\u2019s GR GT Is Built Different \ud83d\udc80 #toyotagrgt",
+    "source": "Carmaxxin",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-27T07:57:30.712787+00:00",
+    "occurred_at": "2026-09-27T02:48:08Z"
   }
 ]
