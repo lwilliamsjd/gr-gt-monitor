@@ -7338,5 +7338,55 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-28T20:28:46.060684+00:00",
     "occurred_at": "2026-09-28T14:07:27Z"
+  },
+  {
+    "id": "1790699215732-0",
+    "url": "https://youtube.com/watch?v=qwyNpc4o4Ss",
+    "title": "2027\u5e74\u767b\u5834\u4e88\u5b9a\u30c8\u30e8\u30bf\u65b0\u578bGR GT\u304c\u51c4\u3059\u304e\u308b\uff01V8\u30c4\u30a4\u30f3\u30bf\u30fc\u30dc\u00d7650\u99ac\u529b\u8d85\u306e\u6b21\u4e16\u4ee3\u30b9\u30fc\u30d1\u30fc\u30ab\u30fc\uff01",
+    "source": "U.D Motors",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-29T16:26:55.732050+00:00",
+    "occurred_at": "2026-09-29T15:27:23Z"
+  },
+  {
+    "id": "1790699215732-1",
+    "url": "https://youtube.com/watch?v=hwRy7Ffl4WY",
+    "title": "2027 Toyota GR GT \u2013 Toyota\u2019s 650HP Twin-Turbo V8 Supercar Is Here!",
+    "source": "Storm Rider",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-29T16:26:55.732050+00:00",
+    "occurred_at": "2026-09-29T14:38:50Z"
+  },
+  {
+    "id": "1790699215732-2",
+    "url": "https://youtube.com/watch?v=GF4b3kRNaJ0",
+    "title": "GR GT \u8207 GR GT3 \u540c\u5834\u4e0a\u8cfd\u9053\uff01\ud83d\udd25\ud83c\udfce\ufe0f  \u5169\u53f0\u6027\u80fd\u731b\u7378\u4e00\u8d77\u51fa\u73fe\u5728 Rolex Monterey Motorsports Reunion\uff0c\u9019\u756b\u9762\u5c0d\u8eca\u8ff7\u4f86\u8aaa\u771f\u7684\u592a\u723d\u4e86 \ud83d\udcf8\ud83d\udd25",
+    "source": "Carvo",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-29T16:26:55.732050+00:00",
+    "occurred_at": "2026-09-29T11:00:26Z"
+  },
+  {
+    "id": "1790699215732-3",
+    "url": "https://youtube.com/watch?v=paBqITYeDSc",
+    "title": "GR GT Silver",
+    "source": "adamaja.official",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-29T16:26:55.732050+00:00",
+    "occurred_at": "2026-09-29T08:59:30Z"
+  },
+  {
+    "id": "1790699215732-4",
+    "url": "https://youtube.com/watch?v=gxHb0IRybAI",
+    "title": "2027 GR GT vs X5 M \ud83d\ude31 Two Completely Different Performance Beasts #luxurycars #carlovers #exoticcars",
+    "source": "Luxury Cars Collection",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-29T16:26:55.732050+00:00",
+    "occurred_at": "2026-09-29T08:32:11Z"
   }
 ]
