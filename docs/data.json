@@ -7388,5 +7388,35 @@
     "sentiment_label": "negative",
     "added_at": "2026-09-29T16:26:55.732050+00:00",
     "occurred_at": "2026-09-29T08:32:11Z"
+  },
+  {
+    "id": "1790745130273-0",
+    "url": "https://youtube.com/watch?v=vAMNlXh1fW8",
+    "title": "2027\u5e74\u30c8\u30e8\u30bfGR GT\u3001\u3064\u3044\u306b\u767b\u5834\uff01\uff1f\ud83d\udd25 \u6b21\u4e16\u4ee3GT\u306e\u5168\u8c8c",
+    "source": "CAR MAX",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-30T05:12:10.272893+00:00",
+    "occurred_at": "2026-09-30T02:34:04Z"
+  },
+  {
+    "id": "1790745130273-1",
+    "url": "https://youtube.com/watch?v=owK-1Ktlo_s",
+    "title": "Toyota GR GT the beast loose!\ud83c\udf8c #luxurycars #shorts",
+    "source": "Luxury Cars",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-30T05:12:10.272893+00:00",
+    "occurred_at": "2026-09-29T22:30:12Z"
+  },
+  {
+    "id": "1790745130273-2",
+    "url": "https://bsky.app/profile/tsubakilines.vtubers.racing/post/3mwozzydmrk2g",
+    "title": "Call me crazy, but do you guys think one or two of the 6 GT7 Spec IV cars that haven't been revealed yet are the Toyota GR GT and GR GT3?",
+    "source": "@tsubakilines.vtubers.racing",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-09-30T05:12:10.272893+00:00",
+    "occurred_at": "2026-09-30T00:01:22.742Z"
   }
 ]
