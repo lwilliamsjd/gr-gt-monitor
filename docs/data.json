@@ -7458,5 +7458,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-09-30T19:03:17.428695+00:00",
     "occurred_at": "2026-09-30T16:04:47Z"
+  },
+  {
+    "id": "1790811500530-0",
+    "url": "https://youtube.com/watch?v=H8DuPPg23rs",
+    "title": "TOYOTA GR GT: NO NECESITABA UN V8\u2026 PERO LO HIZO",
+    "source": "Entusiasta Toyota",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-09-30T23:38:20.529907+00:00",
+    "occurred_at": "2026-09-30T20:48:29Z"
+  },
+  {
+    "id": "1790811500530-1",
+    "url": "https://youtube.com/watch?v=2TIRqEVvxks",
+    "title": "Toyota GR GT3 Concept driving",
+    "source": "The Digital Layer",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-09-30T23:38:20.529907+00:00",
+    "occurred_at": "2026-09-30T22:35:01Z"
   }
 ]
