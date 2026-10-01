@@ -7538,5 +7538,55 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-01T12:56:35.036300+00:00",
     "occurred_at": "2026-10-01T10:10:09Z"
+  },
+  {
+    "id": "1790882640695-0",
+    "url": "https://youtube.com/watch?v=U6qy9sFN8Rc",
+    "title": "Gazoo Racing GR GT",
+    "source": "Temecula Valley Lexus",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-01T19:24:00.694913+00:00",
+    "occurred_at": "2026-10-01T19:08:03Z"
+  },
+  {
+    "id": "1790882640695-1",
+    "url": "https://youtube.com/watch?v=MEg-wPr5rJg",
+    "title": "Toyota gr gt",
+    "source": "RR yt",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-01T19:24:00.694913+00:00",
+    "occurred_at": "2026-10-01T17:32:03Z"
+  },
+  {
+    "id": "1790882640695-2",
+    "url": "https://youtube.com/watch?v=C1kOiQ8O6Pw",
+    "title": "El Toyota GR GT es la mayor locura de la marca #mrsarky #coches #toyota #toyotagrgt",
+    "source": "Mr Sarky",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-01T19:24:00.694913+00:00",
+    "occurred_at": "2026-10-01T16:00:20Z"
+  },
+  {
+    "id": "1790882640695-3",
+    "url": "https://youtube.com/watch?v=pMZ_nHfOV04",
+    "title": "Toyota GR GT - The Ultimate Night Monster! \ud83d\udda4",
+    "source": "Urban Rider hub",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-01T19:24:00.694913+00:00",
+    "occurred_at": "2026-10-01T15:47:07Z"
+  },
+  {
+    "id": "1790882640695-4",
+    "url": "https://bsky.app/profile/caleputnam.bsky.social/post/3mwti4g6zes24",
+    "title": "Follow-up thought: maybe a split squad in Daytona? RC-F in GTD and GR GT in Pro (or vice-versa)?",
+    "source": "@caleputnam.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-01T19:24:00.694913+00:00",
+    "occurred_at": "2026-10-01T18:23:55.720Z"
   }
 ]
