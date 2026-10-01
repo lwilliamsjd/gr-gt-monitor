@@ -7478,5 +7478,35 @@
     "sentiment_label": "neutral",
     "added_at": "2026-09-30T23:38:20.529907+00:00",
     "occurred_at": "2026-09-30T22:35:01Z"
+  },
+  {
+    "id": "1790832433922-0",
+    "url": "https://bsky.app/profile/danielsem2004.bsky.social/post/3mwruthpts22n",
+    "title": "That is \u201ctypical\u201d but Toyota have been very atypical with this launch.\n\nI\u2019d say the likelihood of the GR GT being at Daytona is 90%.",
+    "source": "@danielsem2004.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-01T05:27:13.921699+00:00",
+    "occurred_at": "2026-10-01T03:06:14.495Z"
+  },
+  {
+    "id": "1790832433922-1",
+    "url": "https://bsky.app/profile/danielsem2004.bsky.social/post/3mwrpacedtc25",
+    "title": "Toyota has been rather wishy-washy about the GR GT.  I was hearing early in the year that they were looking to bring it to Petit. Then they decided not to.\n\nMost OEMs don\u2019t want to take the BoP hit at Daytona.\n\nI\u2019m not \ud83d\udcaf sure Daytona is going to be the Global launch of the car on track\u2026\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+    "source": "@danielsem2004.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "negative",
+    "added_at": "2026-10-01T05:27:13.921699+00:00",
+    "occurred_at": "2026-10-01T01:26:02.633Z"
+  },
+  {
+    "id": "1790832433922-2",
+    "url": "https://bsky.app/profile/huro26.bsky.social/post/3mwrlluelss2j",
+    "title": "GR GT\u30b7\u30ea\u30fc\u30ba\u306f\u524d\u5f8c\u306e\u30d5\u30a7\u30f3\u30c0\u30fc\u304c\u8584\u3059\u304e\u3066\u597d\u307f\u3067\u306f\u306a\u3044\u3002GR\u306a\u3089GR\u30e4\u30ea\u30b9\u524d\u671f\u304c\u4e00\u756a\u597d\u304d\u304b\u3082",
+    "source": "@huro26.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-01T05:27:13.921699+00:00",
+    "occurred_at": "2026-10-01T00:20:55.644Z"
   }
 ]
