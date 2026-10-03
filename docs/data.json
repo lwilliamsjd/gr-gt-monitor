@@ -7658,5 +7658,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-02T23:40:46.227599+00:00",
     "occurred_at": "2026-10-02T21:15:24Z"
+  },
+  {
+    "id": "1791003471560-0",
+    "url": "https://youtube.com/watch?v=pBx6IDfm3JA",
+    "title": "Sold Toyota GR GT in CPM\ud83d\ude31 #carparking #cpm #cpmls #cpmlstw #olzhassgame",
+    "source": "CPMLS Global",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-10-03T04:57:51.559873+00:00",
+    "occurred_at": "2026-10-03T02:29:37Z"
   }
 ]
