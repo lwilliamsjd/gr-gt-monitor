@@ -8018,5 +8018,45 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-04T08:17:00.254128+00:00",
     "occurred_at": "2026-10-04T02:42:00Z"
+  },
+  {
+    "id": "1791126892262-0",
+    "url": "https://youtube.com/watch?v=dgRJurGCpwc",
+    "title": "roblox \u5348\u591c\u8ffd\u6bba\u8005\uff1a\u516c\u8def\u8cfd\u8eca toyota GR GT \uff08\u5e02\u4e2d\u5fc3\u72c2\u71b1\uff09",
+    "source": "\u4f86\u81ea\u5730\u7344\u7684\u83dc\u9ce5\u3002",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-04T15:14:52.262705+00:00",
+    "occurred_at": "2026-10-04T12:17:10Z"
+  },
+  {
+    "id": "1791126892263-1",
+    "url": "https://youtube.com/watch?v=7XCsRq-E3Tw",
+    "title": "\u0130 l ku jt Gr gt u li jy \ud83d\ude43\ud83d\ude42\u200d\u2194\ufe0f",
+    "source": "\u2606Suzumi.XD\u2606",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-04T15:14:52.262705+00:00",
+    "occurred_at": "2026-10-04T12:14:37Z"
+  },
+  {
+    "id": "1791126892263-2",
+    "url": "https://youtube.com/watch?v=jSCJwxq4emQ",
+    "title": "2027 Toyota GR GT - V8 Twin-Turbo 650HP 4.0L Hybrid",
+    "source": "RM CARS",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-04T15:14:52.262705+00:00",
+    "occurred_at": "2026-10-04T11:45:16Z"
+  },
+  {
+    "id": "1791126892263-3",
+    "url": "https://youtube.com/watch?v=UMKYjppLpFw",
+    "title": "Toyota GR GT",
+    "source": "Tiny Garage Studio",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-04T15:14:52.262705+00:00",
+    "occurred_at": "2026-10-04T09:00:14Z"
   }
 ]
