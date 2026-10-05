@@ -8058,5 +8058,65 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-04T15:14:52.262705+00:00",
     "occurred_at": "2026-10-04T09:00:14Z"
+  },
+  {
+    "id": "1791177202294-0",
+    "url": "https://youtube.com/watch?v=vY2X-VsQj3g",
+    "title": "Toyota GR GT. #\u9e97\u5bf6\u8cfd\u8eca\u5834 #assettocorsa",
+    "source": "Gaming Done5978",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-05T05:13:22.294069+00:00",
+    "occurred_at": "2026-10-05T04:34:20Z"
+  },
+  {
+    "id": "1791177202294-1",
+    "url": "https://youtube.com/watch?v=JhDLW5tF7No",
+    "title": "Toyota GR GT. #tokyo #assettocorsa",
+    "source": "Gaming Done5978",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-05T05:13:22.294069+00:00",
+    "occurred_at": "2026-10-05T04:33:59Z"
+  },
+  {
+    "id": "1791177202294-2",
+    "url": "https://youtube.com/watch?v=ZvhXL9uLVQc",
+    "title": "Toyota GR GT/Lihpao Racing Park\u9e97\u5bf6\u570b\u969b\u8cfd\u8eca\u5834/Assetto Corsa.",
+    "source": "Gaming Done5978",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-05T05:13:22.294069+00:00",
+    "occurred_at": "2026-10-05T04:12:46Z"
+  },
+  {
+    "id": "1791177202294-3",
+    "url": "https://youtube.com/watch?v=Ca9uiLZswio",
+    "title": "Toyota GR GT/Shibuya Drift/Assetto Corsa.",
+    "source": "Gaming Done5978",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-05T05:13:22.294069+00:00",
+    "occurred_at": "2026-10-05T04:07:41Z"
+  },
+  {
+    "id": "1791177202294-4",
+    "url": "https://youtube.com/watch?v=RLxiCPH3WrE",
+    "title": "2026 Toyota GR\u5609\u5e74\u83ef\u71b1\u8840\u5c01\u8857\uff0cGR GT3\u3001GR GT\u3001\u8c50\u7530\u7ae0\u7537\u8207\u66b4\u529b\u9d28\u55e8\u7206\u73fe\u5834",
+    "source": "\u884c\u52d5\u661f\u7403",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-05T05:13:22.294069+00:00",
+    "occurred_at": "2026-10-05T04:00:19Z"
+  },
+  {
+    "id": "1791177202294-5",
+    "url": "https://youtube.com/watch?v=_STMPgINxmI",
+    "title": "Toyota GR GT 2027 | The Future of Performance",
+    "source": "GYT Auto Plus ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-05T05:13:22.294069+00:00",
+    "occurred_at": "2026-10-04T23:09:27Z"
   }
 ]
