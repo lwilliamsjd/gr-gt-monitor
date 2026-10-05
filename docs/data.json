@@ -8218,5 +8218,15 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-05T14:18:46.013421+00:00",
     "occurred_at": "2026-10-05T07:20:45Z"
+  },
+  {
+    "id": "1791239312616-0",
+    "url": "https://youtube.com/watch?v=DsH5ac7P6js",
+    "title": "2026GR\u5609\u5e74\u83ef GR GT\u8ddfGR GT3\u3010MT\u3011",
+    "source": "Lutamtmov\u4e28MT",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-05T22:28:32.616464+00:00",
+    "occurred_at": "2026-10-05T15:36:49Z"
   }
 ]
