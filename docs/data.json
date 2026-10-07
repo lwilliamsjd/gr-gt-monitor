@@ -8378,5 +8378,75 @@
     "sentiment_label": "neutral",
     "added_at": "2026-10-07T13:06:40.896707+00:00",
     "occurred_at": "2026-10-07T12:24:51Z"
+  },
+  {
+    "id": "1791402678037-0",
+    "url": "https://youtube.com/watch?v=uLyoz9LVy8c",
+    "title": "\ud83d\udd34 LIVE Day 10 With 2025 GR GT |  Forza Horizon 6",
+    "source": "Mr. DYNOX GAMING",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T19:51:18.037329+00:00",
+    "occurred_at": "2026-10-07T18:34:35Z"
+  },
+  {
+    "id": "1791402678037-1",
+    "url": "https://youtube.com/watch?v=5OWIqqHKAak",
+    "title": "\ud83d\udd25 2027 Toyota GR GT Unveiled \u2013 Toyota\u2019s New Supercar Killer Is Here! \ud83d\ude31",
+    "source": "THE TURBO TRIBE",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-10-07T19:51:18.037329+00:00",
+    "occurred_at": "2026-10-07T17:00:10Z"
+  },
+  {
+    "id": "1791402678037-2",
+    "url": "https://youtube.com/watch?v=gosRY0gIjAQ",
+    "title": "TOMICA \u8c50\u7530 GR GT \u958b\u7bb1\uff5c\u30c8\u30df\u30ab \u958b\u5c01",
+    "source": "R\u54e5Tomica\u8eca\u5eab",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T19:51:18.037329+00:00",
+    "occurred_at": "2026-10-07T16:00:05Z"
+  },
+  {
+    "id": "1791402678037-3",
+    "url": "https://youtube.com/watch?v=feUd2q1QxdU",
+    "title": "\ud83d\udfe1 Toyota GR GT \u2014 Racing Yellow ASMR modification #asmr #automobile",
+    "source": "TinyGaragee ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T19:51:18.037329+00:00",
+    "occurred_at": "2026-10-07T15:54:19Z"
+  },
+  {
+    "id": "1791402678037-4",
+    "url": "https://youtube.com/watch?v=ykgIZG9VyHI",
+    "title": "Toyota GR GT",
+    "source": "Car Craft Studio",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T19:51:18.037329+00:00",
+    "occurred_at": "2026-10-07T15:41:27Z"
+  },
+  {
+    "id": "1791402678037-5",
+    "url": "https://youtube.com/watch?v=Kbf2xIx6cvo",
+    "title": "[Vlog] GR GT &amp; GR GT3\u767b\u9678\u53f0\u7063\uff01\u800c\u4e14\u9084\u6709\u795e\u79d8\u5609\u8cd3!? \u8c50\u7530\u8ff7\u5fc5\u671d\u8056\u7684GR\u5609\u5e74\u83ef\uff01",
+    "source": "Car_Art_GT \u8eca\u85ddGT",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T19:51:18.037329+00:00",
+    "occurred_at": "2026-10-07T14:40:08Z"
+  },
+  {
+    "id": "1791402678037-6",
+    "url": "https://youtube.com/watch?v=EjrajNeIjbM",
+    "title": "7 Toyota Cars Coming for 2027 - From Corolla to the Wild GR GT!",
+    "source": "MBA Auto",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-07T19:51:18.037329+00:00",
+    "occurred_at": "2026-10-07T13:30:32Z"
   }
 ]
