@@ -8318,5 +8318,65 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-06T19:24:20.721606+00:00",
     "occurred_at": "2026-10-06T14:21:08.657049+00:00"
+  },
+  {
+    "id": "1791378400896-0",
+    "url": "https://youtube.com/watch?v=UBjp-sq0ePQ",
+    "title": "GR\u306e\u540d\u524d\u304b\u3089TOYOTA\u304c\u6d88\u3048\u305f \u305d\u306e\u8c61\u5fb4\u304c\u65b0\u578bGR GT",
+    "source": "Jeromekoo",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T13:06:40.896707+00:00",
+    "occurred_at": "2026-10-07T11:48:19Z"
+  },
+  {
+    "id": "1791378400897-1",
+    "url": "https://youtube.com/watch?v=l-FSrjAJmmY",
+    "title": "Toyota GR GT Spotted in Japan",
+    "source": "Street Exotics Cars",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T13:06:40.896707+00:00",
+    "occurred_at": "2026-10-07T09:21:24Z"
+  },
+  {
+    "id": "1791378400897-2",
+    "url": "https://youtube.com/watch?v=ALUiI1wLroY",
+    "title": "GR GT\u3081\u3063\u3061\u3083\u6b32\u3057\u3044\u2728\u3010\u30c8\u30df\u30ab\u3011\u30aa\u30fc\u30ca\u30fc\u30ba\u30df\u30fc\u30c6\u30a3\u30f3\u30b0\u9650\u5b9a\u30c8\u30df\u30ab\u304c\u516c\u958b\u3055\u308c\u307e\u3057\u305f",
+    "source": "\u3059\u305a\u307f\u3093",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-07T13:06:40.896707+00:00",
+    "occurred_at": "2026-10-07T09:00:10Z"
+  },
+  {
+    "id": "1791378400897-3",
+    "url": "https://youtube.com/watch?v=jJktX62H5w4",
+    "title": "GR GT SPOTTED IN TOKYO #automobile #jdm #drift #grgt",
+    "source": "3vryangle",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T13:06:40.896707+00:00",
+    "occurred_at": "2026-10-07T07:25:40Z"
+  },
+  {
+    "id": "1791378400897-4",
+    "url": "https://youtube.com/watch?v=1SyBx-MpCSk",
+    "title": "FORZA HORIZON6| TOYOTA GR GT #gaming #forzahorizon5 #driftedit #fh5 #drifting #jdm #carmeet",
+    "source": "X-HOPE",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-07T13:06:40.896707+00:00",
+    "occurred_at": "2026-10-07T06:47:16Z"
+  },
+  {
+    "id": "1791378400897-5",
+    "url": "https://youtube.com/watch?v=H21Oqh3Mxyg",
+    "title": "SECRET TEST LAMBORGHINI TEMERARIO GT3 &amp; TOYOTA GR GT3 | N\u00dcRBURGRING",
+    "source": "Mennem",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-07T13:06:40.896707+00:00",
+    "occurred_at": "2026-10-07T12:24:51Z"
   }
 ]
