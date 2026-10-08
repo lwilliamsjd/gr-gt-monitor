@@ -8478,5 +8478,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-08T00:07:09.913417+00:00",
     "occurred_at": "2026-10-07T20:40:27Z"
+  },
+  {
+    "id": "1791449116852-0",
+    "url": "https://youtube.com/watch?v=Ijf01-20Fao",
+    "title": "\u00a1Nuevo GR GT 2027! El Deportivo Japon\u00e9s que Sorprender\u00e1 al Mundo",
+    "source": "NSP CARS",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-08T08:45:16.852394+00:00",
+    "occurred_at": "2026-10-08T01:42:05Z"
+  },
+  {
+    "id": "1791449116852-1",
+    "url": "https://bsky.app/profile/kannadukia.bsky.social/post/3mxdsan3bek2d",
+    "title": "Google\u3055\u3093\u306b\u805e\u3044\u305f\u3089\u3001GR GT\u306f\u672a\u767a\u58f2\u306e\u8eca\u7a2e\u3060\u3063\u3066\n\u30b9\u30fc\u30d7\u30e9\u306e\u4e0a\u4f4d\u7a2e\u307f\u305f\u3044\u306a\u30b9\u30dd\u30fc\u30c4\u30ab\u30fc\n3,500\uff5e4,000\u307e\u3093\u3048\u3093\uff01\uff1f\n\u304a\u305f\u304b\u3044\ud83d\ude31",
+    "source": "@kannadukia.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "negative",
+    "added_at": "2026-10-08T08:45:16.852394+00:00",
+    "occurred_at": "2026-10-08T06:07:50.383Z"
   }
 ]
