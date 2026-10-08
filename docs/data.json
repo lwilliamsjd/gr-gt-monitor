@@ -8448,5 +8448,35 @@
     "sentiment_label": "neutral",
     "added_at": "2026-10-07T19:51:18.037329+00:00",
     "occurred_at": "2026-10-07T13:30:32Z"
+  },
+  {
+    "id": "1791418029913-0",
+    "url": "https://youtube.com/watch?v=eqpkzQymd3g",
+    "title": "2027 Toyota GR GT Is FINALLY Here  - Forget the Supra",
+    "source": "PrestigeCar Vision",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-08T00:07:09.913417+00:00",
+    "occurred_at": "2026-10-07T22:46:53Z"
+  },
+  {
+    "id": "1791418029913-1",
+    "url": "https://youtube.com/watch?v=Xvlw44-j0Fo",
+    "title": "Toyota GR GT Soon In CDT \ud83d\ude31\ud83d\udd25 #youtubeshorts #roblox #cardealershiptycoon #leak #viral #fyp #shorts",
+    "source": "\ud835\ude13\ud835\ude30\ud835\ude2c\ud835\ude2a\ud835\ude1b\ud835\ude29\ud835\ude26\ud835\ude0e\ud835\ude22\ud835\ude2e\ud835\ude26\ud835\ude33\ud835\ude0a\ud835\ude22\ud835\ude35",
+    "platform": "youtube",
+    "sentiment_label": "negative",
+    "added_at": "2026-10-08T00:07:09.913417+00:00",
+    "occurred_at": "2026-10-07T22:15:24Z"
+  },
+  {
+    "id": "1791418029914-2",
+    "url": "https://youtube.com/watch?v=IlNy2AwBvG0",
+    "title": "Toyota&#39;n\u0131n Yeni Silah\u0131: GR GT \ud83d\udd25#toyota #toyotasupra #gt3 #lemansultimate #lemans #toyotagt3 #shorts",
+    "source": "90 Beygir!",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-08T00:07:09.913417+00:00",
+    "occurred_at": "2026-10-07T20:40:27Z"
   }
 ]
