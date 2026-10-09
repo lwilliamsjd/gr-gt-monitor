@@ -8558,5 +8558,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-10-08T17:19:44.242724+00:00",
     "occurred_at": "2026-10-08T11:57:07.181Z"
+  },
+  {
+    "id": "1791524751462-0",
+    "url": "https://youtube.com/watch?v=khh3ipYGtOI",
+    "title": "\ud83d\udd34 LIVE | Forza Horizon 6 \ud83c\uddef\ud83c\uddf5 GR GT Prototype Japan Exploration | RTX 4090 + i9-14900HX | 4K DLSS 5",
+    "source": "R85",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T05:45:51.462033+00:00",
+    "occurred_at": "2026-10-09T05:05:15Z"
+  },
+  {
+    "id": "1791524751462-1",
+    "url": "https://youtube.com/watch?v=7usGPOfOnkA",
+    "title": "Toyota GR GT Spotted in Japan\u2026 That LONG Nose! \ud83d\ude33\ud83d\udd25\u201d",
+    "source": "Aling ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T05:45:51.462033+00:00",
+    "occurred_at": "2026-10-09T03:30:21Z"
   }
 ]
