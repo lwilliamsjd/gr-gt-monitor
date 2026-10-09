@@ -8638,5 +8638,35 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-09T19:23:43.979049+00:00",
     "occurred_at": "2026-10-09T14:00:37Z"
+  },
+  {
+    "id": "1791590204536-0",
+    "url": "https://youtube.com/watch?v=H91dSTN_23A",
+    "title": "Big brother meets his not so little brother: the Toyota GR GT and the GR GT3.",
+    "source": "SpoolNetwork",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T23:56:44.536261+00:00",
+    "occurred_at": "2026-10-09T23:38:17Z"
+  },
+  {
+    "id": "1791590204536-1",
+    "url": "https://youtube.com/watch?v=XsvzwsdEhpc",
+    "title": "GR GT (Prototype) Intense Goliath Street Race - Forza Horizon 6 | Wheel Gameplay",
+    "source": "Getaway Guy",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T23:56:44.536261+00:00",
+    "occurred_at": "2026-10-09T23:00:36Z"
+  },
+  {
+    "id": "1791590204536-2",
+    "url": "https://youtube.com/watch?v=ZYNXeBO5E7g",
+    "title": "20261003\u300c 2026 GR \u5609\u5e74\u83ef \u300d\u53f0\u5357 Toyota GR GT , GT3 , \u6d3b\u52d5",
+    "source": "\u9673\u5065\u96c4",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T23:56:44.536261+00:00",
+    "occurred_at": "2026-10-09T17:27:58Z"
   }
 ]
