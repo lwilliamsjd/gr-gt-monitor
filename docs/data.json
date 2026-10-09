@@ -8598,5 +8598,45 @@
     "sentiment_label": "neutral",
     "added_at": "2026-10-09T13:00:49.305917+00:00",
     "occurred_at": "2026-10-08 18:21:21"
+  },
+  {
+    "id": "1791573823979-0",
+    "url": "https://youtube.com/watch?v=WUIIX9r47Bk",
+    "title": "Driving the Toyota GR GT in NFS Most Wanted 2012",
+    "source": "MJV",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T19:23:43.979049+00:00",
+    "occurred_at": "2026-10-09T17:00:00Z"
+  },
+  {
+    "id": "1791573823979-1",
+    "url": "https://youtube.com/watch?v=BnRjm2hl6IE",
+    "title": "Toyota GR GT3 vs. GR GT: What Changes for Racing?",
+    "source": "IgnitionTherapy",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-09T19:23:43.979049+00:00",
+    "occurred_at": "2026-10-09T16:57:15Z"
+  },
+  {
+    "id": "1791573823979-2",
+    "url": "https://youtube.com/watch?v=b0JBFVjo888",
+    "title": "TOYOTA GR GT \ud83d\udda4\ud83c\udfce\ufe0f | PURE TRACK AGGRESSION",
+    "source": "vehicles_of_walhalla",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T19:23:43.979049+00:00",
+    "occurred_at": "2026-10-09T16:28:01Z"
+  },
+  {
+    "id": "1791573823979-3",
+    "url": "https://youtube.com/watch?v=BksaOm2XvsI",
+    "title": "GR GT ACELERANDO NA CORRIDA SINISTRA DO FORZA HORIZON 6",
+    "source": "ZoiooGamer",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T19:23:43.979049+00:00",
+    "occurred_at": "2026-10-09T14:00:37Z"
   }
 ]
