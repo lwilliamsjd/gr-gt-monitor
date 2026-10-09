@@ -8578,5 +8578,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-09T05:45:51.462033+00:00",
     "occurred_at": "2026-10-09T03:30:21Z"
+  },
+  {
+    "id": "1791550849306-0",
+    "url": "https://youtube.com/watch?v=J3efDfAM9-w",
+    "title": "\u53f0\u7063\u5c08\u5c6c\u7684GR GT &amp; GR GT3\u7529\u5c3e\u79c0?! \u8c50\u7530\u7ae0\u7537\u6703\u9577\u5927\u8cbb\u5468\u7ae0\u5c55\u51fa\u96b1\u85cf\u795e\u7378\u2026\u81f4\u656c\u6700\u760b\u72c2\u7684\u8001\u95c6!!",
+    "source": "\u9d28\u5b50\u8eca\u5eab \u00b7 FIREQUACKERS ",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-09T13:00:49.305917+00:00",
+    "occurred_at": "2026-10-09T09:00:03Z"
+  },
+  {
+    "id": "1791550849306-1",
+    "url": "https://www.vgchartz.com/article/469306/forza-horizon-6-launches-january-26-2027-for-ps5-alongside-first-expansion/",
+    "title": "Forza Horizon 6 launches January 26, 2027 for PS5, Alongside First Expansion",
+    "source": "vgchartz",
+    "platform": "news",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-09T13:00:49.305917+00:00",
+    "occurred_at": "2026-10-08 18:21:21"
   }
 ]
