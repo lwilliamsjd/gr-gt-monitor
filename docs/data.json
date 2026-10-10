@@ -8708,5 +8708,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-10-10T12:17:42.970330+00:00",
     "occurred_at": "2026-10-10T10:25:07Z"
+  },
+  {
+    "id": "1791656649026-0",
+    "url": "https://youtube.com/watch?v=syuXhREnGs8",
+    "title": "2027 Toyota GR GT Review: The V8 Supercar Porsche Should Worry About",
+    "source": "Car Review2027",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-10T18:24:09.026023+00:00",
+    "occurred_at": "2026-10-10T16:10:37Z"
+  },
+  {
+    "id": "1791656649026-1",
+    "url": "https://youtube.com/watch?v=fPAriDbwahg",
+    "title": "Speed test Toyota GR GT in Japan | Forza Horizon 6 \ud83d\udd25",
+    "source": "Spicyyy",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-10T18:24:09.026023+00:00",
+    "occurred_at": "2026-10-10T16:08:30Z"
   }
 ]
