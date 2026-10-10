@@ -8688,5 +8688,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-10T05:37:52.281938+00:00",
     "occurred_at": "2026-10-10T03:50:52Z"
+  },
+  {
+    "id": "1791634662970-0",
+    "url": "https://youtube.com/watch?v=MMtTuC6SCzc",
+    "title": "Toyota GR GT Prototype VS Super GT \ud83d\udd25 Racing Game Forza Horizon 6 \ud83d\udd25 Logitech G923 Steering Wheel ",
+    "source": "VELOX ENGINE",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-10T12:17:42.970330+00:00",
+    "occurred_at": "2026-10-10T12:00:22Z"
+  },
+  {
+    "id": "1791634662970-1",
+    "url": "https://youtube.com/watch?v=_Z25yCpsfSU",
+    "title": "\u642d\u8f09\u30a8\u30f3\u30b8\u30f3\u3092\u306a\u304b\u306a\u304b\u5410\u304b\u306a\u3044GR GT\u306b\u30ad\u30ec\u308b\u30c6\u30b9\u30e9!!!",
+    "source": "ViSRO",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-10T12:17:42.970330+00:00",
+    "occurred_at": "2026-10-10T10:25:07Z"
   }
 ]
