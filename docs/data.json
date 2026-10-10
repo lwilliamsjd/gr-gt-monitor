@@ -8668,5 +8668,25 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-09T23:56:44.536261+00:00",
     "occurred_at": "2026-10-09T17:27:58Z"
+  },
+  {
+    "id": "1791610672282-0",
+    "url": "https://youtube.com/watch?v=P2DVe4WobFg",
+    "title": "Need for Speed\u2122 Most Wanted 2012 Mod Toyota GR GT | &#39;&#39;World Record&#39;&#39; (FH6)",
+    "source": "PANDASNIPER9321",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-10T05:37:52.281938+00:00",
+    "occurred_at": "2026-10-10T01:12:07Z"
+  },
+  {
+    "id": "1791610672282-1",
+    "url": "https://bsky.app/profile/amarareitem.bsky.social/post/3mxiljo3hsh2c",
+    "title": "\u30bf\u30ab\u30e9\u30c8\u30df\u30fc(TAKARA TOMY) \u30c8\u30df\u30ab GR GT \u30df\u30cb\u30ab\u30fc \u304a\u3082\u3061\u3083 \u306e\u3001Amazon\u3067\u306e\u8ca9\u58f2\u518d\u958b\u306e\u76e3\u8996\u3092\u59cb\u3081\u307e\u3059\u3002\u518d\u958b\u3055\u308c\u305f\u3089\u3001\u304a\u77e5\u3089\u305b\u3057\u307e\u3059\u3002\u304a\u3082\u3061\u3083\u30d2\u30c3\u30c83\u4f4d\u3002\n",
+    "source": "@amarareitem.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-10T05:37:52.281938+00:00",
+    "occurred_at": "2026-10-10T03:50:52Z"
   }
 ]
