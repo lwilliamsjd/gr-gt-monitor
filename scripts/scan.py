@@ -468,10 +468,14 @@ def fetch_gdelt():
         if i:
             time.sleep(5.5)  # GDELT asks for at most one request per 5 seconds
         try:
-            r = http_get("https://api.gdeltproject.org/api/v2/doc/doc",
-                         params={"query": q, "mode": "artlist", "format": "json",
-                                 "maxrecords": 75, "sort": "datedesc", "timespan": "3d"},
-                         timeout=40)
+            for attempt in range(3):  # GDELT rate limits shared IPs, wait it out
+                r = http_get("https://api.gdeltproject.org/api/v2/doc/doc",
+                             params={"query": q, "mode": "artlist", "format": "json",
+                                     "maxrecords": 75, "sort": "datedesc", "timespan": "3d"},
+                             timeout=40, attempts=1)
+                if r.status_code != 429:
+                    break
+                time.sleep(12 * (attempt + 1))
             if r.status_code != 200:
                 h.fail(f"HTTP {r.status_code} for {q}")
                 continue
@@ -670,7 +674,9 @@ def update_comment_stats(rows, prev, now_dt):
         h.fail(f"video stats: {ex}")
         return prev
 
-    ranked = sorted((v for v in ids if counts.get(v, 0) > 0 and not videos.get(v, {}).get("disabled")),
+    # English titled videos only: VADER can't score the comments on the rest.
+    ranked = sorted((v for v in ids if counts.get(v, 0) > 0 and not videos.get(v, {}).get("disabled")
+                     and score_text(meta[v]["title"])[0] != "unscored"),
                     key=lambda v: -counts[v])[:TRACK_VIDEOS]
     stale_cutoff = iso(now_dt - timedelta(hours=COMMENT_REFRESH_HOURS))
     stale = [v for v in ranked if v not in videos or videos[v].get("updated_at", "") < stale_cutoff]
