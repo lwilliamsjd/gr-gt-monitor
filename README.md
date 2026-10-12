@@ -4,7 +4,7 @@ Runs entirely on GitHub's servers on a schedule. Nothing installs on your machin
 
 ## What you get vs the local HTML tool
 
-This replaces the manual URL scanning and Reddit/YouTube search from the local tool with fully automatic, unattended pulls from Google News, YouTube, Bluesky, NewsData.io, and any forum RSS feeds you add. It does **not** replace the bookmarklet, login walled and JavaScript heavy forums still need that, since only your logged in browser can see that content. Use both together: this handles everything automatic, the bookmarklet still handles the stubborn forums.
+This replaces the manual URL scanning and Reddit/YouTube search from the local tool with fully automatic, unattended pulls from Google News, Bing News, GDELT, YouTube, Bluesky, Mastodon, Hacker News, Lemmy, Apple Podcasts, NewsData.io, and any forum RSS feeds you add. It does **not** replace the bookmarklet, login walled and JavaScript heavy forums still need that, since only your logged in browser can see that content. Use both together: this handles everything automatic, the bookmarklet still handles the stubborn forums.
 
 ## 1. Create the repository
 
@@ -43,6 +43,15 @@ Add ` | all` after a feed URL to count every thread in it, for forums that are e
 ## Changing the schedule
 
 The `23 * * * *` line in `scan.yml` means "hourly, at 23 minutes past." The odd minute is deliberate, GitHub drops runs scheduled at the top of the hour. Edit that file on GitHub's website for a different frequency, standard cron syntax. YouTube's free quota allows roughly hourly scans, going faster can exhaust it.
+
+## Free sources and what they add
+
+- **GDELT and Bing News** widen news coverage, including foreign language press.
+- **Mastodon, Lemmy, Hacker News** are the open social platforms. Volume is low but they are free and keyless.
+- **Apple Podcasts** shows which shows are discussing the car.
+- **YouTube comments** are scored for the most discussed recent videos and shown in their own panel. Only counts are stored, never comment text. Uses about 15 quota units per run.
+
+All of them report into the health line, so a source that gets blocked shows up there and in the alert issue.
 
 ## Reliability features
 

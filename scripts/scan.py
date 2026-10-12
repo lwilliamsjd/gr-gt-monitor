@@ -19,9 +19,10 @@ import os
 import re
 import sys
 import time
+from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import parse_qsl, quote, urlencode, urlsplit, urlunsplit
+from urllib.parse import parse_qs, parse_qsl, quote, urlencode, urlsplit, urlunsplit
 
 import feedparser
 import requests
@@ -35,6 +36,7 @@ STATUS_PATH = "docs/status.json"
 EXCLUDED_PATH = "data/excluded.json"
 FEEDS_PATH = "data/forum_feeds.txt"
 ALERT_PATH = "alerts.md"
+COMMENTS_PATH = "docs/comments.json"
 
 # A real mention contains GR GT / GR-GT / GRGT / GR GT3 as its own token.
 # Lookarounds instead of \b so "トヨタGR GT" (no word break) still matches.
@@ -53,6 +55,16 @@ ALERT_AFTER_FAILED_RUNS = 3
 ALERT_AFTER_EMPTY_RUNS = 8
 ALERT_AFTER_QUIET_DAYS = 14
 MAX_TITLE = 240
+
+# Free sources beyond the original five.
+MASTODON_INSTANCE = "mastodon.social"
+MASTODON_TAGS = ["grgt", "toyotagrgt", "grgt3"]
+LEMMY_INSTANCES = ["lemmy.world"]
+
+# YouTube comment sentiment (aggregates only, no comment text is stored).
+TRACK_VIDEOS = 15              # most commented recent GR GT videos
+COMMENT_VIDEOS_PER_RUN = 6     # refreshed per run, keeps quota use tiny
+COMMENT_REFRESH_HOURS = 6
 SENTIMENT_THRESHOLD = 0.05
 
 HEADERS = {"User-Agent": "gr-gt-monitor/2.0 (personal research tool)"}
@@ -448,6 +460,256 @@ def fetch_newsdata():
     return out
 
 
+def fetch_gdelt():
+    """GDELT indexes news worldwide, including foreign press Google News misses. Free, no key."""
+    h = health("gdelt")
+    out = []
+    for i, q in enumerate(['"Toyota GR GT"', '"GR GT" toyota']):
+        if i:
+            time.sleep(5.5)  # GDELT asks for at most one request per 5 seconds
+        try:
+            r = http_get("https://api.gdeltproject.org/api/v2/doc/doc",
+                         params={"query": q, "mode": "artlist", "format": "json",
+                                 "maxrecords": 75, "sort": "datedesc", "timespan": "3d"},
+                         timeout=40)
+            if r.status_code != 200:
+                h.fail(f"HTTP {r.status_code} for {q}")
+                continue
+            try:
+                data = r.json()
+            except ValueError:
+                h.fail(f"non-JSON reply for {q}: {r.text[:100]}")
+                continue
+            articles = data.get("articles") or []
+            for a in articles:
+                seen = None
+                try:
+                    seen = datetime.strptime(a.get("seendate", ""), "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
+                except ValueError:
+                    pass
+                out.append({
+                    "_src": "gdelt", "title": a.get("title", ""), "url": a.get("url", ""),
+                    "source": a.get("domain") or "GDELT", "platform": "news", "occurred_at": seen,
+                })
+            h.ok(len(articles))
+        except Exception as ex:
+            h.fail(f"{q}: {ex}")
+    return out
+
+
+def fetch_bing_news():
+    h = health("bing_news")
+    out = []
+    for kw in KEYWORDS:
+        try:
+            r = http_get("https://www.bing.com/news/search",
+                         params={"q": f'"{kw}"', "format": "rss", "setlang": "en-US"},
+                         headers=BROWSER_HEADERS)
+            if r.status_code != 200:
+                h.fail(f"HTTP {r.status_code} for '{kw}'")
+                continue
+            feed = parse_feed_entries(r.content)
+            for e in feed.entries:
+                link = e.get("link", "")
+                real = parse_qs(urlsplit(link).query).get("url")  # Bing wraps the real link
+                out.append({
+                    "_src": "bing_news", "title": e.get("title", ""), "url": real[0] if real else link,
+                    "source": e.get("news_source") or "Bing News", "platform": "news",
+                    "occurred_at": e.get("published_parsed") or e.get("published"),
+                    "_summary": strip_html(e.get("summary", "")),
+                })
+            h.ok(len(feed.entries))
+        except Exception as ex:
+            h.fail(f"'{kw}': {ex}")
+    return out
+
+
+def fetch_mastodon():
+    h = health("mastodon")
+    out = []
+    for tag in MASTODON_TAGS:
+        try:
+            r = http_get(f"https://{MASTODON_INSTANCE}/api/v1/timelines/tag/{tag}", params={"limit": 40})
+            if r.status_code != 200:
+                h.fail(f"HTTP {r.status_code} for #{tag}")
+                continue
+            posts = r.json()
+            for st in posts:
+                if st.get("reblog"):
+                    continue
+                out.append({
+                    "_src": "mastodon", "_all": True, "title": strip_html(st.get("content", "")),
+                    "url": st.get("url") or st.get("uri", ""),
+                    "source": "@" + (st.get("account", {}).get("acct") or "mastodon"),
+                    "platform": "mastodon", "occurred_at": st.get("created_at"),
+                })
+            h.ok(len(posts))
+        except Exception as ex:
+            h.fail(f"#{tag}: {ex}")
+    return out
+
+
+def fetch_hackernews():
+    h = health("hackernews")
+    out = []
+    try:
+        r = http_get("https://hn.algolia.com/api/v1/search_by_date",
+                     params={"query": '"GR GT"', "tags": "(story,comment)", "hitsPerPage": 50})
+        if r.status_code != 200:
+            h.fail(f"HTTP {r.status_code}")
+            return out
+        hits = r.json().get("hits", [])
+        for it in hits:
+            text = it.get("title") or it.get("story_title") or strip_html(it.get("comment_text", ""))
+            out.append({
+                "_src": "hackernews", "title": text,
+                "url": f"https://news.ycombinator.com/item?id={it.get('objectID')}",
+                "source": "Hacker News", "platform": "hackernews",
+                "occurred_at": it.get("created_at_i"),
+                "_summary": strip_html(it.get("comment_text", "")),
+            })
+        h.ok(len(hits))
+    except Exception as ex:
+        h.fail(str(ex))
+    return out
+
+
+def fetch_lemmy():
+    h = health("lemmy")
+    out = []
+    for inst in LEMMY_INSTANCES:
+        try:
+            r = http_get(f"https://{inst}/api/v3/search",
+                         params={"q": "GR GT", "type_": "Posts", "sort": "New", "limit": 40})
+            if r.status_code != 200:
+                h.fail(f"HTTP {r.status_code} on {inst}")
+                continue
+            posts = r.json().get("posts", [])
+            for it in posts:
+                post = it.get("post", {})
+                out.append({
+                    "_src": "lemmy", "title": post.get("name", ""),
+                    "url": post.get("ap_id") or post.get("url", ""),
+                    "source": "c/" + it.get("community", {}).get("name", inst), "platform": "lemmy",
+                    "occurred_at": post.get("published"), "_summary": post.get("body") or "",
+                })
+            h.ok(len(posts))
+        except Exception as ex:
+            h.fail(f"{inst}: {ex}")
+    return out
+
+
+def fetch_podcasts():
+    h = health("podcasts")
+    out = []
+    for kw in KEYWORDS[:2]:
+        try:
+            r = http_get("https://itunes.apple.com/search",
+                         params={"term": kw, "media": "podcast", "entity": "podcastEpisode",
+                                 "limit": 50, "country": "US"})
+            if r.status_code != 200:
+                h.fail(f"HTTP {r.status_code} for '{kw}'")
+                continue
+            results = r.json().get("results", [])
+            for it in results:
+                out.append({
+                    "_src": "podcasts", "title": it.get("trackName", ""),
+                    "url": it.get("trackViewUrl", ""), "source": it.get("collectionName") or "Podcast",
+                    "platform": "podcast", "occurred_at": it.get("releaseDate"),
+                    "_summary": it.get("description") or "",
+                })
+            h.ok(len(results))
+        except Exception as ex:
+            h.fail(f"'{kw}': {ex}")
+    return out
+
+
+# ------------------------------------------------------- comment sentiment
+
+def video_id_of(url):
+    p = urlsplit(url or "")
+    if "youtube.com" in p.netloc and p.path == "/watch":
+        return (parse_qs(p.query).get("v") or [None])[0]
+    return None
+
+
+def update_comment_stats(rows, prev, now_dt):
+    """Score the top comments on the most discussed recent GR GT videos.
+    Stores counts per video only, never the comment text."""
+    h = health("youtube_comments")
+    prev = prev if isinstance(prev, dict) else {}
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if not key:
+        h.skipped = True
+        return prev
+    videos = dict(prev.get("videos", {}))
+    now = iso(now_dt)
+    cutoff = iso(now_dt - timedelta(days=90))
+    recent = sorted((r for r in rows if r.get("platform") == "youtube" and (r.get("occurred_at") or "") >= cutoff),
+                    key=lambda r: r["occurred_at"], reverse=True)
+    meta, ids = {}, []
+    for r in recent:
+        vid = video_id_of(r["url"])
+        if vid and vid not in meta:
+            meta[vid] = r
+            ids.append(vid)
+    ids = ids[:50]
+    if not ids:
+        h.ok(0)
+        return prev
+    try:
+        r = http_get("https://www.googleapis.com/youtube/v3/videos",
+                     params={"part": "statistics", "id": ",".join(ids), "key": key})
+        if r.status_code != 200:
+            h.fail(f"video stats HTTP {r.status_code}")
+            return prev
+        counts = {it["id"]: int(it.get("statistics", {}).get("commentCount") or 0)
+                  for it in r.json().get("items", [])}
+        h.ok(len(ids))
+    except Exception as ex:
+        h.fail(f"video stats: {ex}")
+        return prev
+
+    ranked = sorted((v for v in ids if counts.get(v, 0) > 0 and not videos.get(v, {}).get("disabled")),
+                    key=lambda v: -counts[v])[:TRACK_VIDEOS]
+    stale_cutoff = iso(now_dt - timedelta(hours=COMMENT_REFRESH_HOURS))
+    stale = [v for v in ranked if v not in videos or videos[v].get("updated_at", "") < stale_cutoff]
+    for v in stale[:COMMENT_VIDEOS_PER_RUN]:
+        try:
+            r = http_get("https://www.googleapis.com/youtube/v3/commentThreads",
+                         params={"part": "snippet", "videoId": v, "maxResults": 100,
+                                 "order": "relevance", "textFormat": "plainText", "key": key})
+            if r.status_code == 403 and "commentsDisabled" in r.text:
+                videos[v] = {"disabled": True, "updated_at": now}
+                continue
+            if r.status_code != 200:
+                h.fail(f"comments HTTP {r.status_code} for {v}")
+                continue
+            items = r.json().get("items", [])
+            tally = {"positive": 0, "neutral": 0, "negative": 0, "unscored": 0}
+            total_score, scored = 0.0, 0
+            for it in items:
+                text = it["snippet"]["topLevelComment"]["snippet"].get("textDisplay", "")
+                label, score = score_text(text)
+                tally[label] += 1
+                if score is not None:
+                    total_score += score
+                    scored += 1
+            videos[v] = {
+                "title": meta[v]["title"], "url": meta[v]["url"], "comment_count": counts[v],
+                "sampled": len(items), **tally,
+                "avg_score": round(total_score / scored, 3) if scored else None, "updated_at": now,
+            }
+            h.ok(len(items))
+        except Exception as ex:
+            h.fail(f"comments for {v}: {ex}")
+    keep = set(ranked) | {v for v in ids if videos.get(v, {}).get("disabled")}
+    videos = {v: d for v, d in videos.items() if v in keep}
+    live = [d for d in videos.values() if not d.get("disabled")]
+    totals = {k: sum(d.get(k, 0) for d in live) for k in ("sampled", "positive", "neutral", "negative", "unscored")}
+    return {"updated_at": now, "videos": videos, "totals": totals}
+
+
 def read_feed_list():
     """Lines: URL, optionally 'URL | all' to count every thread (dedicated GR GT forums)."""
     if not os.path.exists(FEEDS_PATH):
@@ -569,6 +831,11 @@ def migrate(rows):
 
 # ------------------------------------------------------------------- main
 
+SOURCES = ["fetch_google_news", "fetch_youtube", "fetch_bluesky", "fetch_newsdata",
+           "fetch_gdelt", "fetch_bing_news", "fetch_mastodon", "fetch_hackernews",
+           "fetch_lemmy", "fetch_podcasts", "fetch_forum_feeds"]
+
+
 def new_stats():
     return {"fetched": 0, "new": 0, "offtopic": 0, "noise": 0, "duplicate": 0, "invalid": 0}
 
@@ -604,15 +871,13 @@ def main():
         latest_by_url[k] = max(latest_by_url.get(k, ""), r["occurred_at"] or "")
 
     candidates = []
-    for name, fn in (("google_news", fetch_google_news), ("youtube", fetch_youtube),
-                     ("bluesky", fetch_bluesky), ("newsdata", fetch_newsdata),
-                     ("forums", fetch_forum_feeds)):
+    for fn_name in SOURCES:
         try:
-            candidates += fn()
+            candidates += globals()[fn_name]()
         except Exception as ex:
-            health(name).fail(f"unexpected error: {ex!r}")
+            health(fn_name.replace("fetch_", "")).fail(f"unexpected error: {ex!r}")
 
-    stats = {name: new_stats() for name in HEALTH}
+    stats = defaultdict(new_stats)
     for name, h in HEALTH.items():
         stats[name]["fetched"] = h.fetched
 
@@ -694,6 +959,14 @@ def main():
             archive.append({"archived_at": now, **d})
     write_atomic(DATA_PATH, dumps_rows(final))
     write_atomic(EXCLUDED_PATH, dumps_rows(archive))
+
+    # Comment sentiment on the most discussed videos.
+    try:
+        comments = update_comment_stats(final, load_json(COMMENTS_PATH, {}), now_dt)
+        if comments:
+            write_atomic(COMMENTS_PATH, json.dumps(comments, indent=1, ensure_ascii=False) + "\n")
+    except Exception as ex:
+        health("youtube_comments").fail(f"unexpected error: {ex!r}")
 
     # Status and alerts.
     prev_sources = prev.get("sources", {}) if isinstance(prev, dict) else {}

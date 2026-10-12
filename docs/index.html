@@ -109,6 +109,16 @@
   <div style="position:relative; height:220px;"><canvas id="keywordChart"></canvas></div>
 </div>
 
+<div class="panel" id="commentsPanel" style="margin-bottom: 26px; display:none;">
+  <h2>Comment sentiment on top videos</h2>
+  <div class="strip" id="commentStrip" style="margin-top:4px;"></div>
+  <div class="strip-labels" id="commentLabels" style="margin-bottom:14px;"></div>
+  <table>
+    <thead><tr><th>Video</th><th>Comments</th><th style="width:200px;">Sampled sentiment</th></tr></thead>
+    <tbody id="commentRows"></tbody>
+  </table>
+</div>
+
 <div class="panel">
   <h2>All mentions</h2>
   <div class="toolbar">
@@ -234,7 +244,7 @@ function renderCharts(data) {
 
   const keywordCounts = {};
   data.forEach(d => { const p = d.platform; keywordCounts[p] = (keywordCounts[p]||0) + 1; });
-  const keywordEntries = Object.entries(keywordCounts).sort((a,b) => b[1]-a[1]).slice(0, 8);
+  const keywordEntries = Object.entries(keywordCounts).sort((a,b) => b[1]-a[1]).slice(0, 10);
 
   if (timeChart) timeChart.destroy();
   timeChart = new Chart(document.getElementById('timeChart'), {
@@ -251,7 +261,7 @@ function renderCharts(data) {
   });
 
   if (keywordChart) keywordChart.destroy();
-  const platformColors = ['#eb0a1e', '#3ecf8e', '#5a9bd5', '#f2b134', '#9b59b6', '#e67e22', '#1abc9c', '#e74c3c'];
+  const platformColors = ['#eb0a1e', '#3ecf8e', '#5a9bd5', '#f2b134', '#9b59b6', '#e67e22', '#1abc9c', '#e74c3c', '#8a8d93', '#c0c3c8'];
   keywordChart = new Chart(document.getElementById('keywordChart'), {
     type: 'pie',
     data: { labels: keywordEntries.map(e => e[0]), datasets: [{ data: keywordEntries.map(e => e[1]), backgroundColor: platformColors, borderColor: '#16171a', borderWidth: 2 }] },
@@ -354,8 +364,42 @@ function renderHealth(st) {
   el.innerHTML = out;
 }
 
+async function loadComments() {
+  try {
+    const resp = await fetch('comments.json?_=' + Date.now());
+    if (!resp.ok) throw new Error('no comments');
+    return await resp.json();
+  } catch (e) { return null; }
+}
+
+function miniBar(pos, neu, neg) {
+  const t = pos + neu + neg || 1;
+  return `<div class="strip" style="margin:0;height:6px;"><div style="width:${pos / t * 100}%;background:var(--positive)"></div><div style="width:${neu / t * 100}%;background:var(--neutral)"></div><div style="width:${neg / t * 100}%;background:var(--negative)"></div></div>`;
+}
+
+function renderComments(doc) {
+  const panel = document.getElementById('commentsPanel');
+  const vids = Object.values((doc && doc.videos) || {}).filter(v => !v.disabled && v.sampled);
+  if (!vids.length) { panel.style.display = 'none'; return; }
+  panel.style.display = 'block';
+  const t = vids.reduce((a, v) => ({ pos: a.pos + v.positive, neu: a.neu + v.neutral, neg: a.neg + v.negative, uns: a.uns + v.unscored, n: a.n + v.sampled }), { pos: 0, neu: 0, neg: 0, uns: 0, n: 0 });
+  const scored = t.pos + t.neu + t.neg || 1;
+  const pp = Math.round(t.pos / scored * 100), np = Math.round(t.neu / scored * 100), gp = 100 - pp - np;
+  document.getElementById('commentStrip').innerHTML =
+    `<div style="width:${pp}%;background:var(--positive);"></div><div style="width:${np}%;background:var(--neutral);"></div><div style="width:${gp}%;background:var(--negative);"></div>`;
+  document.getElementById('commentLabels').innerHTML =
+    `<span>Positive ${pp}%</span><span>Neutral ${np}%</span><span>Negative ${gp}%</span><span>${t.n} comments sampled across ${vids.length} videos</span>`;
+  document.getElementById('commentRows').innerHTML = vids.sort((a, b) => b.comment_count - a.comment_count).map(v => `
+    <tr>
+      <td><a href="${safeUrl(v.url)}" target="_blank" rel="noopener noreferrer">${esc(v.title)}</a></td>
+      <td>${Number(v.comment_count).toLocaleString()}</td>
+      <td>${miniBar(v.positive, v.neutral, v.negative)}</td>
+    </tr>`).join('');
+}
+
 async function init() {
-  const [data, status] = await Promise.all([loadData(), loadStatus()]);
+  const [data, status, comments] = await Promise.all([loadData(), loadStatus(), loadComments()]);
+  renderComments(comments);
   ALL_DATA = data;
   renderHealth(status);
   document.getElementById('lastUpdated').textContent = window.__loadFailed
