@@ -1,44 +1,44 @@
 {
-  "last_run": "2026-10-12T17:45:14Z",
-  "total": 748,
-  "added": 65,
+  "last_run": "2026-10-12T17:48:09Z",
+  "total": 750,
+  "added": 2,
   "archived_total": 206,
-  "last_new": "2026-10-12T17:45:14Z",
+  "last_new": "2026-10-12T17:48:09Z",
   "sources": {
     "google_news": {
       "status": "ok",
       "fetched": 234,
-      "new": 4,
+      "new": 0,
       "noise": 0,
-      "duplicate": 173,
+      "duplicate": 177,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-12T17:45:14Z",
+      "last_success": "2026-10-12T17:48:09Z",
       "last_new": "2026-10-12T17:45:14Z"
     },
     "youtube": {
       "status": "ok",
       "fetched": 75,
-      "new": 21,
+      "new": 0,
       "noise": 12,
-      "duplicate": 23,
+      "duplicate": 44,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-12T17:45:14Z",
+      "last_success": "2026-10-12T17:48:09Z",
       "last_new": "2026-10-12T17:45:14Z"
     },
     "bluesky": {
       "status": "ok",
       "fetched": 148,
-      "new": 38,
+      "new": 0,
       "noise": 6,
-      "duplicate": 50,
+      "duplicate": 88,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-12T17:45:14Z",
+      "last_success": "2026-10-12T17:48:09Z",
       "last_new": "2026-10-12T17:45:14Z"
     },
     "newsdata": {
@@ -50,22 +50,20 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-12T17:45:14Z",
+      "last_success": "2026-10-12T17:48:09Z",
       "last_new": null
     },
     "forum:grgtforum.com/forums/-/index.rss": {
-      "status": "failed",
-      "fetched": 0,
-      "new": 0,
+      "status": "ok",
+      "fetched": 2,
+      "new": 2,
       "noise": 0,
       "duplicate": 0,
-      "errors": [
-        "HTTP 403"
-      ],
-      "consecutive_failures": 1,
+      "errors": [],
+      "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": null,
-      "last_new": null
+      "last_success": "2026-10-12T17:48:09Z",
+      "last_new": "2026-10-12T17:48:09Z"
     },
     "forum:germancarforum.com/forums/toyota.554/index.rss": {
       "status": "failed",
@@ -74,9 +72,9 @@
       "noise": 0,
       "duplicate": 0,
       "errors": [
-        "HTTP 403"
+        "feedparser HTTP 503; HTTP 403; HTTP 403"
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "consecutive_empty": 0,
       "last_success": null,
       "last_new": null
@@ -84,28 +82,14 @@
     "forum:lexusenthusiast.com/forums/forums/toyota-GR/index.rss": {
       "status": "ok",
       "fetched": 14,
-      "new": 2,
+      "new": 0,
       "noise": 0,
-      "duplicate": 1,
+      "duplicate": 3,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-12T17:45:14Z",
+      "last_success": "2026-10-12T17:48:09Z",
       "last_new": "2026-10-12T17:45:14Z"
-    },
-    "forum:grassrootsmotorsports.com/feeds/forum": {
-      "status": "failed",
-      "fetched": 0,
-      "new": 0,
-      "noise": 0,
-      "duplicate": 0,
-      "errors": [
-        "HTTP 404"
-      ],
-      "consecutive_failures": 1,
-      "consecutive_empty": 0,
-      "last_success": null,
-      "last_new": null
     },
     "forum:supraforums.com/forums/-/index.rss": {
       "status": "failed",
@@ -114,9 +98,9 @@
       "noise": 0,
       "duplicate": 0,
       "errors": [
-        "HTTP 409"
+        "feedparser HTTP 409; HTTP 409; HTTP 409"
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "consecutive_empty": 0,
       "last_success": null,
       "last_new": null
