@@ -8788,5 +8788,25 @@
     "sentiment_label": "neutral",
     "added_at": "2026-10-11T23:33:27.885759+00:00",
     "occurred_at": "2026-10-11T20:30:18Z"
+  },
+  {
+    "id": "1791783298697-0",
+    "url": "https://youtube.com/watch?v=swLuORuV6rk",
+    "title": "Toyota no quiere que su GR GT termine guardado en un garaje.",
+    "source": "RepuvlikaRd",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-12T05:34:58.697289+00:00",
+    "occurred_at": "2026-10-12T00:16:32Z"
+  },
+  {
+    "id": "1791783298697-1",
+    "url": "https://youtube.com/watch?v=afXPyfJGwFY",
+    "title": "GR GT Prototype Tunnel &amp; Rainy Tokyo Drive | Forza Horizon 6 Ultra Graphics",
+    "source": "Sensei FH6",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-12T05:34:58.697289+00:00",
+    "occurred_at": "2026-10-12T00:00:02Z"
   }
 ]
