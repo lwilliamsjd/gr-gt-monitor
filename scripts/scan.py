@@ -471,7 +471,7 @@ def fetch_gdelt():
             for attempt in range(3):  # GDELT rate limits shared IPs, wait it out
                 r = http_get("https://api.gdeltproject.org/api/v2/doc/doc",
                              params={"query": q, "mode": "artlist", "format": "json",
-                                     "maxrecords": 75, "sort": "datedesc", "timespan": "3d"},
+                                     "maxrecords": 75, "sort": "datedesc", "timespan": "14d"},
                              timeout=40, attempts=1)
                 if r.status_code != 429:
                     break
