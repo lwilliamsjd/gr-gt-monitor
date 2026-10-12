@@ -463,17 +463,43 @@ def read_feed_list():
     return feeds
 
 
+def get_forum_feed(feed_url):
+    """Try feedparser's own user agent first (what worked before, some forums block
+    browser-looking agents), then fall back to a plain request. Returns (feed, error)."""
+    errors = []
+    try:
+        feed = feedparser.parse(feed_url)
+        code = feed.get("status")
+        if feed.entries:
+            return feed, None
+        errors.append(f"feedparser HTTP {code}" if code and code != 200 else "feedparser got no entries")
+    except Exception as ex:
+        errors.append(f"feedparser: {ex}")
+    for headers in (HEADERS, BROWSER_HEADERS):
+        try:
+            r = http_get(feed_url, headers=headers, timeout=25)
+            if r.status_code != 200:
+                errors.append(f"HTTP {r.status_code}")
+                continue
+            feed = parse_feed_entries(r.content)
+            if feed.entries:
+                return feed, None
+            errors.append("empty feed")
+        except Exception as ex:
+            errors.append(str(ex)[:80])
+    return None, "; ".join(errors)
+
+
 def fetch_forum_feeds():
     out = []
     for feed_url, take_all in read_feed_list():
         p = urlsplit(feed_url)
         h = health("forum:" + p.netloc.replace("www.", "") + p.path.rstrip("/"))
         try:
-            r = http_get(feed_url, headers=BROWSER_HEADERS, timeout=25)
-            if r.status_code != 200:
-                h.fail(f"HTTP {r.status_code}")
+            feed, error = get_forum_feed(feed_url)
+            if error:
+                h.fail(error)
                 continue
-            feed = parse_feed_entries(r.content)
             title = feed.feed.get("title", p.netloc)
             for e in feed.entries:
                 published = e.get("published_parsed") or e.get("updated_parsed")

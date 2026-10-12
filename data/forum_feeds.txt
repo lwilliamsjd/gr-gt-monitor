@@ -10,7 +10,6 @@
 https://www.grgtforum.com/forums/-/index.rss | all
 https://www.germancarforum.com/forums/toyota.554/index.rss
 https://lexusenthusiast.com/forums/forums/toyota-GR/index.rss
-https://grassrootsmotorsports.com/feeds/forum/
 https://www.supraforums.com/forums/-/index.rss
 
 # Confirmed vBulletin, needs a specific forum ID: hover over the subforum
@@ -19,5 +18,6 @@ https://www.supraforums.com/forums/-/index.rss
 # https://www.clublexus.com/forums/external.php?type=RSS2&forumids=REPLACE_ME
 # https://forums.corvetteforum.com/external.php?type=RSS2&forumids=REPLACE_ME
 
+# grassrootsmotorsports.com has no RSS feed (checked, every common path returns 404).
 # grcorollaforum.com runs on the Fora platform, no RSS support found.
 # Use the bookmarklet on that one instead.
