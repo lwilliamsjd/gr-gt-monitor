@@ -30,6 +30,7 @@
     --positive: #3ecf8e;
     --negative: #ff5c5c;
     --neutral: #5a5d63;
+    --unscored: #34363b;
     --border: #26272b;
   }
   * { box-sizing: border-box; }
@@ -67,6 +68,8 @@
   .empty { color: var(--fg-muted); font-size: 13px; padding: 20px 0; text-align: center; }
   .range-btn { background: transparent; border: 1px solid var(--border); border-radius: 5px; color: var(--fg-muted); padding: 5px 11px; font-size: 12px; cursor: pointer; }
   .range-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .warn { color: var(--negative); }
+  .tag { font-size: 10px; color: var(--fg-muted); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; margin-left: 6px; white-space: nowrap; }
   .range-btn:disabled { opacity: 0.35; cursor: not-allowed; }
 </style>
 </head>
@@ -76,6 +79,7 @@
   <div>
     <h1>GR GT Monitor</h1>
     <div class="subtitle" id="lastUpdated">Loading...</div>
+    <div class="subtitle" id="healthLine" style="margin-top:2px;"></div>
   </div>
   <button class="ghost" onclick="exportCSV()">Export CSV</button>
 </header>
@@ -116,6 +120,7 @@
       <option value="positive">Positive</option>
       <option value="neutral">Neutral</option>
       <option value="negative">Negative</option>
+      <option value="unscored">Not scored (non-English)</option>
     </select>
     <input type="text" id="filterSearch" placeholder="Search title" oninput="currentPage=1; renderTable()">
   </div>
@@ -134,7 +139,13 @@ let currentRange = '30D';
 const RANGES = { '7D': 7, '30D': 30, '90D': 90, 'ALL': null };
 const PAGE_SIZE = 10;
 let currentPage = 1;
-const SENTIMENT_COLOR = { positive: 'var(--positive)', negative: 'var(--negative)', neutral: 'var(--neutral)' };
+const SENTIMENT_COLOR = { positive: 'var(--positive)', negative: 'var(--negative)', neutral: 'var(--neutral)', unscored: 'var(--unscored)' };
+const SENTIMENT_TEXT = { unscored: 'not scored' };
+function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
+function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? esc(u) : '#'; }
+const pad2 = n => String(n).padStart(2, '0');
+const dayKey = dt => `${dt.getFullYear()}-${pad2(dt.getMonth() + 1)}-${pad2(dt.getDate())}`;
+function weekStart(dt) { const d = new Date(dt.getFullYear(), dt.getMonth(), dt.getDate()); d.setDate(d.getDate() - ((d.getDay() + 6) % 7)); return d; }
 
 function occurredDate(d) { return d.occurred_at || d.added_at; }
 
@@ -144,6 +155,7 @@ async function loadData() {
     if (!resp.ok) throw new Error('fetch failed');
     return await resp.json();
   } catch (e) {
+    window.__loadFailed = true;
     return [];
   }
 }
@@ -156,7 +168,8 @@ function renderRangeButtons() {
 function setRange(r) { currentRange = r; renderRangeButtons(); renderCharts(ALL_DATA); }
 
 function renderStrip(data) {
-  const total = data.length;
+  const unscored = data.filter(d => d.sentiment_label === 'unscored').length;
+  const total = data.length - unscored;
   const pos = data.filter(d => d.sentiment_label === 'positive').length;
   const neu = data.filter(d => d.sentiment_label === 'neutral').length;
   const neg = data.filter(d => d.sentiment_label === 'negative').length;
@@ -168,7 +181,8 @@ function renderStrip(data) {
     `<div style="width:${neuPct}%;background:var(--neutral);"></div>` +
     `<div style="width:${negPct}%;background:var(--negative);"></div>`;
   document.getElementById('sentimentLabels').innerHTML =
-    `<span>Positive ${posPct}%</span><span>Neutral ${neuPct}%</span><span>Negative ${negPct}%</span>`;
+    `<span>Positive ${posPct}%</span><span>Neutral ${neuPct}%</span><span>Negative ${negPct}%</span>` +
+    (unscored ? `<span>${unscored} non-English not scored</span>` : '');
 }
 
 function renderStats(data) {
@@ -179,13 +193,13 @@ function renderStats(data) {
   data.forEach(d => { sourceCounts[d.source] = (sourceCounts[d.source]||0) + 1; });
   const topSource = Object.entries(sourceCounts).sort((a,b) => b[1]-a[1])[0];
   const sentimentCounts = { positive: 0, neutral: 0, negative: 0 };
-  data.forEach(d => sentimentCounts[d.sentiment_label] = (sentimentCounts[d.sentiment_label]||0) + 1);
+  data.forEach(d => { if (d.sentiment_label in sentimentCounts) sentimentCounts[d.sentiment_label]++; });
   const dominant = Object.entries(sentimentCounts).sort((a,b) => b[1]-a[1])[0];
 
   document.getElementById('statCards').innerHTML = `
     <div class="stat-card"><div class="stat-value">${total}</div><div class="stat-label">Total mentions</div></div>
     <div class="stat-card"><div class="stat-value">${last7}</div><div class="stat-label">Last 7 days</div></div>
-    <div class="stat-card highlight"><div class="stat-value">${topSource ? topSource[0] : '-'}</div><div class="stat-label">Top source (${topSource ? topSource[1] : 0} hits)</div></div>
+    <div class="stat-card highlight"><div class="stat-value">${topSource ? esc(topSource[0]) : '-'}</div><div class="stat-label">Top source (${topSource ? topSource[1] : 0} hits)</div></div>
     <div class="stat-card"><div class="stat-value">${total && dominant ? dominant[0].charAt(0).toUpperCase()+dominant[0].slice(1) : '-'}</div><div class="stat-label">Dominant sentiment</div></div>
   `;
 }
@@ -195,17 +209,24 @@ function renderCharts(data) {
   const cutoff = days ? Date.now() - days*24*60*60*1000 : null;
   const timeData = cutoff ? data.filter(d => new Date(occurredDate(d)).getTime() >= cutoff) : data;
 
-  const byDay = {};
-  timeData.forEach(d => {
-    const dt = new Date(occurredDate(d));
-    const day = dt.toLocaleDateString('en-US', { month: 'numeric', day: 'numeric' });
-    byDay[day] = (byDay[day]||0) + 1;
-  });
-  const dayLabels = Object.keys(byDay).sort((a,b) => new Date(a + '/' + new Date().getFullYear()) - new Date(b + '/' + new Date().getFullYear()));
-  const dayData = dayLabels.map(d => byDay[d]);
+  const dates = timeData.map(d => new Date(occurredDate(d))).filter(x => !isNaN(x));
+  let startDt = cutoff ? new Date(cutoff) : (dates.length ? new Date(Math.min(...dates)) : new Date());
+  startDt = new Date(startDt.getFullYear(), startDt.getMonth(), startDt.getDate());
+  const endDt = new Date();
+  const weekly = Math.round((endDt - startDt) / 86400000) > 120;
+  const bucketDates = [];
+  const byBucket = {};
+  for (let cur = weekly ? weekStart(startDt) : startDt; cur <= endDt; cur = new Date(cur.getFullYear(), cur.getMonth(), cur.getDate() + (weekly ? 7 : 1))) {
+    bucketDates.push(cur);
+    byBucket[dayKey(cur)] = 0;
+  }
+  dates.forEach(dt => { const k = dayKey(weekly ? weekStart(dt) : dt); if (k in byBucket) byBucket[k]++; });
+  const withYear = bucketDates.length && bucketDates[0].getFullYear() !== endDt.getFullYear();
+  const dayLabels = bucketDates.map(b => b.toLocaleDateString('en-US', withYear ? { month: 'short', day: 'numeric', year: '2-digit' } : { month: 'short', day: 'numeric' }));
+  const dayData = bucketDates.map(b => byBucket[dayKey(b)]);
 
   const timeNote = document.getElementById('timeChartNote');
-  if (timeNote) timeNote.textContent = dayLabels.length <= 1 ? 'Only one day of data so far in this range.' : '';
+  if (timeNote) timeNote.textContent = weekly ? 'Weekly totals, by week starting Monday.' : (dates.length === 0 ? 'No mentions in this range.' : '');
 
   const sourceCounts = {};
   data.forEach(d => { sourceCounts[d.source] = (sourceCounts[d.source]||0) + 1; });
@@ -218,7 +239,7 @@ function renderCharts(data) {
   if (timeChart) timeChart.destroy();
   timeChart = new Chart(document.getElementById('timeChart'), {
     type: 'line',
-    data: { labels: dayLabels, datasets: [{ data: dayData, borderColor: '#eb0a1e', backgroundColor: 'rgba(235,10,30,0.15)', fill: true, tension: 0.3, borderWidth: 2, pointRadius: 5, pointHoverRadius: 7, pointBackgroundColor: '#eb0a1e', pointBorderColor: '#0b0b0c', pointBorderWidth: 1 }] },
+    data: { labels: dayLabels, datasets: [{ data: dayData, borderColor: '#eb0a1e', backgroundColor: 'rgba(235,10,30,0.15)', fill: true, tension: 0.3, borderWidth: 2, pointRadius: dayLabels.length > 40 ? (c => c.raw ? 3 : 0) : 5, pointHoverRadius: 7, pointBackgroundColor: '#eb0a1e', pointBorderColor: '#0b0b0c', pointBorderWidth: 1 }] },
     options: { plugins: { legend: { display: false } }, scales: { x: { offset: true, grid: { color: '#26272b' }, ticks: { color: '#8a8d93' } }, y: { grid: { color: '#26272b' }, ticks: { color: '#8a8d93', precision: 0 }, beginAtZero: true } }, maintainAspectRatio: false }
   });
 
@@ -261,7 +282,7 @@ function renderPagination(totalItems, totalPages) {
 function goToPage(p) { currentPage = p; renderTable(); }
 
 function renderTable() {
-  const data = ALL_DATA.slice().reverse();
+  const data = ALL_DATA.slice().sort((a, b) => new Date(occurredDate(b)) - new Date(occurredDate(a)));
   const platformFilter = document.getElementById('filterPlatform').value;
   const sentimentFilter = document.getElementById('filterSentiment').value;
   const search = document.getElementById('filterSearch').value.toLowerCase();
@@ -281,11 +302,11 @@ function renderTable() {
   document.getElementById('emptyState').style.display = filtered.length ? 'none' : 'block';
   document.getElementById('rows').innerHTML = pageItems.map(d => `
     <tr>
-      <td><span class="dot" style="background:${SENTIMENT_COLOR[d.sentiment_label]}"></span>${d.sentiment_label}</td>
-      <td>${d.url ? `<a href="${d.url}" target="_blank">${d.title}</a>` : d.title}</td>
-      <td>${d.source}</td>
-      <td>${d.platform}</td>
-      <td>${new Date(occurredDate(d)).toLocaleDateString()}</td>
+      <td style="white-space:nowrap"><span class="dot" style="background:${SENTIMENT_COLOR[d.sentiment_label] || 'var(--neutral)'}"></span>${esc(SENTIMENT_TEXT[d.sentiment_label] || d.sentiment_label)}</td>
+      <td>${d.url ? `<a href="${safeUrl(d.url)}" target="_blank" rel="noopener noreferrer">${esc(d.title)}</a>` : esc(d.title)}${d.kind === 'activity' ? '<span class="tag">new activity</span>' : ''}</td>
+      <td>${esc(d.source)}</td>
+      <td>${esc(d.platform)}</td>
+      <td>${d.date_estimated ? '~' : ''}${new Date(occurredDate(d)).toLocaleDateString()}</td>
     </tr>
   `).join('');
 
@@ -294,14 +315,15 @@ function renderTable() {
   const platforms = [...new Set(ALL_DATA.map(d => d.platform))];
   const platformSelect = document.getElementById('filterPlatform');
   const currentVal = platformSelect.value;
-  platformSelect.innerHTML = '<option value="">All platforms</option>' + platforms.map(p => `<option value="${p}">${p}</option>`).join('');
+  platformSelect.innerHTML = '<option value="">All platforms</option>' + platforms.map(p => `<option value="${esc(p)}">${esc(p)}</option>`).join('');
   platformSelect.value = currentVal;
 }
 
 function exportCSV() {
   if (!ALL_DATA.length) { alert('No data to export.'); return; }
   const header = ['title','url','source','platform','sentiment','occurred_at','added_at'];
-  const rows = ALL_DATA.map(d => [d.title, d.url, d.source, d.platform, d.sentiment_label, occurredDate(d), d.added_at]);
+  const safe = v => /^[=+\-@]/.test(String(v)) ? "'" + v : v;
+  const rows = ALL_DATA.map(d => [safe(d.title), d.url, safe(d.source), d.platform, d.sentiment_label, occurredDate(d), d.added_at]);
   const csv = [header, ...rows].map(r => r.map(v => `"${String(v).replace(/"/g,'""')}"`).join(',')).join('\n');
   const blob = new Blob([csv], { type: 'text/csv' });
   const a = document.createElement('a');
@@ -310,11 +332,37 @@ function exportCSV() {
   a.click();
 }
 
+async function loadStatus() {
+  try {
+    const resp = await fetch('status.json?_=' + Date.now());
+    if (!resp.ok) throw new Error('no status');
+    return await resp.json();
+  } catch (e) { return null; }
+}
+
+function renderHealth(st) {
+  const el = document.getElementById('healthLine');
+  if (!st || !st.last_run) { el.textContent = ''; return; }
+  const sources = Object.entries(st.sources || {}).filter(([, s]) => s.status !== 'skipped');
+  const bad = sources.filter(([, s]) => s.status === 'failed' || s.status === 'degraded');
+  const hours = (Date.now() - new Date(st.last_run)) / 36e5;
+  const ago = hours < 1 ? 'under an hour ago' : hours < 48 ? `${Math.round(hours)}h ago` : `${Math.round(hours / 24)}d ago`;
+  let out = `Last scan ${ago} \u00b7 ${sources.length - bad.length} of ${sources.length} sources healthy`;
+  if (bad.length) out += ` \u00b7 <span class="warn">${bad.map(([n]) => esc(n)).join(', ')} need attention</span>`;
+  if (hours > 12) out += ' \u00b7 <span class="warn">scan is overdue</span>';
+  if (st.archived_total) out += ` \u00b7 ${st.archived_total} filtered out (game content, duplicates)`;
+  el.innerHTML = out;
+}
+
 async function init() {
-  ALL_DATA = await loadData();
-  document.getElementById('lastUpdated').textContent = ALL_DATA.length
-    ? `${ALL_DATA.length} mentions tracked \u00b7 refreshed automatically every 2 hours`
-    : 'No data yet, first scheduled scan will populate this';
+  const [data, status] = await Promise.all([loadData(), loadStatus()]);
+  ALL_DATA = data;
+  renderHealth(status);
+  document.getElementById('lastUpdated').textContent = window.__loadFailed
+    ? 'Could not load data.json. Try refreshing the page.'
+    : ALL_DATA.length
+      ? `${ALL_DATA.length} mentions tracked \u00b7 refreshed automatically`
+      : 'No data yet, first scheduled scan will populate this';
   renderRangeButtons();
   renderStrip(ALL_DATA);
   renderStats(ALL_DATA);
