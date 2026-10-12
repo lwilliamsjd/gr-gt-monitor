@@ -8808,5 +8808,85 @@
     "sentiment_label": "positive",
     "added_at": "2026-10-12T05:34:58.697289+00:00",
     "occurred_at": "2026-10-12T00:00:02Z"
+  },
+  {
+    "id": "1791817611599-0",
+    "url": "https://youtube.com/watch?v=vlr2QrrUy_A",
+    "title": "Toyota GR GT (Prototype) | #31 | Forza Horizon 6 [2]",
+    "source": "EVOX",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-12T15:06:51.599141+00:00",
+    "occurred_at": "2026-10-12T15:00:20Z"
+  },
+  {
+    "id": "1791817611599-1",
+    "url": "https://youtube.com/watch?v=kqI-jXJ5QDE",
+    "title": "Toyota Built a SUPERCAR?! 641 HP GR GT #Shorts",
+    "source": "Drive Ahead Autos",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-12T15:06:51.599141+00:00",
+    "occurred_at": "2026-10-12T14:00:20Z"
+  },
+  {
+    "id": "1791817611599-2",
+    "url": "https://youtube.com/watch?v=J19-0kx4CGY",
+    "title": "Forza Horizon 6 - The Cover Car GR GT is Finally Good in A-Class!",
+    "source": "Moss847",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-12T15:06:51.599141+00:00",
+    "occurred_at": "2026-10-12T13:00:15Z"
+  },
+  {
+    "id": "1791817611599-3",
+    "url": "https://youtube.com/watch?v=0iKPNoTCwQU",
+    "title": "\u3010\u885d\u6483\u3011Toyota GR GT\u304c\u51c4\u3059\u304e\u308b\uff01\u672a\u6765\u306e\u30b9\u30fc\u30d1\u30fc\u30b9\u30dd\u30fc\u30c4\u30ab\u30fc\u3001\u305d\u306e\u9a5a\u304d\u306e\u30c7\u30b6\u30a4\u30f3\u3068\u6027\u80fd\u3092\u5fb9\u5e95\u7d39\u4ecb\uff5cAuto master TV",
+    "source": "AutoMaster  TV",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-12T15:06:51.599141+00:00",
+    "occurred_at": "2026-10-12T12:37:09Z"
+  },
+  {
+    "id": "1791817611599-4",
+    "url": "https://youtube.com/watch?v=_pMLcbevDgc",
+    "title": "Toyota GR GT (Prototype) | #31 | Forza Horizon 6 [1]",
+    "source": "EVOX",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-12T15:06:51.599141+00:00",
+    "occurred_at": "2026-10-12T11:58:42Z"
+  },
+  {
+    "id": "1791817611599-5",
+    "url": "https://youtube.com/watch?v=p8eSINw8-K0",
+    "title": "\ud83d\udce6\u958b\u7bb1\ud83d\udce6TOMICA GR GT",
+    "source": "1/64 \u5feb\u6a02\u93ae \u93ae\u9577 - \u963f\u5f18",
+    "platform": "youtube",
+    "sentiment_label": "positive",
+    "added_at": "2026-10-12T15:06:51.599141+00:00",
+    "occurred_at": "2026-10-12T11:50:40Z"
+  },
+  {
+    "id": "1791817611599-6",
+    "url": "https://youtube.com/watch?v=JKtXl-TEXXE",
+    "title": "\u65b0\u578b2027\u5e74\u30c8\u30e8\u30bf GR GT\u304c\u51c4\u3059\u304e\u308b\uff01\u672a\u6765\u306e\u30b9\u30fc\u30d1\u30fc\u30ab\u30fc\u3092\u5fb9\u5e95\u89e3\u8aac \ud83d\udea8\ud83c\udfce\ufe0f",
+    "source": "JDM Auto ",
+    "platform": "youtube",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-12T15:06:51.599141+00:00",
+    "occurred_at": "2026-10-12T06:57:38Z"
+  },
+  {
+    "id": "1791817611599-7",
+    "url": "https://bsky.app/profile/tishisaka.bsky.social/post/3mxokg7vq2s23",
+    "title": "\u30c8\u30e8\u30bf\u306b\u3057\u3066\u3082\u3001\u30b9\u30dd\u30fc\u30c4\u30ab\u30fc\u4f5c\u3063\u305f\u3068\u601d\u3063\u305f\u3089\u300186\u3001\u30b9\u30fc\u30d7\u30e9\u3068\u6765\u3066\u6b21\u306f\u30bb\u30ea\u30ab\u3067\u3001\u30b9\u30bf\u30a4\u30ea\u30f3\u30b0\u3082\u6614\u306e\u30bb\u30ea\u30ab\u306b\u5bc4\u305b\u3066\u3044\u307e\u3059\u304b\u3089\u306d\u3047\u3002GR GT\u3082\u305d\u3093\u306a\u306b\u65b0\u3057\u3044\u3068\u601d\u308f\u306a\u3044\u3068\u3044\u3046\u304b\u3002",
+    "source": "@tishisaka.bsky.social",
+    "platform": "bluesky",
+    "sentiment_label": "neutral",
+    "added_at": "2026-10-12T15:06:51.599141+00:00",
+    "occurred_at": "2026-10-12T12:47:05.087Z"
   }
 ]
