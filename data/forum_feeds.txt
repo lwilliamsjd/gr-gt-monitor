@@ -1,13 +1,13 @@
-# Add one forum RSS/Atom feed URL per line. Lines starting with # are ignored.
-# Example (Discourse-based forums often expose this pattern):
-# https://forum.example.com/latest.rss
+# One forum RSS/Atom feed per line. Lines starting with # are ignored.
+# Add " | all" to the end of a line to count every thread in that feed, for
+# forums that are entirely about the GR GT. Without it, a thread must mention
+# GR GT in its title or opening post.
 #
-# Many forum platforms (Discourse, XenForo, some vBulletin) publish these even
-# if there's no visible link to them, worth checking a forum's page source
-# for <link type="application/rss+xml"> or trying /rss, /feed, /latest.rss
-# on the forum's root URL.
+# Many forum platforms (Discourse, XenForo, some vBulletin) publish feeds even
+# without a visible link. Look for <link type="application/rss+xml"> in the
+# page source, or try /rss, /feed, /latest.rss on the forum's root URL.
 
-https://www.grgtforum.com/forums/-/index.rss
+https://www.grgtforum.com/forums/-/index.rss | all
 https://www.germancarforum.com/forums/toyota.554/index.rss
 https://lexusenthusiast.com/forums/forums/toyota-GR/index.rss
 https://grassrootsmotorsports.com/feeds/forum/

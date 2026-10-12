@@ -1,10 +1,10 @@
 # GR GT Monitor (Cloud version)
 
-Runs entirely on GitHub's servers on a schedule. Nothing installs on your machine, nothing needs your browser open. A dashboard hosted for free shows the results, updated automatically every 2 hours.
+Runs entirely on GitHub's servers on a schedule. Nothing installs on your machine, nothing needs your browser open. A dashboard hosted for free shows the results, updated automatically every hour or so (GitHub may delay scheduled runs).
 
 ## What you get vs the local HTML tool
 
-This replaces the manual URL scanning and Reddit/YouTube search from the local tool with fully automatic, unattended pulls from Google News, Reddit, YouTube, and any forum RSS feeds you add. It does **not** replace the bookmarklet, login walled and JavaScript heavy forums still need that, since only your logged in browser can see that content. Use both together: this handles everything automatic, the bookmarklet still handles the stubborn forums.
+This replaces the manual URL scanning and Reddit/YouTube search from the local tool with fully automatic, unattended pulls from Google News, YouTube, Bluesky, NewsData.io, and any forum RSS feeds you add. It does **not** replace the bookmarklet, login walled and JavaScript heavy forums still need that, since only your logged in browser can see that content. Use both together: this handles everything automatic, the bookmarklet still handles the stubborn forums.
 
 ## 1. Create the repository
 
@@ -38,9 +38,19 @@ Go to the Actions tab. GitHub sometimes disables workflows on first upload for s
 
 Edit `data/forum_feeds.txt` directly on GitHub's website (click the file, click the pencil icon to edit), add one feed URL per line. Many forums (especially Discourse and XenForo based ones) publish these at predictable paths like `/latest.rss` or `/feed`, check a forum's page source for `<link type="application/rss+xml">` or just try common paths.
 
+Add ` | all` after a feed URL to count every thread in it, for forums that are entirely about the GR GT.
+
 ## Changing the schedule
 
-The `0 */2 * * *` line in `scan.yml` means "every 2 hours." Edit that file on GitHub's website if you want it more or less frequent, standard cron syntax.
+The `23 * * * *` line in `scan.yml` means "hourly, at 23 minutes past." The odd minute is deliberate, GitHub drops runs scheduled at the top of the hour. Edit that file on GitHub's website for a different frequency, standard cron syntax. YouTube's free quota allows roughly hourly scans, going faster can exhaust it.
+
+## Reliability features
+
+- Game content (Forza, Roblox, BeamNG, Assetto Corsa and similar) is filtered out. Syndicated copies of the same headline are removed. Nothing is deleted, filtered rows are kept in `data/excluded.json`.
+- Non-English posts are shown as "not scored" instead of getting a meaningless sentiment label.
+- `docs/status.json` records the health of every source, shown under the dashboard title.
+- If a source fails 3 runs in a row, or the feeds go quiet, the workflow opens a GitHub issue (GitHub emails you) and closes it when things recover.
+- A bad or unreadable `data.json` stops the scan instead of being overwritten.
 
 ## Cost
 

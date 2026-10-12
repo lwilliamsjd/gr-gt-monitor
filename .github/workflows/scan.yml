@@ -2,24 +2,34 @@ name: GR GT Monitor Scan
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    # Odd minute on purpose: GitHub delays or drops runs scheduled at the top of the hour.
+    - cron: '23 * * * *'
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  issues: write
+
+# Never let two scans write data.json at the same time.
+concurrency:
+  group: gr-gt-scan
+  cancel-in-progress: false
 
 jobs:
   scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
-        run: pip install feedparser requests vaderSentiment
+        run: pip install -r requirements.txt
 
       - name: Run scan
         env:
@@ -29,10 +39,40 @@ jobs:
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: python scripts/scan.py
 
+      # Runs even if the scan failed, so status.json always reflects the latest run.
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name "gr-gt-monitor-bot"
           git config user.email "actions@github.com"
-          git add docs/data.json
-          git diff --quiet --cached || git commit -m "Update mention data"
-          git push
+          git add -A docs data
+          if git diff --quiet --cached; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "Update mention data"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push attempt $attempt failed, retrying."
+            sleep $((attempt * 5))
+          done
+          exit 1
+
+      # One open issue while something is broken (GitHub emails you), closed when it recovers.
+      - name: Raise or clear health alert
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          existing=$(gh issue list --label monitor-alert --state open --json number --jq '.[0].number // empty')
+          if [ -f alerts.md ]; then
+            if [ -n "$existing" ]; then
+              gh issue edit "$existing" --body-file alerts.md
+            else
+              gh label create monitor-alert --color B60205 --description "Scanner health" 2>/dev/null || true
+              gh issue create --title "GR GT Monitor needs attention" --label monitor-alert --body-file alerts.md
+            fi
+          elif [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "All sources healthy again. Closing."
+            gh issue close "$existing"
+          fi
