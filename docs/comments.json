@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T18:15:30Z",
+ "updated_at": "2026-10-13T00:50:18Z",
  "videos": {
   "H21Oqh3Mxyg": {
    "title": "SECRET TEST LAMBORGHINI TEMERARIO GT3 & TOYOTA GR GT3 | NÜRBURGRING",
@@ -11,19 +11,19 @@
    "negative": 2,
    "unscored": 10,
    "avg_score": 0.245,
-   "updated_at": "2026-10-12T18:12:08Z"
+   "updated_at": "2026-10-13T00:50:18Z"
   },
   "IlNy2AwBvG0": {
    "title": "Toyota'nın Yeni Silahı: GR GT 🔥#toyota #toyotasupra #gt3 #lemansultimate #lemans #toyotagt3 #shorts",
    "url": "https://youtube.com/watch?v=IlNy2AwBvG0",
-   "comment_count": 10,
+   "comment_count": 11,
    "sampled": 5,
    "positive": 0,
    "neutral": 4,
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-10-12T18:12:08Z"
+   "updated_at": "2026-10-13T00:50:18Z"
   },
   "eIaPBY89WnE": {
    "title": "🔥🔥🔥Toyota GR GT being Followed at The Nordschleife 🤩🤩",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.729,
-   "updated_at": "2026-10-12T18:12:08Z"
+   "updated_at": "2026-10-13T00:50:18Z"
   },
   "EjrajNeIjbM": {
    "title": "7 Toyota Cars Coming for 2027 - From Corolla to the Wild GR GT!",
@@ -47,7 +47,7 @@
    "negative": 1,
    "unscored": 1,
    "avg_score": 0.088,
-   "updated_at": "2026-10-12T18:15:30Z"
+   "updated_at": "2026-10-13T00:50:18Z"
   },
   "FmIaymTcfEM": {
    "title": "TOYOTA GR GT: PENANTANG BARU DARI JEPANG! 😱🔥 SUPERCAR TOYOTA MULAI BERGERAK",
@@ -59,7 +59,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-12T18:15:30Z"
+   "updated_at": "2026-10-13T00:50:18Z"
   },
   "p8eSINw8-K0": {
    "title": "📦開箱📦TOMICA GR GT",
@@ -76,14 +76,14 @@
   "BnRjm2hl6IE": {
    "title": "Toyota GR GT3 vs. GR GT: What Changes for Racing?",
    "url": "https://youtube.com/watch?v=BnRjm2hl6IE",
-   "comment_count": 2,
-   "sampled": 2,
-   "positive": 2,
+   "comment_count": 3,
+   "sampled": 3,
+   "positive": 3,
    "neutral": 0,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.345,
-   "updated_at": "2026-10-12T18:15:30Z"
+   "avg_score": 0.442,
+   "updated_at": "2026-10-13T00:50:18Z"
   },
   "5OWIqqHKAak": {
    "title": "🔥 2027 Toyota GR GT Unveiled – Toyota’s New Supercar Killer Is Here! 😱",
@@ -111,8 +111,8 @@
   }
  },
  "totals": {
-  "sampled": 47,
-  "positive": 15,
+  "sampled": 48,
+  "positive": 16,
   "neutral": 16,
   "negative": 4,
   "unscored": 12
