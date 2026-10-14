@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-10-14T06:14:33Z",
+ "updated_at": "2026-10-14T12:06:37Z",
  "videos": {
-  "H21Oqh3Mxyg": {
-   "title": "SECRET TEST LAMBORGHINI TEMERARIO GT3 & TOYOTA GR GT3 | NÜRBURGRING",
-   "url": "https://youtube.com/watch?v=H21Oqh3Mxyg",
-   "comment_count": 50,
-   "sampled": 28,
-   "positive": 8,
-   "neutral": 8,
-   "negative": 2,
-   "unscored": 10,
-   "avg_score": 0.245,
-   "updated_at": "2026-10-14T00:23:24Z"
-  },
   "IlNy2AwBvG0": {
    "title": "Toyota'nın Yeni Silahı: GR GT 🔥#toyota #toyotasupra #gt3 #lemansultimate #lemans #toyotagt3 #shorts",
    "url": "https://youtube.com/watch?v=IlNy2AwBvG0",
@@ -23,7 +11,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-10-14T00:23:24Z"
+   "updated_at": "2026-10-14T12:06:37Z"
   },
   "eIaPBY89WnE": {
    "title": "🔥🔥🔥Toyota GR GT being Followed at The Nordschleife 🤩🤩",
@@ -35,19 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.729,
-   "updated_at": "2026-10-14T00:23:24Z"
-  },
-  "EjrajNeIjbM": {
-   "title": "7 Toyota Cars Coming for 2027 - From Corolla to the Wild GR GT!",
-   "url": "https://youtube.com/watch?v=EjrajNeIjbM",
-   "comment_count": 4,
-   "sampled": 4,
-   "positive": 1,
-   "neutral": 1,
-   "negative": 1,
-   "unscored": 1,
-   "avg_score": 0.088,
-   "updated_at": "2026-10-14T00:23:24Z"
+   "updated_at": "2026-10-14T12:06:37Z"
   },
   "p8eSINw8-K0": {
    "title": "📦開箱📦TOMICA GR GT",
@@ -71,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.442,
-   "updated_at": "2026-10-14T00:23:24Z"
+   "updated_at": "2026-10-14T12:06:37Z"
   },
   "5OWIqqHKAak": {
    "title": "🔥 2027 Toyota GR GT Unveiled – Toyota’s New Supercar Killer Is Here! 😱",
@@ -107,7 +83,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.14,
-   "updated_at": "2026-10-14T00:23:24Z"
+   "updated_at": "2026-10-14T12:06:37Z"
   },
   "ykgIZG9VyHI": {
    "title": "Toyota GR GT",
@@ -135,10 +111,10 @@
   }
  },
  "totals": {
-  "sampled": 52,
-  "positive": 18,
-  "neutral": 17,
-  "negative": 5,
-  "unscored": 12
+  "sampled": 20,
+  "positive": 9,
+  "neutral": 8,
+  "negative": 2,
+  "unscored": 1
  }
 }
