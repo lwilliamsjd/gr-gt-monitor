@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T00:23:24Z",
+ "updated_at": "2026-10-14T06:14:33Z",
  "videos": {
   "H21Oqh3Mxyg": {
    "title": "SECRET TEST LAMBORGHINI TEMERARIO GT3 & TOYOTA GR GT3 | NÜRBURGRING",
@@ -59,7 +59,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.586,
-   "updated_at": "2026-10-13T21:20:41Z"
+   "updated_at": "2026-10-14T06:14:33Z"
   },
   "BnRjm2hl6IE": {
    "title": "Toyota GR GT3 vs. GR GT: What Changes for Racing?",
@@ -83,19 +83,19 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.758,
-   "updated_at": "2026-10-13T21:20:41Z"
+   "updated_at": "2026-10-14T06:14:33Z"
   },
   "WUIIX9r47Bk": {
    "title": "Driving the Toyota GR GT in NFS Most Wanted 2012",
    "url": "https://youtube.com/watch?v=WUIIX9r47Bk",
-   "comment_count": 2,
+   "comment_count": 3,
    "sampled": 2,
    "positive": 1,
    "neutral": 1,
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.137,
-   "updated_at": "2026-10-13T21:20:41Z"
+   "updated_at": "2026-10-14T06:14:33Z"
   },
   "PkMADiTsJiY": {
    "title": "TOYOTA GR GT Smack all",
@@ -119,13 +119,25 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.493,
-   "updated_at": "2026-10-13T21:20:41Z"
+   "updated_at": "2026-10-14T06:14:33Z"
+  },
+  "eqpkzQymd3g": {
+   "title": "2027 Toyota GR GT Is FINALLY Here - Forget the Supra",
+   "url": "https://youtube.com/watch?v=eqpkzQymd3g",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.0,
+   "updated_at": "2026-10-14T06:14:33Z"
   }
  },
  "totals": {
-  "sampled": 51,
+  "sampled": 52,
   "positive": 18,
-  "neutral": 16,
+  "neutral": 17,
   "negative": 5,
   "unscored": 12
  }
