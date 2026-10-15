@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T10:04:23Z",
+ "updated_at": "2026-10-15T15:07:15Z",
  "videos": {
   "IlNy2AwBvG0": {
    "title": "Toyota'nın Yeni Silahı: GR GT 🔥#toyota #toyotasupra #gt3 #lemansultimate #lemans #toyotagt3 #shorts",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-10-15T04:52:23Z"
+   "updated_at": "2026-10-15T15:07:15Z"
   },
   "eIaPBY89WnE": {
    "title": "🔥🔥🔥Toyota GR GT being Followed at The Nordschleife 🤩🤩",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.729,
-   "updated_at": "2026-10-15T04:52:23Z"
+   "updated_at": "2026-10-15T15:07:15Z"
   },
   "p8eSINw8-K0": {
    "title": "📦開箱📦TOMICA GR GT",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.442,
-   "updated_at": "2026-10-15T04:52:23Z"
+   "updated_at": "2026-10-15T15:07:15Z"
   },
   "5OWIqqHKAak": {
    "title": "🔥 2027 Toyota GR GT Unveiled – Toyota’s New Supercar Killer Is Here! 😱",
@@ -83,7 +83,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.14,
-   "updated_at": "2026-10-15T04:52:23Z"
+   "updated_at": "2026-10-15T15:07:15Z"
   },
   "eqpkzQymd3g": {
    "title": "2027 Toyota GR GT Is FINALLY Here - Forget the Supra",
@@ -112,21 +112,21 @@
   "q1UYtzOm7q4": {
    "title": "Toyota GR GT3: ¿el japonés que pondrá a temblar a Ferrari y Porsche? #Toyota #V8 #GT3 #Autos",
    "url": "https://youtube.com/watch?v=q1UYtzOm7q4",
-   "comment_count": 1,
-   "sampled": 1,
+   "comment_count": 2,
+   "sampled": 2,
    "positive": 0,
    "neutral": 0,
    "negative": 0,
-   "unscored": 1,
+   "unscored": 2,
    "avg_score": null,
-   "updated_at": "2026-10-15T04:52:23Z"
+   "updated_at": "2026-10-15T15:07:15Z"
   }
  },
  "totals": {
-  "sampled": 21,
+  "sampled": 22,
   "positive": 10,
   "neutral": 8,
   "negative": 1,
-  "unscored": 2
+  "unscored": 3
  }
 }
