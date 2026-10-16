@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T22:27:59Z",
+ "updated_at": "2026-10-16T01:29:40Z",
  "videos": {
   "IlNy2AwBvG0": {
    "title": "Toyota'nın Yeni Silahı: GR GT 🔥#toyota #toyotasupra #gt3 #lemansultimate #lemans #toyotagt3 #shorts",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.586,
-   "updated_at": "2026-10-15T19:14:58Z"
+   "updated_at": "2026-10-16T01:29:40Z"
   },
   "BnRjm2hl6IE": {
    "title": "Toyota GR GT3 vs. GR GT: What Changes for Racing?",
@@ -59,7 +59,7 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.758,
-   "updated_at": "2026-10-15T19:14:58Z"
+   "updated_at": "2026-10-16T01:29:40Z"
   },
   "WUIIX9r47Bk": {
    "title": "Driving the Toyota GR GT in NFS Most Wanted 2012",
@@ -71,7 +71,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.137,
-   "updated_at": "2026-10-15T19:14:58Z"
+   "updated_at": "2026-10-16T01:29:40Z"
   },
   "PkMADiTsJiY": {
    "title": "TOYOTA GR GT Smack all",
@@ -95,7 +95,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-15T19:14:58Z"
+   "updated_at": "2026-10-16T01:29:40Z"
   },
   "syuXhREnGs8": {
    "title": "2027 Toyota GR GT Review: The V8 Supercar Porsche Should Worry About",
@@ -107,7 +107,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.637,
-   "updated_at": "2026-10-15T19:14:58Z"
+   "updated_at": "2026-10-16T01:29:40Z"
   },
   "q1UYtzOm7q4": {
    "title": "Toyota GR GT3: ¿el japonés que pondrá a temblar a Ferrari y Porsche? #Toyota #V8 #GT3 #Autos",
@@ -120,13 +120,25 @@
    "unscored": 2,
    "avg_score": 0.0,
    "updated_at": "2026-10-15T22:27:59Z"
+  },
+  "swLuORuV6rk": {
+   "title": "Toyota no quiere que su GR GT termine guardado en un garaje.",
+   "url": "https://youtube.com/watch?v=swLuORuV6rk",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 0,
+   "negative": 1,
+   "unscored": 0,
+   "avg_score": -0.296,
+   "updated_at": "2026-10-16T01:29:40Z"
   }
  },
  "totals": {
-  "sampled": 23,
+  "sampled": 24,
   "positive": 10,
   "neutral": 9,
-  "negative": 1,
+  "negative": 2,
   "unscored": 3
  }
 }
