@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-10-16T07:19:39Z",
+ "updated_at": "2026-10-16T12:33:23Z",
  "videos": {
-  "IlNy2AwBvG0": {
-   "title": "Toyota'nın Yeni Silahı: GR GT 🔥#toyota #toyotasupra #gt3 #lemansultimate #lemans #toyotagt3 #shorts",
-   "url": "https://youtube.com/watch?v=IlNy2AwBvG0",
-   "comment_count": 12,
-   "sampled": 5,
-   "positive": 0,
-   "neutral": 4,
-   "negative": 0,
-   "unscored": 1,
-   "avg_score": 0.0,
-   "updated_at": "2026-10-16T07:19:39Z"
-  },
   "eIaPBY89WnE": {
    "title": "🔥🔥🔥Toyota GR GT being Followed at The Nordschleife 🤩🤩",
    "url": "https://youtube.com/watch?v=eIaPBY89WnE",
@@ -35,7 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.586,
-   "updated_at": "2026-10-16T01:29:40Z"
+   "updated_at": "2026-10-16T12:33:23Z"
   },
   "BnRjm2hl6IE": {
    "title": "Toyota GR GT3 vs. GR GT: What Changes for Racing?",
@@ -49,18 +37,6 @@
    "avg_score": 0.442,
    "updated_at": "2026-10-16T07:19:39Z"
   },
-  "5OWIqqHKAak": {
-   "title": "🔥 2027 Toyota GR GT Unveiled – Toyota’s New Supercar Killer Is Here! 😱",
-   "url": "https://youtube.com/watch?v=5OWIqqHKAak",
-   "comment_count": 2,
-   "sampled": 1,
-   "positive": 0,
-   "neutral": 0,
-   "negative": 1,
-   "unscored": 0,
-   "avg_score": -0.758,
-   "updated_at": "2026-10-16T01:29:40Z"
-  },
   "WUIIX9r47Bk": {
    "title": "Driving the Toyota GR GT in NFS Most Wanted 2012",
    "url": "https://youtube.com/watch?v=WUIIX9r47Bk",
@@ -71,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.137,
-   "updated_at": "2026-10-16T01:29:40Z"
+   "updated_at": "2026-10-16T12:33:23Z"
   },
   "PkMADiTsJiY": {
    "title": "TOYOTA GR GT Smack all",
@@ -95,7 +71,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-16T01:29:40Z"
+   "updated_at": "2026-10-16T12:33:23Z"
   },
   "syuXhREnGs8": {
    "title": "2027 Toyota GR GT Review: The V8 Supercar Porsche Should Worry About",
@@ -107,7 +83,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.637,
-   "updated_at": "2026-10-16T01:29:40Z"
+   "updated_at": "2026-10-16T12:33:23Z"
   },
   "q1UYtzOm7q4": {
    "title": "Toyota GR GT3: ¿el japonés que pondrá a temblar a Ferrari y Porsche? #Toyota #V8 #GT3 #Autos",
@@ -131,14 +107,14 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.296,
-   "updated_at": "2026-10-16T01:29:40Z"
+   "updated_at": "2026-10-16T12:33:23Z"
   }
  },
  "totals": {
-  "sampled": 26,
+  "sampled": 20,
   "positive": 10,
-  "neutral": 11,
-  "negative": 2,
-  "unscored": 3
+  "neutral": 7,
+  "negative": 1,
+  "unscored": 2
  }
 }
