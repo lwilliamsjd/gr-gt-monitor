@@ -1,56 +1,56 @@
 {
-  "last_run": "2026-10-17T09:29:24Z",
-  "total": 843,
+  "last_run": "2026-10-17T13:48:11Z",
+  "total": 844,
   "added": 1,
   "archived_total": 206,
-  "last_new": "2026-10-17T09:29:24Z",
+  "last_new": "2026-10-17T13:48:11Z",
   "sources": {
     "google_news": {
       "status": "ok",
       "fetched": 233,
       "new": 0,
       "noise": 0,
-      "duplicate": 184,
+      "duplicate": 185,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": "2026-10-16T21:22:10Z"
     },
     "youtube": {
       "status": "ok",
       "fetched": 75,
       "new": 1,
-      "noise": 11,
+      "noise": 9,
       "duplicate": 42,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
-      "last_new": "2026-10-17T09:29:24Z"
+      "last_success": "2026-10-17T13:48:11Z",
+      "last_new": "2026-10-17T13:48:11Z"
     },
     "bluesky": {
       "status": "ok",
       "fetched": 147,
       "new": 0,
       "noise": 4,
-      "duplicate": 89,
+      "duplicate": 88,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": "2026-10-17T04:40:18Z"
     },
     "newsdata": {
       "status": "ok",
-      "fetched": 9,
+      "fetched": 10,
       "new": 0,
       "noise": 0,
       "duplicate": 0,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": null
     },
     "gdelt": {
@@ -61,20 +61,20 @@
       "duplicate": 0,
       "errors": [],
       "consecutive_failures": 0,
-      "consecutive_empty": 6,
-      "last_success": "2026-10-17T09:29:24Z",
+      "consecutive_empty": 7,
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": null
     },
     "bing_news": {
       "status": "ok",
-      "fetched": 23,
+      "fetched": 24,
       "new": 0,
       "noise": 0,
-      "duplicate": 23,
+      "duplicate": 24,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": "2026-10-16T17:31:17Z"
     },
     "mastodon": {
@@ -86,7 +86,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": "2026-10-13T00:50:18Z"
     },
     "hackernews": {
@@ -98,7 +98,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": "2026-10-12T18:12:08Z"
     },
     "lemmy": {
@@ -110,7 +110,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": null
     },
     "podcasts": {
@@ -122,7 +122,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": "2026-10-12T18:12:08Z"
     },
     "forum:grgtforum.com/forums/-/index.rss": {
@@ -134,7 +134,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": "2026-10-12T17:48:09Z"
     },
     "forum:lexusenthusiast.com/forums/forums/toyota-GR/index.rss": {
@@ -146,19 +146,19 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": "2026-10-13T21:20:41Z"
     },
     "youtube_comments": {
       "status": "ok",
-      "fetched": 64,
+      "fetched": 56,
       "new": 0,
       "noise": 0,
       "duplicate": 0,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-17T09:29:24Z",
+      "last_success": "2026-10-17T13:48:11Z",
       "last_new": null
     }
   },
