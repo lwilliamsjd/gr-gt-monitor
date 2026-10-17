@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T13:48:11Z",
+ "updated_at": "2026-10-17T17:18:50Z",
  "videos": {
   "eIaPBY89WnE": {
    "title": "🔥🔥🔥Toyota GR GT being Followed at The Nordschleife 🤩🤩",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.729,
-   "updated_at": "2026-10-17T09:29:24Z"
+   "updated_at": "2026-10-17T17:18:50Z"
   },
   "p8eSINw8-K0": {
    "title": "📦開箱📦TOMICA GR GT",
@@ -25,30 +25,6 @@
    "avg_score": 0.586,
    "updated_at": "2026-10-17T13:48:11Z"
   },
-  "BnRjm2hl6IE": {
-   "title": "Toyota GR GT3 vs. GR GT: What Changes for Racing?",
-   "url": "https://youtube.com/watch?v=BnRjm2hl6IE",
-   "comment_count": 5,
-   "sampled": 3,
-   "positive": 3,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.442,
-   "updated_at": "2026-10-17T09:29:24Z"
-  },
-  "WUIIX9r47Bk": {
-   "title": "Driving the Toyota GR GT in NFS Most Wanted 2012",
-   "url": "https://youtube.com/watch?v=WUIIX9r47Bk",
-   "comment_count": 3,
-   "sampled": 2,
-   "positive": 1,
-   "neutral": 1,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.137,
-   "updated_at": "2026-10-17T13:48:11Z"
-  },
   "PkMADiTsJiY": {
    "title": "TOYOTA GR GT Smack all",
    "url": "https://youtube.com/watch?v=PkMADiTsJiY",
@@ -59,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.14,
-   "updated_at": "2026-10-17T09:29:24Z"
+   "updated_at": "2026-10-17T17:18:50Z"
   },
   "syuXhREnGs8": {
    "title": "2027 Toyota GR GT Review: The V8 Supercar Porsche Should Worry About",
@@ -83,7 +59,7 @@
    "negative": 0,
    "unscored": 2,
    "avg_score": 0.0,
-   "updated_at": "2026-10-17T09:29:24Z"
+   "updated_at": "2026-10-17T17:18:50Z"
   },
   "swLuORuV6rk": {
    "title": "Toyota no quiere que su GR GT termine guardado en un garaje.",
@@ -111,9 +87,9 @@
   }
  },
  "totals": {
-  "sampled": 20,
-  "positive": 11,
-  "neutral": 6,
+  "sampled": 15,
+  "positive": 7,
+  "neutral": 5,
   "negative": 1,
   "unscored": 2
  }
