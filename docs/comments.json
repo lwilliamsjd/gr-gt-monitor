@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-10-19T07:55:14Z",
+ "updated_at": "2026-10-19T15:43:36Z",
  "videos": {
-  "eIaPBY89WnE": {
-   "title": "🔥🔥🔥Toyota GR GT being Followed at The Nordschleife 🤩🤩",
-   "url": "https://youtube.com/watch?v=eIaPBY89WnE",
-   "comment_count": 6,
-   "sampled": 3,
-   "positive": 3,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.729,
-   "updated_at": "2026-10-19T07:55:14Z"
-  },
   "p8eSINw8-K0": {
    "title": "📦開箱📦TOMICA GR GT",
    "url": "https://youtube.com/watch?v=p8eSINw8-K0",
@@ -23,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.586,
-   "updated_at": "2026-10-19T07:55:14Z"
+   "updated_at": "2026-10-19T15:43:36Z"
   },
   "PkMADiTsJiY": {
    "title": "TOYOTA GR GT Smack all",
@@ -35,7 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.14,
-   "updated_at": "2026-10-19T07:55:14Z"
+   "updated_at": "2026-10-19T15:43:36Z"
   },
   "q1UYtzOm7q4": {
    "title": "Toyota GR GT3: ¿el japonés que pondrá a temblar a Ferrari y Porsche? #Toyota #V8 #GT3 #Autos",
@@ -47,7 +35,7 @@
    "negative": 0,
    "unscored": 2,
    "avg_score": 0.0,
-   "updated_at": "2026-10-19T07:55:14Z"
+   "updated_at": "2026-10-19T15:43:36Z"
   },
   "swLuORuV6rk": {
    "title": "Toyota no quiere que su GR GT termine guardado en un garaje.",
@@ -59,7 +47,7 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.296,
-   "updated_at": "2026-10-18T20:53:48Z"
+   "updated_at": "2026-10-19T15:43:36Z"
   },
   "BRBUzafv_yI": {
    "title": "NEW Toyota GR GT has been unveiled; Could it rival the NEW Porsche?",
@@ -71,26 +59,26 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.109,
-   "updated_at": "2026-10-19T07:55:14Z"
+   "updated_at": "2026-10-19T15:43:36Z"
   },
   "Wr5G5dCUI8Y": {
    "title": "TA NOWA TOYOTA TO PONOĆ STRASZNY ŚMIEĆ // GR GT",
    "url": "https://youtube.com/watch?v=Wr5G5dCUI8Y",
-   "comment_count": 54,
-   "sampled": 37,
+   "comment_count": 59,
+   "sampled": 42,
    "positive": 6,
-   "neutral": 22,
-   "negative": 9,
+   "neutral": 26,
+   "negative": 10,
    "unscored": 0,
-   "avg_score": -0.031,
-   "updated_at": "2026-10-19T07:55:14Z"
+   "avg_score": -0.041,
+   "updated_at": "2026-10-19T15:43:36Z"
   }
  },
  "totals": {
-  "sampled": 51,
-  "positive": 12,
-  "neutral": 27,
-  "negative": 10,
+  "sampled": 53,
+  "positive": 9,
+  "neutral": 31,
+  "negative": 11,
   "unscored": 2
  }
 }
