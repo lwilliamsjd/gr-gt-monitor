@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T23:22:10Z",
+ "updated_at": "2026-10-19T01:26:02Z",
  "videos": {
   "eIaPBY89WnE": {
    "title": "🔥🔥🔥Toyota GR GT being Followed at The Nordschleife 🤩🤩",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.729,
-   "updated_at": "2026-10-18T18:12:27Z"
+   "updated_at": "2026-10-19T01:26:02Z"
   },
   "p8eSINw8-K0": {
    "title": "📦開箱📦TOMICA GR GT",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.14,
-   "updated_at": "2026-10-18T18:12:27Z"
+   "updated_at": "2026-10-19T01:26:02Z"
   },
   "q1UYtzOm7q4": {
    "title": "Toyota GR GT3: ¿el japonés que pondrá a temblar a Ferrari y Porsche? #Toyota #V8 #GT3 #Autos",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 2,
    "avg_score": 0.0,
-   "updated_at": "2026-10-18T18:12:27Z"
+   "updated_at": "2026-10-19T01:26:02Z"
   },
   "swLuORuV6rk": {
    "title": "Toyota no quiere que su GR GT termine guardado en un garaje.",
@@ -76,20 +76,20 @@
   "Wr5G5dCUI8Y": {
    "title": "TA NOWA TOYOTA TO PONOĆ STRASZNY ŚMIEĆ // GR GT",
    "url": "https://youtube.com/watch?v=Wr5G5dCUI8Y",
-   "comment_count": 49,
-   "sampled": 34,
-   "positive": 5,
-   "neutral": 20,
+   "comment_count": 52,
+   "sampled": 36,
+   "positive": 6,
+   "neutral": 21,
    "negative": 9,
    "unscored": 0,
-   "avg_score": -0.054,
-   "updated_at": "2026-10-18T18:12:27Z"
+   "avg_score": -0.032,
+   "updated_at": "2026-10-19T01:26:02Z"
   }
  },
  "totals": {
-  "sampled": 48,
-  "positive": 11,
-  "neutral": 25,
+  "sampled": 50,
+  "positive": 12,
+  "neutral": 26,
   "negative": 10,
   "unscored": 2
  }
