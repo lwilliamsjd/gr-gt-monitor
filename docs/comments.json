@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T15:43:36Z",
+ "updated_at": "2026-10-19T21:09:24Z",
  "videos": {
   "p8eSINw8-K0": {
    "title": "📦開箱📦TOMICA GR GT",
@@ -37,18 +37,6 @@
    "avg_score": 0.0,
    "updated_at": "2026-10-19T15:43:36Z"
   },
-  "swLuORuV6rk": {
-   "title": "Toyota no quiere que su GR GT termine guardado en un garaje.",
-   "url": "https://youtube.com/watch?v=swLuORuV6rk",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 0,
-   "neutral": 0,
-   "negative": 1,
-   "unscored": 0,
-   "avg_score": -0.296,
-   "updated_at": "2026-10-19T15:43:36Z"
-  },
   "BRBUzafv_yI": {
    "title": "NEW Toyota GR GT has been unveiled; Could it rival the NEW Porsche?",
    "url": "https://youtube.com/watch?v=BRBUzafv_yI",
@@ -72,13 +60,25 @@
    "unscored": 0,
    "avg_score": -0.041,
    "updated_at": "2026-10-19T15:43:36Z"
+  },
+  "16Nuy5wWyY0": {
+   "title": "Ultimate Toyota GR GT Fail in NFS Most Wanted",
+   "url": "https://youtube.com/watch?v=16Nuy5wWyY0",
+   "comment_count": 2,
+   "sampled": 2,
+   "positive": 0,
+   "neutral": 2,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.0,
+   "updated_at": "2026-10-19T21:09:24Z"
   }
  },
  "totals": {
-  "sampled": 53,
+  "sampled": 54,
   "positive": 9,
-  "neutral": 31,
-  "negative": 11,
+  "neutral": 33,
+  "negative": 10,
   "unscored": 2
  }
 }
