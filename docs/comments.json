@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T06:07:58Z",
+ "updated_at": "2026-10-20T11:50:56Z",
  "videos": {
   "PkMADiTsJiY": {
    "title": "TOYOTA GR GT Smack all",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.14,
-   "updated_at": "2026-10-20T00:26:50Z"
+   "updated_at": "2026-10-20T11:50:56Z"
   },
   "q1UYtzOm7q4": {
    "title": "Toyota GR GT3: ¿el japonés que pondrá a temblar a Ferrari y Porsche? #Toyota #V8 #GT3 #Autos",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 2,
    "avg_score": 0.0,
-   "updated_at": "2026-10-20T00:26:50Z"
+   "updated_at": "2026-10-20T11:50:56Z"
   },
   "BRBUzafv_yI": {
    "title": "NEW Toyota GR GT has been unveiled; Could it rival the NEW Porsche?",
@@ -35,19 +35,19 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.109,
-   "updated_at": "2026-10-20T00:26:50Z"
+   "updated_at": "2026-10-20T11:50:56Z"
   },
   "Wr5G5dCUI8Y": {
    "title": "TA NOWA TOYOTA TO PONOĆ STRASZNY ŚMIEĆ // GR GT",
    "url": "https://youtube.com/watch?v=Wr5G5dCUI8Y",
-   "comment_count": 62,
-   "sampled": 45,
-   "positive": 6,
-   "neutral": 29,
-   "negative": 10,
+   "comment_count": 69,
+   "sampled": 50,
+   "positive": 9,
+   "neutral": 30,
+   "negative": 11,
    "unscored": 0,
-   "avg_score": -0.038,
-   "updated_at": "2026-10-20T00:26:50Z"
+   "avg_score": -0.01,
+   "updated_at": "2026-10-20T11:50:56Z"
   },
   "16Nuy5wWyY0": {
    "title": "Ultimate Toyota GR GT Fail in NFS Most Wanted",
@@ -60,13 +60,25 @@
    "unscored": 0,
    "avg_score": 0.0,
    "updated_at": "2026-10-20T06:07:58Z"
+  },
+  "AWKw5axAulk": {
+   "title": "2027 Toyota GR GT - 650+ PS, Twin-Turbo V8, and a Serious Supercar Ambition!",
+   "url": "https://youtube.com/watch?v=AWKw5axAulk",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.44,
+   "updated_at": "2026-10-20T11:50:56Z"
   }
  },
  "totals": {
-  "sampled": 56,
-  "positive": 8,
-  "neutral": 36,
-  "negative": 10,
+  "sampled": 62,
+  "positive": 12,
+  "neutral": 37,
+  "negative": 11,
   "unscored": 2
  }
 }
