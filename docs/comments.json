@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-10-20T11:50:56Z",
+ "updated_at": "2026-10-20T17:20:09Z",
  "videos": {
-  "PkMADiTsJiY": {
-   "title": "TOYOTA GR GT Smack all",
-   "url": "https://youtube.com/watch?v=PkMADiTsJiY",
-   "comment_count": 5,
-   "sampled": 3,
-   "positive": 1,
-   "neutral": 2,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.14,
-   "updated_at": "2026-10-20T11:50:56Z"
-  },
   "q1UYtzOm7q4": {
    "title": "Toyota GR GT3: ¿el japonés que pondrá a temblar a Ferrari y Porsche? #Toyota #V8 #GT3 #Autos",
    "url": "https://youtube.com/watch?v=q1UYtzOm7q4",
@@ -52,14 +40,14 @@
   "16Nuy5wWyY0": {
    "title": "Ultimate Toyota GR GT Fail in NFS Most Wanted",
    "url": "https://youtube.com/watch?v=16Nuy5wWyY0",
-   "comment_count": 2,
+   "comment_count": 3,
    "sampled": 2,
    "positive": 0,
    "neutral": 2,
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-20T06:07:58Z"
+   "updated_at": "2026-10-20T17:20:09Z"
   },
   "AWKw5axAulk": {
    "title": "2027 Toyota GR GT - 650+ PS, Twin-Turbo V8, and a Serious Supercar Ambition!",
@@ -75,9 +63,9 @@
   }
  },
  "totals": {
-  "sampled": 62,
-  "positive": 12,
-  "neutral": 37,
+  "sampled": 59,
+  "positive": 11,
+  "neutral": 35,
   "negative": 11,
   "unscored": 2
  }
