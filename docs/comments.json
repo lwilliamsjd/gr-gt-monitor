@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-10-20T00:26:50Z",
+ "updated_at": "2026-10-20T06:07:58Z",
  "videos": {
-  "p8eSINw8-K0": {
-   "title": "📦開箱📦TOMICA GR GT",
-   "url": "https://youtube.com/watch?v=p8eSINw8-K0",
-   "comment_count": 2,
-   "sampled": 1,
-   "positive": 1,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.586,
-   "updated_at": "2026-10-20T00:26:50Z"
-  },
   "PkMADiTsJiY": {
    "title": "TOYOTA GR GT Smack all",
    "url": "https://youtube.com/watch?v=PkMADiTsJiY",
@@ -71,12 +59,12 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-19T21:09:24Z"
+   "updated_at": "2026-10-20T06:07:58Z"
   }
  },
  "totals": {
-  "sampled": 57,
-  "positive": 9,
+  "sampled": 56,
+  "positive": 8,
   "neutral": 36,
   "negative": 10,
   "unscored": 2
