@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T17:20:09Z",
+ "updated_at": "2026-10-20T20:43:12Z",
  "videos": {
   "q1UYtzOm7q4": {
    "title": "Toyota GR GT3: ¿el japonés que pondrá a temblar a Ferrari y Porsche? #Toyota #V8 #GT3 #Autos",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 2,
    "avg_score": 0.0,
-   "updated_at": "2026-10-20T11:50:56Z"
+   "updated_at": "2026-10-20T20:43:12Z"
   },
   "BRBUzafv_yI": {
    "title": "NEW Toyota GR GT has been unveiled; Could it rival the NEW Porsche?",
@@ -23,19 +23,19 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.109,
-   "updated_at": "2026-10-20T11:50:56Z"
+   "updated_at": "2026-10-20T20:43:12Z"
   },
   "Wr5G5dCUI8Y": {
    "title": "TA NOWA TOYOTA TO PONOĆ STRASZNY ŚMIEĆ // GR GT",
    "url": "https://youtube.com/watch?v=Wr5G5dCUI8Y",
-   "comment_count": 69,
-   "sampled": 50,
+   "comment_count": 72,
+   "sampled": 52,
    "positive": 9,
-   "neutral": 30,
+   "neutral": 32,
    "negative": 11,
    "unscored": 0,
    "avg_score": -0.01,
-   "updated_at": "2026-10-20T11:50:56Z"
+   "updated_at": "2026-10-20T20:43:12Z"
   },
   "16Nuy5wWyY0": {
    "title": "Ultimate Toyota GR GT Fail in NFS Most Wanted",
@@ -59,13 +59,13 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.44,
-   "updated_at": "2026-10-20T11:50:56Z"
+   "updated_at": "2026-10-20T20:43:12Z"
   }
  },
  "totals": {
-  "sampled": 59,
+  "sampled": 61,
   "positive": 11,
-  "neutral": 35,
+  "neutral": 37,
   "negative": 11,
   "unscored": 2
  }
