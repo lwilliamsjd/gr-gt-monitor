@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T15:23:25Z",
+ "updated_at": "2026-10-22T20:12:40Z",
  "videos": {
   "BRBUzafv_yI": {
    "title": "NEW Toyota GR GT has been unveiled; Could it rival the NEW Porsche?",
@@ -11,19 +11,19 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.109,
-   "updated_at": "2026-10-22T10:19:04Z"
+   "updated_at": "2026-10-22T20:12:40Z"
   },
   "Wr5G5dCUI8Y": {
    "title": "TA NOWA TOYOTA TO PONOĆ STRASZNY ŚMIEĆ // GR GT",
    "url": "https://youtube.com/watch?v=Wr5G5dCUI8Y",
-   "comment_count": 77,
-   "sampled": 55,
+   "comment_count": 82,
+   "sampled": 57,
    "positive": 10,
-   "neutral": 33,
+   "neutral": 35,
    "negative": 12,
    "unscored": 0,
    "avg_score": -0.002,
-   "updated_at": "2026-10-22T10:19:04Z"
+   "updated_at": "2026-10-22T20:12:40Z"
   },
   "16Nuy5wWyY0": {
    "title": "Ultimate Toyota GR GT Fail in NFS Most Wanted",
@@ -40,14 +40,14 @@
   "AWKw5axAulk": {
    "title": "2027 Toyota GR GT - 650+ PS, Twin-Turbo V8, and a Serious Supercar Ambition!",
    "url": "https://youtube.com/watch?v=AWKw5axAulk",
-   "comment_count": 3,
-   "sampled": 3,
-   "positive": 3,
+   "comment_count": 4,
+   "sampled": 4,
+   "positive": 4,
    "neutral": 0,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.448,
-   "updated_at": "2026-10-22T10:19:04Z"
+   "avg_score": 0.55,
+   "updated_at": "2026-10-22T20:12:40Z"
   },
   "xo7FFt1Ttqc": {
    "title": "Driving the LEGENDARY 2025 GR GT Prototype! 🌸 (Wheel Cam)",
@@ -71,13 +71,25 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.273,
-   "updated_at": "2026-10-22T10:19:04Z"
+   "updated_at": "2026-10-22T20:12:40Z"
+  },
+  "-T2nUQsthAM": {
+   "title": "2027 Toyota GR GT: First All-Aluminum Body Frame",
+   "url": "https://youtube.com/watch?v=-T2nUQsthAM",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.475,
+   "updated_at": "2026-10-22T20:12:40Z"
   }
  },
  "totals": {
-  "sampled": 63,
-  "positive": 15,
-  "neutral": 36,
+  "sampled": 67,
+  "positive": 17,
+  "neutral": 38,
   "negative": 12,
   "unscored": 0
  }
