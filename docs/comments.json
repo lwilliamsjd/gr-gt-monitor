@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T20:12:40Z",
+ "updated_at": "2026-10-22T23:27:40Z",
  "videos": {
   "BRBUzafv_yI": {
    "title": "NEW Toyota GR GT has been unveiled; Could it rival the NEW Porsche?",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-22T15:23:25Z"
+   "updated_at": "2026-10-22T23:27:40Z"
   },
   "AWKw5axAulk": {
    "title": "2027 Toyota GR GT - 650+ PS, Twin-Turbo V8, and a Serious Supercar Ambition!",
@@ -59,7 +59,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-22T15:23:25Z"
+   "updated_at": "2026-10-22T23:27:40Z"
   },
   "Sv5GCn4gYuw": {
    "title": "Nuevo Monstruo, GR GT toyota 🔥#toyotagrgt#parati#fyp",
@@ -84,11 +84,23 @@
    "unscored": 0,
    "avg_score": 0.475,
    "updated_at": "2026-10-22T20:12:40Z"
+  },
+  "ojCP5_r0emI": {
+   "title": "2027 Toyota GR GT — 641-HP V8 Supercar Hunting the 911 Turbo S",
+   "url": "https://youtube.com/watch?v=ojCP5_r0emI",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.516,
+   "updated_at": "2026-10-22T23:27:40Z"
   }
  },
  "totals": {
-  "sampled": 67,
-  "positive": 17,
+  "sampled": 68,
+  "positive": 18,
   "neutral": 38,
   "negative": 12,
   "unscored": 0
