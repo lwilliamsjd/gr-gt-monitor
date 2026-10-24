@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-24T19:34:02Z",
+  "last_run": "2026-10-24T22:34:21Z",
   "total": 912,
   "added": 0,
   "archived_total": 206,
@@ -7,26 +7,26 @@
   "sources": {
     "google_news": {
       "status": "ok",
-      "fetched": 189,
+      "fetched": 188,
       "new": 0,
       "noise": 0,
       "duplicate": 159,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-23T19:20:50Z"
     },
     "youtube": {
       "status": "ok",
       "fetched": 75,
       "new": 0,
-      "noise": 14,
-      "duplicate": 43,
+      "noise": 13,
+      "duplicate": 41,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-24T16:42:24Z"
     },
     "bluesky": {
@@ -38,7 +38,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-22T23:27:40Z"
     },
     "newsdata": {
@@ -50,7 +50,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-23T05:03:05Z"
     },
     "gdelt": {
@@ -64,7 +64,7 @@
       ],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": null
     },
     "bing_news": {
@@ -76,7 +76,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-23T10:13:15Z"
     },
     "mastodon": {
@@ -88,7 +88,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-13T00:50:18Z"
     },
     "hackernews": {
@@ -100,7 +100,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-12T18:12:08Z"
     },
     "lemmy": {
@@ -112,7 +112,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": null
     },
     "podcasts": {
@@ -124,7 +124,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-12T18:12:08Z"
     },
     "forum:grgtforum.com/forums/-/index.rss": {
@@ -136,7 +136,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-24T12:46:28Z"
     },
     "forum:lexusenthusiast.com/forums/forums/toyota-GR/index.rss": {
@@ -148,19 +148,19 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": "2026-10-22T20:12:40Z"
     },
     "youtube_comments": {
       "status": "ok",
-      "fetched": 55,
+      "fetched": 50,
       "new": 0,
       "noise": 0,
       "duplicate": 0,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-24T19:34:02Z",
+      "last_success": "2026-10-24T22:34:21Z",
       "last_new": null
     }
   },
