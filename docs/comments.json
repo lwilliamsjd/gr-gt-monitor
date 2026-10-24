@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-24T01:42:07Z",
+ "updated_at": "2026-10-24T07:24:55Z",
  "videos": {
   "Wr5G5dCUI8Y": {
    "title": "TA NOWA TOYOTA TO PONOĆ STRASZNY ŚMIEĆ // GR GT",
    "url": "https://youtube.com/watch?v=Wr5G5dCUI8Y",
-   "comment_count": 88,
-   "sampled": 62,
+   "comment_count": 90,
+   "sampled": 64,
    "positive": 12,
-   "neutral": 38,
-   "negative": 12,
+   "neutral": 39,
+   "negative": 13,
    "unscored": 0,
-   "avg_score": 0.014,
-   "updated_at": "2026-10-23T22:23:59Z"
+   "avg_score": 0.001,
+   "updated_at": "2026-10-24T07:24:55Z"
   },
   "16Nuy5wWyY0": {
    "title": "Ultimate Toyota GR GT Fail in NFS Most Wanted",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.55,
-   "updated_at": "2026-10-23T22:23:59Z"
+   "updated_at": "2026-10-24T07:24:55Z"
   },
   "xo7FFt1Ttqc": {
    "title": "Driving the LEGENDARY 2025 GR GT Prototype! 🌸 (Wheel Cam)",
@@ -59,7 +59,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.273,
-   "updated_at": "2026-10-23T22:23:59Z"
+   "updated_at": "2026-10-24T07:24:55Z"
   },
   "-T2nUQsthAM": {
    "title": "2027 Toyota GR GT: First All-Aluminum Body Frame",
@@ -71,7 +71,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.475,
-   "updated_at": "2026-10-23T22:23:59Z"
+   "updated_at": "2026-10-24T07:24:55Z"
   },
   "ojCP5_r0emI": {
    "title": "2027 Toyota GR GT — 641-HP V8 Supercar Hunting the 911 Turbo S",
@@ -87,10 +87,10 @@
   }
  },
  "totals": {
-  "sampled": 72,
+  "sampled": 74,
   "positive": 19,
-  "neutral": 41,
-  "negative": 12,
+  "neutral": 42,
+  "negative": 13,
   "unscored": 0
  }
 }
