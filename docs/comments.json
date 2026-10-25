@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-10-25T06:16:46Z",
+ "updated_at": "2026-10-25T11:45:46Z",
  "videos": {
-  "Wr5G5dCUI8Y": {
-   "title": "TA NOWA TOYOTA TO PONOĆ STRASZNY ŚMIEĆ // GR GT",
-   "url": "https://youtube.com/watch?v=Wr5G5dCUI8Y",
-   "comment_count": 91,
-   "sampled": 64,
-   "positive": 12,
-   "neutral": 39,
-   "negative": 13,
-   "unscored": 0,
-   "avg_score": 0.001,
-   "updated_at": "2026-10-25T06:16:46Z"
-  },
   "16Nuy5wWyY0": {
    "title": "Ultimate Toyota GR GT Fail in NFS Most Wanted",
    "url": "https://youtube.com/watch?v=16Nuy5wWyY0",
@@ -47,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-24T19:34:02Z"
+   "updated_at": "2026-10-25T11:45:46Z"
   },
   "Sv5GCn4gYuw": {
    "title": "Nuevo Monstruo, GR GT toyota 🔥#toyotagrgt#parati#fyp",
@@ -59,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.273,
-   "updated_at": "2026-10-24T16:42:24Z"
+   "updated_at": "2026-10-25T11:45:46Z"
   },
   "-T2nUQsthAM": {
    "title": "2027 Toyota GR GT: First All-Aluminum Body Frame",
@@ -99,10 +87,10 @@
   }
  },
  "totals": {
-  "sampled": 75,
-  "positive": 19,
-  "neutral": 43,
-  "negative": 13,
+  "sampled": 11,
+  "positive": 7,
+  "neutral": 4,
+  "negative": 0,
   "unscored": 0
  }
 }
