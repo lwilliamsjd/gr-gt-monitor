@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T13:22:04Z",
+ "updated_at": "2026-10-27T18:46:59Z",
  "videos": {
   "xo7FFt1Ttqc": {
    "title": "Driving the LEGENDARY 2025 GR GT Prototype! 🌸 (Wheel Cam)",
@@ -12,18 +12,6 @@
    "unscored": 0,
    "avg_score": 0.0,
    "updated_at": "2026-10-27T13:22:04Z"
-  },
-  "Sv5GCn4gYuw": {
-   "title": "Nuevo Monstruo, GR GT toyota 🔥#toyotagrgt#parati#fyp",
-   "url": "https://youtube.com/watch?v=Sv5GCn4gYuw",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 1,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.273,
-   "updated_at": "2026-10-27T06:24:46Z"
   },
   "-T2nUQsthAM": {
    "title": "2027 Toyota GR GT: First All-Aluminum Body Frame",
@@ -73,24 +61,24 @@
    "avg_score": -0.22,
    "updated_at": "2026-10-27T13:22:04Z"
   },
-  "eu4nHIbG0-Y": {
-   "title": "🔥 NEW Toyota GR GT Is Here to DESTROY Porsche!",
-   "url": "https://youtube.com/watch?v=eu4nHIbG0-Y",
-   "comment_count": 3,
+  "MlCnfjncWj4": {
+   "title": "Toyota's New GR GT: A 641-HP Supercar Killer?! 🔥",
+   "url": "https://youtube.com/watch?v=MlCnfjncWj4",
+   "comment_count": 1,
    "sampled": 1,
-   "positive": 0,
+   "positive": 1,
    "neutral": 0,
    "negative": 0,
-   "unscored": 1,
-   "avg_score": null,
-   "updated_at": "2026-10-27T13:22:04Z"
+   "unscored": 0,
+   "avg_score": 0.72,
+   "updated_at": "2026-10-27T18:46:59Z"
   }
  },
  "totals": {
-  "sampled": 8,
+  "sampled": 7,
   "positive": 3,
   "neutral": 3,
   "negative": 1,
-  "unscored": 1
+  "unscored": 0
  }
 }
