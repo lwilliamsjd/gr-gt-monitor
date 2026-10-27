@@ -1,45 +1,45 @@
 {
-  "last_run": "2026-10-27T06:24:46Z",
-  "total": 955,
-  "added": 5,
+  "last_run": "2026-10-27T13:22:04Z",
+  "total": 967,
+  "added": 12,
   "archived_total": 206,
-  "last_new": "2026-10-27T06:24:46Z",
+  "last_new": "2026-10-27T13:22:04Z",
   "sources": {
     "google_news": {
       "status": "ok",
-      "fetched": 172,
+      "fetched": 195,
       "new": 1,
       "noise": 0,
-      "duplicate": 143,
+      "duplicate": 164,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
-      "last_new": "2026-10-27T06:24:46Z"
+      "last_success": "2026-10-27T13:22:04Z",
+      "last_new": "2026-10-27T13:22:04Z"
     },
     "youtube": {
       "status": "ok",
       "fetched": 75,
-      "new": 3,
-      "noise": 13,
-      "duplicate": 38,
+      "new": 5,
+      "noise": 11,
+      "duplicate": 41,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
-      "last_new": "2026-10-27T06:24:46Z"
+      "last_success": "2026-10-27T13:22:04Z",
+      "last_new": "2026-10-27T13:22:04Z"
     },
     "bluesky": {
       "status": "ok",
       "fetched": 148,
       "new": 1,
-      "noise": 3,
-      "duplicate": 93,
+      "noise": 2,
+      "duplicate": 94,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
-      "last_new": "2026-10-27T06:24:46Z"
+      "last_success": "2026-10-27T13:22:04Z",
+      "last_new": "2026-10-27T13:22:04Z"
     },
     "newsdata": {
       "status": "ok",
@@ -50,7 +50,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": "2026-10-26T14:23:49Z"
     },
     "gdelt": {
@@ -60,11 +60,11 @@
       "noise": 0,
       "duplicate": 0,
       "errors": [
-        "HTTP 429 for \"Toyota GR GT\""
+        "HTTP 429 for \"GR GT\" toyota"
       ],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": null
     },
     "bing_news": {
@@ -76,7 +76,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": "2026-10-26T06:27:14Z"
     },
     "mastodon": {
@@ -88,7 +88,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": "2026-10-13T00:50:18Z"
     },
     "hackernews": {
@@ -100,7 +100,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": "2026-10-12T18:12:08Z"
     },
     "lemmy": {
@@ -112,20 +112,20 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": null
     },
     "podcasts": {
       "status": "ok",
-      "fetched": 99,
-      "new": 0,
+      "fetched": 100,
+      "new": 5,
       "noise": 2,
-      "duplicate": 52,
+      "duplicate": 54,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
-      "last_new": "2026-10-26T20:36:28Z"
+      "last_success": "2026-10-27T13:22:04Z",
+      "last_new": "2026-10-27T13:22:04Z"
     },
     "forum:grgtforum.com/forums/-/index.rss": {
       "status": "ok",
@@ -136,7 +136,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": "2026-10-26T20:36:28Z"
     },
     "forum:lexusenthusiast.com/forums/forums/toyota-GR/index.rss": {
@@ -148,7 +148,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": "2026-10-27T00:34:57Z"
     },
     "youtube_comments": {
@@ -160,7 +160,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-27T06:24:46Z",
+      "last_success": "2026-10-27T13:22:04Z",
       "last_new": null
     }
   },
