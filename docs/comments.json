@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T21:43:53Z",
+ "updated_at": "2026-10-29T01:52:19Z",
  "videos": {
   "2MbV_-gkv98": {
    "title": "TOYOTA GR GT",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-28T16:42:55Z"
+   "updated_at": "2026-10-29T01:52:19Z"
   },
   "9r01JcaBwBk": {
    "title": "Insane Tokyo Night Drift in the 2025 GR GT Prototype! 🌸 (Wheel Cam)",
@@ -23,7 +23,7 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.22,
-   "updated_at": "2026-10-28T16:42:55Z"
+   "updated_at": "2026-10-29T01:52:19Z"
   },
   "MlCnfjncWj4": {
    "title": "Toyota's New GR GT: A 641-HP Supercar Killer?! 🔥",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.72,
-   "updated_at": "2026-10-28T16:42:55Z"
+   "updated_at": "2026-10-29T01:52:19Z"
   },
   "tKSEN0d2iuA": {
    "title": "Toyota GR GT vs Corvette ZR1 — Who Wins? 🏁#ToyotaGRGT #Toyota #GRGT #Supercars #Ferrari",
@@ -60,12 +60,24 @@
    "unscored": 0,
    "avg_score": 0.0,
    "updated_at": "2026-10-28T21:43:53Z"
+  },
+  "SyAr6xo4hNg": {
+   "title": "First-Person POV: Driving the LEGENDARY GR GT Prototype! 🏎️ (Wheel Cam)",
+   "url": "https://youtube.com/watch?v=SyAr6xo4hNg",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.0,
+   "updated_at": "2026-10-29T01:52:19Z"
   }
  },
  "totals": {
-  "sampled": 6,
+  "sampled": 7,
   "positive": 1,
-  "neutral": 4,
+  "neutral": 5,
   "negative": 1,
   "unscored": 0
  }
