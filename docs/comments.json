@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T01:08:27Z",
+ "updated_at": "2026-10-30T07:16:49Z",
  "videos": {
   "2MbV_-gkv98": {
    "title": "TOYOTA GR GT",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-30T01:08:27Z"
+   "updated_at": "2026-10-30T07:16:49Z"
   },
   "9r01JcaBwBk": {
    "title": "Insane Tokyo Night Drift in the 2025 GR GT Prototype! 🌸 (Wheel Cam)",
@@ -23,7 +23,7 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.22,
-   "updated_at": "2026-10-30T01:08:27Z"
+   "updated_at": "2026-10-30T07:16:49Z"
   },
   "MlCnfjncWj4": {
    "title": "Toyota's New GR GT: A 641-HP Supercar Killer?! 🔥",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.72,
-   "updated_at": "2026-10-30T01:08:27Z"
+   "updated_at": "2026-10-30T07:16:49Z"
   },
   "tKSEN0d2iuA": {
    "title": "Toyota GR GT vs Corvette ZR1 — Who Wins? 🏁#ToyotaGRGT #Toyota #GRGT #Supercars #Ferrari",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-30T01:08:27Z"
+   "updated_at": "2026-10-30T07:16:49Z"
   },
   "SVs_RyMyM_4": {
    "title": "2027 Toyota GR GT Toyota's New Supercar Could Be a Game Changer #shorts #toyota #supercar #fyp",
@@ -71,12 +71,24 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-30T01:08:27Z"
+   "updated_at": "2026-10-30T07:16:49Z"
+  },
+  "LC8wIBs31D4": {
+   "title": "Meet The TOYOTA GR GT ! #toyota #car",
+   "url": "https://youtube.com/watch?v=LC8wIBs31D4",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.637,
+   "updated_at": "2026-10-30T07:16:49Z"
   }
  },
  "totals": {
-  "sampled": 7,
-  "positive": 1,
+  "sampled": 8,
+  "positive": 2,
   "neutral": 5,
   "negative": 1,
   "unscored": 0
