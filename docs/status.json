@@ -1,32 +1,32 @@
 {
-  "last_run": "2026-10-30T19:30:02Z",
-  "total": 1025,
-  "added": 10,
+  "last_run": "2026-10-30T23:53:48Z",
+  "total": 1027,
+  "added": 2,
   "archived_total": 206,
-  "last_new": "2026-10-30T19:30:02Z",
+  "last_new": "2026-10-30T23:53:48Z",
   "sources": {
     "google_news": {
       "status": "ok",
-      "fetched": 162,
+      "fetched": 209,
       "new": 0,
       "noise": 0,
-      "duplicate": 145,
+      "duplicate": 170,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-30T14:19:46Z"
     },
     "youtube": {
       "status": "ok",
       "fetched": 75,
-      "new": 1,
-      "noise": 8,
-      "duplicate": 39,
+      "new": 0,
+      "noise": 7,
+      "duplicate": 40,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-30T19:30:02Z"
     },
     "bluesky": {
@@ -38,7 +38,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-30T14:19:46Z"
     },
     "newsdata": {
@@ -49,35 +49,36 @@
       "duplicate": 0,
       "errors": [],
       "consecutive_failures": 0,
-      "consecutive_empty": 3,
-      "last_success": "2026-10-30T19:30:02Z",
+      "consecutive_empty": 4,
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-26T14:23:49Z"
     },
     "gdelt": {
-      "status": "degraded",
-      "fetched": 2,
+      "status": "failed",
+      "fetched": 0,
       "new": 0,
       "noise": 0,
       "duplicate": 0,
       "errors": [
-        "HTTP 429 for \"Toyota GR GT\""
+        "HTTP 429 for \"Toyota GR GT\"",
+        "HTTP 429 for \"GR GT\" toyota"
       ],
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "consecutive_empty": 0,
       "last_success": "2026-10-30T19:30:02Z",
       "last_new": null
     },
     "bing_news": {
       "status": "ok",
-      "fetched": 25,
-      "new": 9,
+      "fetched": 24,
+      "new": 2,
       "noise": 0,
-      "duplicate": 14,
+      "duplicate": 21,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
-      "last_new": "2026-10-30T19:30:02Z"
+      "last_success": "2026-10-30T23:53:48Z",
+      "last_new": "2026-10-30T23:53:48Z"
     },
     "mastodon": {
       "status": "ok",
@@ -88,7 +89,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-13T00:50:18Z"
     },
     "hackernews": {
@@ -100,7 +101,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-12T18:12:08Z"
     },
     "lemmy": {
@@ -112,7 +113,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": null
     },
     "podcasts": {
@@ -124,7 +125,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-27T13:22:04Z"
     },
     "forum:grgtforum.com/forums/-/index.rss": {
@@ -136,7 +137,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-28T21:43:53Z"
     },
     "forum:lexusenthusiast.com/forums/forums/toyota-GR/index.rss": {
@@ -148,19 +149,19 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": "2026-10-27T00:34:57Z"
     },
     "youtube_comments": {
       "status": "ok",
-      "fetched": 50,
+      "fetched": 57,
       "new": 0,
       "noise": 0,
       "duplicate": 0,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-10-30T19:30:02Z",
+      "last_success": "2026-10-30T23:53:48Z",
       "last_new": null
     }
   },
