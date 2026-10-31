@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T17:48:53Z",
+ "updated_at": "2026-10-31T21:44:13Z",
  "videos": {
   "MlCnfjncWj4": {
    "title": "Toyota's New GR GT: A 641-HP Supercar Killer?! 🔥",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.72,
-   "updated_at": "2026-10-31T12:47:57Z"
+   "updated_at": "2026-10-31T21:44:13Z"
   },
   "tKSEN0d2iuA": {
    "title": "Toyota GR GT vs Corvette ZR1 — Who Wins? 🏁#ToyotaGRGT #Toyota #GRGT #Supercars #Ferrari",
@@ -23,19 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-31T12:47:57Z"
-  },
-  "SVs_RyMyM_4": {
-   "title": "2027 Toyota GR GT Toyota's New Supercar Could Be a Game Changer #shorts #toyota #supercar #fyp",
-   "url": "https://youtube.com/watch?v=SVs_RyMyM_4",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 0,
-   "neutral": 1,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.0,
-   "updated_at": "2026-10-31T12:47:57Z"
+   "updated_at": "2026-10-31T21:44:13Z"
   },
   "SyAr6xo4hNg": {
    "title": "First-Person POV: Driving the LEGENDARY GR GT Prototype! 🏎️ (Wheel Cam)",
@@ -47,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-10-31T12:47:57Z"
+   "updated_at": "2026-10-31T21:44:13Z"
   },
   "LC8wIBs31D4": {
    "title": "Meet The TOYOTA GR GT ! #toyota #car",
@@ -59,13 +47,25 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.637,
-   "updated_at": "2026-10-31T12:47:57Z"
+   "updated_at": "2026-10-31T21:44:13Z"
+  },
+  "Um5jZ7L-zVM": {
+   "title": "Gazoo Racing GR GT and GR GT3 at Laguna Seca!",
+   "url": "https://youtube.com/watch?v=Um5jZ7L-zVM",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.637,
+   "updated_at": "2026-10-31T21:44:13Z"
   }
  },
  "totals": {
   "sampled": 5,
-  "positive": 2,
-  "neutral": 3,
+  "positive": 3,
+  "neutral": 2,
   "negative": 0,
   "unscored": 0
  }
