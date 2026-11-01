@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T07:39:17Z",
+ "updated_at": "2026-11-01T15:17:48Z",
  "videos": {
   "MlCnfjncWj4": {
    "title": "Toyota's New GR GT: A 641-HP Supercar Killer?! 🔥",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-01T07:39:17Z"
+   "updated_at": "2026-11-01T15:17:48Z"
   },
   "SyAr6xo4hNg": {
    "title": "First-Person POV: Driving the LEGENDARY GR GT Prototype! 🏎️ (Wheel Cam)",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-01T07:39:17Z"
+   "updated_at": "2026-11-01T15:17:48Z"
   },
   "LC8wIBs31D4": {
    "title": "Meet The TOYOTA GR GT ! #toyota #car",
@@ -52,14 +52,14 @@
   "Um5jZ7L-zVM": {
    "title": "Gazoo Racing GR GT and GR GT3 at Laguna Seca!",
    "url": "https://youtube.com/watch?v=Um5jZ7L-zVM",
-   "comment_count": 1,
-   "sampled": 1,
+   "comment_count": 2,
+   "sampled": 2,
    "positive": 1,
-   "neutral": 0,
+   "neutral": 1,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.637,
-   "updated_at": "2026-11-01T07:39:17Z"
+   "avg_score": 0.319,
+   "updated_at": "2026-11-01T15:17:48Z"
   },
   "tX9o3axRoaw": {
    "title": "GRGTの色をAIで変えてみた！ #automobile #shorts",
@@ -71,7 +71,7 @@
    "negative": 0,
    "unscored": 3,
    "avg_score": null,
-   "updated_at": "2026-11-01T07:39:17Z"
+   "updated_at": "2026-11-01T15:17:48Z"
   },
   "ykZXROn1pTQ": {
    "title": "Toyota Just Built a Ferrari Killer! Meet the 2027 GR GT",
@@ -83,13 +83,25 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.361,
-   "updated_at": "2026-11-01T07:39:17Z"
+   "updated_at": "2026-11-01T15:17:48Z"
+  },
+  "GJhZX4mm0CE": {
+   "title": "Toyota GR GT: What’s Confirmed vs Claimed About Toyota’s V8 supercar",
+   "url": "https://youtube.com/watch?v=GJhZX4mm0CE",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.443,
+   "updated_at": "2026-11-01T15:17:48Z"
   }
  },
  "totals": {
-  "sampled": 9,
-  "positive": 3,
-  "neutral": 2,
+  "sampled": 11,
+  "positive": 4,
+  "neutral": 3,
   "negative": 1,
   "unscored": 3
  }
