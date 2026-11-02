@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-11-02T17:13:26Z",
+ "updated_at": "2026-11-02T23:55:42Z",
  "videos": {
-  "MlCnfjncWj4": {
-   "title": "Toyota's New GR GT: A 641-HP Supercar Killer?! 🔥",
-   "url": "https://youtube.com/watch?v=MlCnfjncWj4",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 1,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.72,
-   "updated_at": "2026-11-01T19:46:50Z"
-  },
   "tKSEN0d2iuA": {
    "title": "Toyota GR GT vs Corvette ZR1 — Who Wins? 🏁#ToyotaGRGT #Toyota #GRGT #Supercars #Ferrari",
    "url": "https://youtube.com/watch?v=tKSEN0d2iuA",
@@ -23,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-02T17:13:26Z"
+   "updated_at": "2026-11-02T23:55:42Z"
   },
   "SyAr6xo4hNg": {
    "title": "First-Person POV: Driving the LEGENDARY GR GT Prototype! 🏎️ (Wheel Cam)",
@@ -35,7 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-02T17:13:26Z"
+   "updated_at": "2026-11-02T23:55:42Z"
   },
   "LC8wIBs31D4": {
    "title": "Meet The TOYOTA GR GT ! #toyota #car",
@@ -59,7 +47,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.319,
-   "updated_at": "2026-11-02T17:13:26Z"
+   "updated_at": "2026-11-02T23:55:42Z"
   },
   "tX9o3axRoaw": {
    "title": "GRGTの色をAIで変えてみた！ #automobile #shorts",
@@ -71,7 +59,7 @@
    "negative": 0,
    "unscored": 4,
    "avg_score": null,
-   "updated_at": "2026-11-02T17:13:26Z"
+   "updated_at": "2026-11-02T23:55:42Z"
   },
   "ykZXROn1pTQ": {
    "title": "Toyota Just Built a Ferrari Killer! Meet the 2027 GR GT",
@@ -83,7 +71,7 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.361,
-   "updated_at": "2026-11-02T17:13:26Z"
+   "updated_at": "2026-11-02T23:55:42Z"
   },
   "GJhZX4mm0CE": {
    "title": "Toyota GR GT: What’s Confirmed vs Claimed About Toyota’s V8 supercar",
@@ -95,12 +83,12 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.443,
-   "updated_at": "2026-11-02T17:13:26Z"
+   "updated_at": "2026-11-02T23:55:42Z"
   }
  },
  "totals": {
-  "sampled": 13,
-  "positive": 4,
+  "sampled": 12,
+  "positive": 3,
   "neutral": 3,
   "negative": 1,
   "unscored": 5
