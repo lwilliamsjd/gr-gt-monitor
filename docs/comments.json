@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-11-04T23:46:40Z",
+ "updated_at": "2026-11-05T07:00:06Z",
  "videos": {
   "Um5jZ7L-zVM": {
    "title": "Gazoo Racing GR GT and GR GT3 at Laguna Seca!",
    "url": "https://youtube.com/watch?v=Um5jZ7L-zVM",
-   "comment_count": 5,
-   "sampled": 3,
-   "positive": 1,
-   "neutral": 1,
+   "comment_count": 8,
+   "sampled": 5,
+   "positive": 2,
+   "neutral": 2,
    "negative": 0,
    "unscored": 1,
-   "avg_score": 0.319,
-   "updated_at": "2026-11-04T18:04:29Z"
+   "avg_score": 0.249,
+   "updated_at": "2026-11-05T07:00:06Z"
   },
   "tX9o3axRoaw": {
    "title": "GRGTの色をAIで変えてみた！ #automobile #shorts",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 6,
    "avg_score": null,
-   "updated_at": "2026-11-04T18:04:29Z"
+   "updated_at": "2026-11-05T07:00:06Z"
   },
   "ykZXROn1pTQ": {
    "title": "Toyota Just Built a Ferrari Killer! Meet the 2027 GR GT",
@@ -35,7 +35,7 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": -0.361,
-   "updated_at": "2026-11-04T18:04:29Z"
+   "updated_at": "2026-11-05T07:00:06Z"
   },
   "GJhZX4mm0CE": {
    "title": "Toyota GR GT: What’s Confirmed vs Claimed About Toyota’s V8 supercar",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.443,
-   "updated_at": "2026-11-04T18:04:29Z"
+   "updated_at": "2026-11-05T07:00:06Z"
   },
   "4O8g1ovgoC0": {
    "title": "World's First 1:24 Toyota GR GT RC Drift Body Shell",
@@ -59,19 +59,19 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.653,
-   "updated_at": "2026-11-04T18:04:29Z"
+   "updated_at": "2026-11-05T07:00:06Z"
   },
   "WHx5OeFBcmc": {
    "title": "TOYOTA GR GT3 DEBUTS IN SUPER GT! ENEOS ROOKIE’s HUGE Motegi Move!",
    "url": "https://youtube.com/watch?v=WHx5OeFBcmc",
-   "comment_count": 1,
+   "comment_count": 2,
    "sampled": 1,
    "positive": 1,
    "neutral": 0,
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.792,
-   "updated_at": "2026-11-04T23:46:40Z"
+   "updated_at": "2026-11-05T07:00:06Z"
   },
   "tFpwF-nF_xY": {
    "title": "Toyota GR GT Is INSANE – The Japanese Supercar Nobody Expected!",
@@ -99,9 +99,9 @@
   }
  },
  "totals": {
-  "sampled": 16,
-  "positive": 6,
-  "neutral": 2,
+  "sampled": 18,
+  "positive": 7,
+  "neutral": 3,
   "negative": 1,
   "unscored": 7
  }
