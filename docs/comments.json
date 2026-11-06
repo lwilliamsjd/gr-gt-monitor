@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T02:34:10Z",
+ "updated_at": "2026-11-06T11:09:10Z",
  "videos": {
   "Um5jZ7L-zVM": {
    "title": "Gazoo Racing GR GT and GR GT3 at Laguna Seca!",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.249,
-   "updated_at": "2026-11-05T22:06:50Z"
+   "updated_at": "2026-11-06T11:09:10Z"
   },
   "tX9o3axRoaw": {
    "title": "GRGTの色をAIで変えてみた！ #automobile #shorts",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 6,
    "avg_score": null,
-   "updated_at": "2026-11-05T22:06:50Z"
+   "updated_at": "2026-11-06T11:09:10Z"
   },
   "4O8g1ovgoC0": {
    "title": "World's First 1:24 Toyota GR GT RC Drift Body Shell",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.653,
-   "updated_at": "2026-11-05T22:06:50Z"
+   "updated_at": "2026-11-06T11:09:10Z"
   },
   "WHx5OeFBcmc": {
    "title": "TOYOTA GR GT3 DEBUTS IN SUPER GT! ENEOS ROOKIE’s HUGE Motegi Move!",
@@ -83,19 +83,19 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.273,
-   "updated_at": "2026-11-06T02:34:10Z"
+   "updated_at": "2026-11-06T11:09:10Z"
   },
   "SFT_CgxwjJ0": {
    "title": "GT Model GR GT Prototypes Unboxed! 🎧 | V2 Toys Pure ASMR: 1:64",
    "url": "https://youtube.com/watch?v=SFT_CgxwjJ0",
-   "comment_count": 1,
+   "comment_count": 2,
    "sampled": 1,
    "positive": 1,
    "neutral": 0,
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.624,
-   "updated_at": "2026-11-06T02:34:10Z"
+   "updated_at": "2026-11-06T11:09:10Z"
   },
   "Zr3GHmx4ovw": {
    "title": "GR GT's Exhaust Sound",
@@ -108,13 +108,25 @@
    "unscored": 0,
    "avg_score": 0.457,
    "updated_at": "2026-11-06T02:34:10Z"
+  },
+  "bor3ec3fqLE": {
+   "title": "【トミカ】TOYOTA 2000GT & LEXUS LFA & TOYOTA GR GT",
+   "url": "https://youtube.com/watch?v=bor3ec3fqLE",
+   "comment_count": 3,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 1,
+   "avg_score": null,
+   "updated_at": "2026-11-06T11:09:10Z"
   }
  },
  "totals": {
-  "sampled": 19,
+  "sampled": 20,
   "positive": 9,
   "neutral": 3,
   "negative": 0,
-  "unscored": 7
+  "unscored": 8
  }
 }
