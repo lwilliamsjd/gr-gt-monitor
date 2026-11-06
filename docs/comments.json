@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T22:06:50Z",
+ "updated_at": "2026-11-06T02:34:10Z",
  "videos": {
   "Um5jZ7L-zVM": {
    "title": "Gazoo Racing GR GT and GR GT3 at Laguna Seca!",
@@ -23,30 +23,6 @@
    "negative": 0,
    "unscored": 6,
    "avg_score": null,
-   "updated_at": "2026-11-05T22:06:50Z"
-  },
-  "ykZXROn1pTQ": {
-   "title": "Toyota Just Built a Ferrari Killer! Meet the 2027 GR GT",
-   "url": "https://youtube.com/watch?v=ykZXROn1pTQ",
-   "comment_count": 2,
-   "sampled": 1,
-   "positive": 0,
-   "neutral": 0,
-   "negative": 1,
-   "unscored": 0,
-   "avg_score": -0.361,
-   "updated_at": "2026-11-05T22:06:50Z"
-  },
-  "GJhZX4mm0CE": {
-   "title": "Toyota GR GT: What’s Confirmed vs Claimed About Toyota’s V8 supercar",
-   "url": "https://youtube.com/watch?v=GJhZX4mm0CE",
-   "comment_count": 2,
-   "sampled": 1,
-   "positive": 1,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.443,
    "updated_at": "2026-11-05T22:06:50Z"
   },
   "4O8g1ovgoC0": {
@@ -83,7 +59,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.869,
-   "updated_at": "2026-11-04T23:46:40Z"
+   "updated_at": "2026-11-06T02:34:10Z"
   },
   "TGRmyCLYnP8": {
    "title": "smart Classes by Shiva sir please send me your resume send grgt🔒😭👍🙏🙏🙏😭",
@@ -95,14 +71,50 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-04T18:04:29Z"
+   "updated_at": "2026-11-06T02:34:10Z"
+  },
+  "uiLWYFzxEPs": {
+   "title": "Toyota GR GT: 641 HP Twin Turbo V8 Revealed. #toyota # #grsport #carshorts #carreview",
+   "url": "https://youtube.com/watch?v=uiLWYFzxEPs",
+   "comment_count": 2,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.273,
+   "updated_at": "2026-11-06T02:34:10Z"
+  },
+  "SFT_CgxwjJ0": {
+   "title": "GT Model GR GT Prototypes Unboxed! 🎧 | V2 Toys Pure ASMR: 1:64",
+   "url": "https://youtube.com/watch?v=SFT_CgxwjJ0",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.624,
+   "updated_at": "2026-11-06T02:34:10Z"
+  },
+  "Zr3GHmx4ovw": {
+   "title": "GR GT's Exhaust Sound",
+   "url": "https://youtube.com/watch?v=Zr3GHmx4ovw",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.457,
+   "updated_at": "2026-11-06T02:34:10Z"
   }
  },
  "totals": {
-  "sampled": 18,
-  "positive": 7,
+  "sampled": 19,
+  "positive": 9,
   "neutral": 3,
-  "negative": 1,
+  "negative": 0,
   "unscored": 7
  }
 }
