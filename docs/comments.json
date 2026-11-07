@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T16:54:50Z",
+ "updated_at": "2026-11-07T20:58:14Z",
  "videos": {
   "4O8g1ovgoC0": {
    "title": "World's First 1:24 Toyota GR GT RC Drift Body Shell",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-06T23:17:03Z"
+   "updated_at": "2026-11-07T20:58:14Z"
   },
   "uiLWYFzxEPs": {
    "title": "Toyota GR GT: 641 HP Twin Turbo V8 Revealed. #toyota # #grsport #carshorts #carreview",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.273,
-   "updated_at": "2026-11-07T02:55:28Z"
+   "updated_at": "2026-11-07T20:58:14Z"
   },
   "SFT_CgxwjJ0": {
    "title": "GT Model GR GT Prototypes Unboxed! 🎧 | V2 Toys Pure ASMR: 1:64",
@@ -59,7 +59,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.457,
-   "updated_at": "2026-11-06T23:17:03Z"
+   "updated_at": "2026-11-07T20:58:14Z"
   },
   "bor3ec3fqLE": {
    "title": "【トミカ】TOYOTA 2000GT & LEXUS LFA & TOYOTA GR GT",
@@ -83,7 +83,7 @@
    "negative": 0,
    "unscored": 2,
    "avg_score": null,
-   "updated_at": "2026-11-07T10:27:20Z"
+   "updated_at": "2026-11-07T20:58:14Z"
   },
   "IQelW85wo-g": {
    "title": "GR GT3 Race Debut!! Exhaust Sound @ Super-GT Grand Final MOTEGI",
@@ -120,13 +120,37 @@
    "unscored": 1,
    "avg_score": null,
    "updated_at": "2026-11-07T16:54:50Z"
+  },
+  "DxA8A7t3pfg": {
+   "title": "SuperGTもてぎRound3GRGT参戦!!Part2#supergt #grgt",
+   "url": "https://youtube.com/watch?v=DxA8A7t3pfg",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 1,
+   "avg_score": null,
+   "updated_at": "2026-11-07T20:58:14Z"
+  },
+  "SXWUe4G4X58": {
+   "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
+   "url": "https://youtube.com/watch?v=SXWUe4G4X58",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 1,
+   "avg_score": null,
+   "updated_at": "2026-11-07T20:58:14Z"
   }
  },
  "totals": {
-  "sampled": 73,
+  "sampled": 75,
   "positive": 12,
   "neutral": 1,
   "negative": 1,
-  "unscored": 59
+  "unscored": 61
  }
 }
