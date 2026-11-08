@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-11-08T15:22:49Z",
-  "total": 1150,
+  "last_run": "2026-11-08T19:49:43Z",
+  "total": 1156,
   "added": 6,
   "archived_total": 206,
-  "last_new": "2026-11-08T15:22:49Z",
+  "last_new": "2026-11-08T19:49:43Z",
   "sources": {
     "google_news": {
       "status": "ok",
@@ -14,67 +14,69 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": "2026-11-07T10:27:20Z"
     },
     "youtube": {
       "status": "ok",
       "fetched": 75,
-      "new": 6,
-      "noise": 2,
-      "duplicate": 47,
+      "new": 5,
+      "noise": 4,
+      "duplicate": 49,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
-      "last_new": "2026-11-08T15:22:49Z"
+      "last_success": "2026-11-08T19:49:43Z",
+      "last_new": "2026-11-08T19:49:43Z"
     },
     "bluesky": {
       "status": "ok",
       "fetched": 148,
-      "new": 0,
+      "new": 1,
       "noise": 3,
-      "duplicate": 80,
+      "duplicate": 79,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
-      "last_new": "2026-11-08T00:46:39Z"
+      "last_success": "2026-11-08T19:49:43Z",
+      "last_new": "2026-11-08T19:49:43Z"
     },
     "newsdata": {
       "status": "ok",
-      "fetched": 15,
+      "fetched": 17,
       "new": 0,
       "noise": 0,
       "duplicate": 0,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": "2026-11-06T11:09:10Z"
     },
     "gdelt": {
-      "status": "ok",
-      "fetched": 1,
+      "status": "degraded",
+      "fetched": 0,
       "new": 0,
       "noise": 0,
-      "duplicate": 1,
-      "errors": [],
+      "duplicate": 0,
+      "errors": [
+        "HTTP 429 for \"GR GT\" toyota"
+      ],
       "consecutive_failures": 0,
-      "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "consecutive_empty": 1,
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": null
     },
     "bing_news": {
       "status": "ok",
-      "fetched": 24,
+      "fetched": 25,
       "new": 0,
       "noise": 0,
-      "duplicate": 23,
+      "duplicate": 24,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": "2026-11-07T02:55:28Z"
     },
     "mastodon": {
@@ -86,7 +88,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": "2026-10-13T00:50:18Z"
     },
     "hackernews": {
@@ -98,7 +100,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": "2026-10-12T18:12:08Z"
     },
     "lemmy": {
@@ -110,7 +112,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": null
     },
     "podcasts": {
@@ -122,7 +124,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": "2026-11-06T11:09:10Z"
     },
     "forum:grgtforum.com/forums/-/index.rss": {
@@ -134,7 +136,7 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": "2026-11-08T00:46:39Z"
     },
     "forum:lexusenthusiast.com/forums/forums/toyota-GR/index.rss": {
@@ -146,19 +148,19 @@
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": "2026-11-07T16:54:50Z"
     },
     "youtube_comments": {
       "status": "ok",
-      "fetched": 152,
+      "fetched": 54,
       "new": 0,
       "noise": 0,
       "duplicate": 0,
       "errors": [],
       "consecutive_failures": 0,
       "consecutive_empty": 0,
-      "last_success": "2026-11-08T15:22:49Z",
+      "last_success": "2026-11-08T19:49:43Z",
       "last_new": null
     }
   },
