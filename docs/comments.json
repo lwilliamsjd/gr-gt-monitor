@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T19:49:43Z",
+ "updated_at": "2026-11-08T23:48:13Z",
  "videos": {
   "SFT_CgxwjJ0": {
    "title": "GT Model GR GT Prototypes Unboxed! 🎧 | V2 Toys Pure ASMR: 1:64",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.759,
-   "updated_at": "2026-11-08T15:22:49Z"
+   "updated_at": "2026-11-08T23:48:13Z"
   },
   "bor3ec3fqLE": {
    "title": "【トミカ】TOYOTA 2000GT & LEXUS LFA & TOYOTA GR GT",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 3,
    "avg_score": null,
-   "updated_at": "2026-11-08T15:22:49Z"
+   "updated_at": "2026-11-08T23:48:13Z"
   },
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
@@ -40,26 +40,26 @@
   "IQelW85wo-g": {
    "title": "GR GT3 Race Debut!! Exhaust Sound @ Super-GT Grand Final MOTEGI",
    "url": "https://youtube.com/watch?v=IQelW85wo-g",
-   "comment_count": 8,
+   "comment_count": 10,
    "sampled": 4,
    "positive": 2,
    "neutral": 0,
    "negative": 2,
    "unscored": 0,
    "avg_score": 0.136,
-   "updated_at": "2026-11-08T15:22:49Z"
+   "updated_at": "2026-11-08T23:48:13Z"
   },
   "O926nl3K5lQ": {
    "title": "GR GT3 concept 世界デビュー!! ENEOS X PRIME GR GT3 concept",
    "url": "https://youtube.com/watch?v=O926nl3K5lQ",
-   "comment_count": 103,
-   "sampled": 91,
+   "comment_count": 105,
+   "sampled": 93,
    "positive": 9,
    "neutral": 1,
    "negative": 0,
-   "unscored": 81,
+   "unscored": 83,
    "avg_score": 0.511,
-   "updated_at": "2026-11-08T15:22:49Z"
+   "updated_at": "2026-11-08T23:48:13Z"
   },
   "c7ge76lAD7A": {
    "title": "ENEOS X PRIME GR GT3 concept走ってます！",
@@ -71,7 +71,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-08T15:22:49Z"
+   "updated_at": "2026-11-08T23:48:13Z"
   },
   "DBmmxqvTsn8": {
    "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
@@ -83,7 +83,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-08T15:22:49Z"
+   "updated_at": "2026-11-08T23:48:13Z"
   },
   "zYBSe7x-xX0": {
    "title": "“GR GT or GR GT3?” 🇯🇵",
@@ -111,10 +111,10 @@
   }
  },
  "totals": {
-  "sampled": 106,
+  "sampled": 108,
   "positive": 13,
   "neutral": 2,
   "negative": 2,
-  "unscored": 89
+  "unscored": 91
  }
 }
