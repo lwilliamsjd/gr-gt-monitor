@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T20:58:14Z",
+ "updated_at": "2026-11-08T00:46:39Z",
  "videos": {
   "4O8g1ovgoC0": {
    "title": "World's First 1:24 Toyota GR GT RC Drift Body Shell",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.653,
-   "updated_at": "2026-11-07T16:54:50Z"
+   "updated_at": "2026-11-08T00:46:39Z"
   },
   "TGRmyCLYnP8": {
    "title": "smart Classes by Shiva sir please send me your resume send grgt🔒😭👍🙏🙏🙏😭",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.759,
-   "updated_at": "2026-11-07T16:54:50Z"
+   "updated_at": "2026-11-08T00:46:39Z"
   },
   "Zr3GHmx4ovw": {
    "title": "GR GT's Exhaust Sound",
@@ -71,7 +71,7 @@
    "negative": 0,
    "unscored": 2,
    "avg_score": null,
-   "updated_at": "2026-11-07T16:54:50Z"
+   "updated_at": "2026-11-08T00:46:39Z"
   },
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
@@ -88,26 +88,26 @@
   "IQelW85wo-g": {
    "title": "GR GT3 Race Debut!! Exhaust Sound @ Super-GT Grand Final MOTEGI",
    "url": "https://youtube.com/watch?v=IQelW85wo-g",
-   "comment_count": 4,
+   "comment_count": 5,
    "sampled": 3,
    "positive": 2,
    "neutral": 0,
    "negative": 1,
    "unscored": 0,
    "avg_score": 0.405,
-   "updated_at": "2026-11-07T16:54:50Z"
+   "updated_at": "2026-11-08T00:46:39Z"
   },
   "O926nl3K5lQ": {
    "title": "GR GT3 concept 世界デビュー!! ENEOS X PRIME GR GT3 concept",
    "url": "https://youtube.com/watch?v=O926nl3K5lQ",
-   "comment_count": 64,
-   "sampled": 58,
+   "comment_count": 72,
+   "sampled": 66,
    "positive": 4,
-   "neutral": 0,
+   "neutral": 1,
    "negative": 0,
-   "unscored": 54,
-   "avg_score": 0.617,
-   "updated_at": "2026-11-07T16:54:50Z"
+   "unscored": 61,
+   "avg_score": 0.494,
+   "updated_at": "2026-11-08T00:46:39Z"
   },
   "c7ge76lAD7A": {
    "title": "ENEOS X PRIME GR GT3 concept走ってます！",
@@ -119,38 +119,14 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-07T16:54:50Z"
-  },
-  "DxA8A7t3pfg": {
-   "title": "SuperGTもてぎRound3GRGT参戦!!Part2#supergt #grgt",
-   "url": "https://youtube.com/watch?v=DxA8A7t3pfg",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 0,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 1,
-   "avg_score": null,
-   "updated_at": "2026-11-07T20:58:14Z"
-  },
-  "SXWUe4G4X58": {
-   "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
-   "url": "https://youtube.com/watch?v=SXWUe4G4X58",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 0,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 1,
-   "avg_score": null,
-   "updated_at": "2026-11-07T20:58:14Z"
+   "updated_at": "2026-11-08T00:46:39Z"
   }
  },
  "totals": {
-  "sampled": 75,
+  "sampled": 81,
   "positive": 12,
-  "neutral": 1,
+  "neutral": 2,
   "negative": 1,
-  "unscored": 61
+  "unscored": 66
  }
 }
