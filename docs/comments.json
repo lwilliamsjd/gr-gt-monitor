@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-11-09T06:52:13Z",
+ "updated_at": "2026-11-09T17:39:19Z",
  "videos": {
-  "SFT_CgxwjJ0": {
-   "title": "GT Model GR GT Prototypes Unboxed! 🎧 | V2 Toys Pure ASMR: 1:64",
-   "url": "https://youtube.com/watch?v=SFT_CgxwjJ0",
-   "comment_count": 4,
-   "sampled": 2,
-   "positive": 2,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.759,
-   "updated_at": "2026-11-09T06:52:13Z"
-  },
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
    "url": "https://youtube.com/watch?v=DT8ByJalT30",
@@ -35,19 +23,19 @@
    "negative": 2,
    "unscored": 0,
    "avg_score": 0.136,
-   "updated_at": "2026-11-09T06:52:13Z"
+   "updated_at": "2026-11-09T17:39:19Z"
   },
   "O926nl3K5lQ": {
    "title": "GR GT3 concept 世界デビュー!! ENEOS X PRIME GR GT3 concept",
    "url": "https://youtube.com/watch?v=O926nl3K5lQ",
-   "comment_count": 111,
-   "sampled": 95,
+   "comment_count": 122,
+   "sampled": 100,
    "positive": 9,
    "neutral": 1,
    "negative": 0,
-   "unscored": 85,
-   "avg_score": 0.511,
-   "updated_at": "2026-11-09T06:52:13Z"
+   "unscored": 90,
+   "avg_score": 0.523,
+   "updated_at": "2026-11-09T17:39:19Z"
   },
   "c7ge76lAD7A": {
    "title": "ENEOS X PRIME GR GT3 concept走ってます！",
@@ -59,7 +47,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-08T23:48:13Z"
+   "updated_at": "2026-11-09T17:39:19Z"
   },
   "DBmmxqvTsn8": {
    "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
@@ -71,7 +59,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-09T06:52:13Z"
+   "updated_at": "2026-11-09T17:39:19Z"
   },
   "zYBSe7x-xX0": {
    "title": "“GR GT or GR GT3?” 🇯🇵",
@@ -95,26 +83,26 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-11-09T06:52:13Z"
+   "updated_at": "2026-11-09T17:39:19Z"
   },
   "HL2WsW4QwSU": {
    "title": "Nürburgring Prototype! Toyota GR GT Carbon CHASE Unboxing | Ver2 Toys Weekly Ep102",
    "url": "https://youtube.com/watch?v=HL2WsW4QwSU",
-   "comment_count": 2,
+   "comment_count": 3,
    "sampled": 1,
    "positive": 1,
    "neutral": 0,
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.481,
-   "updated_at": "2026-11-09T06:52:13Z"
+   "updated_at": "2026-11-09T17:39:19Z"
   }
  },
  "totals": {
-  "sampled": 109,
-  "positive": 14,
+  "sampled": 112,
+  "positive": 12,
   "neutral": 3,
   "negative": 2,
-  "unscored": 90
+  "unscored": 95
  }
 }
