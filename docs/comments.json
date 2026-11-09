@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T23:48:13Z",
+ "updated_at": "2026-11-09T06:52:13Z",
  "videos": {
   "SFT_CgxwjJ0": {
    "title": "GT Model GR GT Prototypes Unboxed! 🎧 | V2 Toys Pure ASMR: 1:64",
@@ -11,19 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.759,
-   "updated_at": "2026-11-08T23:48:13Z"
-  },
-  "bor3ec3fqLE": {
-   "title": "【トミカ】TOYOTA 2000GT & LEXUS LFA & TOYOTA GR GT",
-   "url": "https://youtube.com/watch?v=bor3ec3fqLE",
-   "comment_count": 6,
-   "sampled": 3,
-   "positive": 0,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 3,
-   "avg_score": null,
-   "updated_at": "2026-11-08T23:48:13Z"
+   "updated_at": "2026-11-09T06:52:13Z"
   },
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
@@ -47,19 +35,19 @@
    "negative": 2,
    "unscored": 0,
    "avg_score": 0.136,
-   "updated_at": "2026-11-08T23:48:13Z"
+   "updated_at": "2026-11-09T06:52:13Z"
   },
   "O926nl3K5lQ": {
    "title": "GR GT3 concept 世界デビュー!! ENEOS X PRIME GR GT3 concept",
    "url": "https://youtube.com/watch?v=O926nl3K5lQ",
-   "comment_count": 105,
-   "sampled": 93,
+   "comment_count": 111,
+   "sampled": 95,
    "positive": 9,
    "neutral": 1,
    "negative": 0,
-   "unscored": 83,
+   "unscored": 85,
    "avg_score": 0.511,
-   "updated_at": "2026-11-08T23:48:13Z"
+   "updated_at": "2026-11-09T06:52:13Z"
   },
   "c7ge76lAD7A": {
    "title": "ENEOS X PRIME GR GT3 concept走ってます！",
@@ -83,7 +71,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-08T23:48:13Z"
+   "updated_at": "2026-11-09T06:52:13Z"
   },
   "zYBSe7x-xX0": {
    "title": "“GR GT or GR GT3?” 🇯🇵",
@@ -100,21 +88,33 @@
   "anTDsYP3OpY": {
    "title": "SUPER GT 2026 Rd.8 MOTEGI - GR GT3 Concept",
    "url": "https://youtube.com/watch?v=anTDsYP3OpY",
-   "comment_count": 1,
-   "sampled": 1,
+   "comment_count": 2,
+   "sampled": 2,
    "positive": 0,
-   "neutral": 0,
+   "neutral": 1,
    "negative": 0,
    "unscored": 1,
-   "avg_score": null,
-   "updated_at": "2026-11-08T19:49:43Z"
+   "avg_score": 0.0,
+   "updated_at": "2026-11-09T06:52:13Z"
+  },
+  "HL2WsW4QwSU": {
+   "title": "Nürburgring Prototype! Toyota GR GT Carbon CHASE Unboxing | Ver2 Toys Weekly Ep102",
+   "url": "https://youtube.com/watch?v=HL2WsW4QwSU",
+   "comment_count": 2,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.481,
+   "updated_at": "2026-11-09T06:52:13Z"
   }
  },
  "totals": {
-  "sampled": 108,
-  "positive": 13,
-  "neutral": 2,
+  "sampled": 109,
+  "positive": 14,
+  "neutral": 3,
   "negative": 2,
-  "unscored": 91
+  "unscored": 90
  }
 }
