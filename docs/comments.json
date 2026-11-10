@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T17:39:19Z",
+ "updated_at": "2026-11-10T01:38:45Z",
  "videos": {
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
@@ -16,26 +16,26 @@
   "IQelW85wo-g": {
    "title": "GR GT3 Race Debut!! Exhaust Sound @ Super-GT Grand Final MOTEGI",
    "url": "https://youtube.com/watch?v=IQelW85wo-g",
-   "comment_count": 10,
+   "comment_count": 11,
    "sampled": 4,
    "positive": 2,
    "neutral": 0,
    "negative": 2,
    "unscored": 0,
    "avg_score": 0.136,
-   "updated_at": "2026-11-09T17:39:19Z"
+   "updated_at": "2026-11-10T01:38:45Z"
   },
   "O926nl3K5lQ": {
    "title": "GR GT3 concept 世界デビュー!! ENEOS X PRIME GR GT3 concept",
    "url": "https://youtube.com/watch?v=O926nl3K5lQ",
-   "comment_count": 122,
+   "comment_count": 123,
    "sampled": 100,
-   "positive": 9,
+   "positive": 10,
    "neutral": 1,
    "negative": 0,
-   "unscored": 90,
-   "avg_score": 0.523,
-   "updated_at": "2026-11-09T17:39:19Z"
+   "unscored": 89,
+   "avg_score": 0.517,
+   "updated_at": "2026-11-10T01:38:45Z"
   },
   "c7ge76lAD7A": {
    "title": "ENEOS X PRIME GR GT3 concept走ってます！",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-09T17:39:19Z"
+   "updated_at": "2026-11-10T01:38:45Z"
   },
   "DBmmxqvTsn8": {
    "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
@@ -59,7 +59,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-09T17:39:19Z"
+   "updated_at": "2026-11-10T01:38:45Z"
   },
   "zYBSe7x-xX0": {
    "title": "“GR GT or GR GT3?” 🇯🇵",
@@ -83,26 +83,26 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-11-09T17:39:19Z"
+   "updated_at": "2026-11-10T01:38:45Z"
   },
   "HL2WsW4QwSU": {
    "title": "Nürburgring Prototype! Toyota GR GT Carbon CHASE Unboxing | Ver2 Toys Weekly Ep102",
    "url": "https://youtube.com/watch?v=HL2WsW4QwSU",
-   "comment_count": 3,
-   "sampled": 1,
+   "comment_count": 4,
+   "sampled": 2,
    "positive": 1,
-   "neutral": 0,
+   "neutral": 1,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.481,
-   "updated_at": "2026-11-09T17:39:19Z"
+   "avg_score": 0.24,
+   "updated_at": "2026-11-10T01:38:45Z"
   }
  },
  "totals": {
-  "sampled": 112,
-  "positive": 12,
-  "neutral": 3,
+  "sampled": 113,
+  "positive": 13,
+  "neutral": 4,
   "negative": 2,
-  "unscored": 95
+  "unscored": 94
  }
 }
