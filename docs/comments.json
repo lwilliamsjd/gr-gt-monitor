@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T10:01:45Z",
+ "updated_at": "2026-11-10T17:57:46Z",
  "videos": {
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
@@ -23,19 +23,19 @@
    "negative": 2,
    "unscored": 0,
    "avg_score": 0.136,
-   "updated_at": "2026-11-10T10:01:45Z"
+   "updated_at": "2026-11-10T17:57:46Z"
   },
   "O926nl3K5lQ": {
    "title": "GR GT3 concept 世界デビュー!! ENEOS X PRIME GR GT3 concept",
    "url": "https://youtube.com/watch?v=O926nl3K5lQ",
    "comment_count": 124,
    "sampled": 100,
-   "positive": 10,
+   "positive": 11,
    "neutral": 1,
    "negative": 0,
-   "unscored": 89,
-   "avg_score": 0.544,
-   "updated_at": "2026-11-10T10:01:45Z"
+   "unscored": 88,
+   "avg_score": 0.537,
+   "updated_at": "2026-11-10T17:57:46Z"
   },
   "c7ge76lAD7A": {
    "title": "ENEOS X PRIME GR GT3 concept走ってます！",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-10T10:01:45Z"
+   "updated_at": "2026-11-10T17:57:46Z"
   },
   "DBmmxqvTsn8": {
    "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
@@ -59,7 +59,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-10T10:01:45Z"
+   "updated_at": "2026-11-10T17:57:46Z"
   },
   "zYBSe7x-xX0": {
    "title": "“GR GT or GR GT3?” 🇯🇵",
@@ -83,7 +83,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-11-10T10:01:45Z"
+   "updated_at": "2026-11-10T17:57:46Z"
   },
   "HL2WsW4QwSU": {
    "title": "Nürburgring Prototype! Toyota GR GT Carbon CHASE Unboxing | Ver2 Toys Weekly Ep102",
@@ -95,14 +95,14 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.24,
-   "updated_at": "2026-11-10T10:01:45Z"
+   "updated_at": "2026-11-10T17:57:46Z"
   }
  },
  "totals": {
   "sampled": 113,
-  "positive": 13,
+  "positive": 14,
   "neutral": 4,
   "negative": 2,
-  "unscored": 94
+  "unscored": 93
  }
 }
