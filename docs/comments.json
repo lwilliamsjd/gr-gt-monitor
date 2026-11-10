@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T17:57:46Z",
+ "updated_at": "2026-11-10T23:32:26Z",
  "videos": {
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 2,
    "avg_score": null,
-   "updated_at": "2026-11-08T19:49:43Z"
+   "updated_at": "2026-11-10T23:32:26Z"
   },
   "IQelW85wo-g": {
    "title": "GR GT3 Race Debut!! Exhaust Sound @ Super-GT Grand Final MOTEGI",
@@ -71,7 +71,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-08T19:49:43Z"
+   "updated_at": "2026-11-10T23:32:26Z"
   },
   "anTDsYP3OpY": {
    "title": "SUPER GT 2026 Rd.8 MOTEGI - GR GT3 Concept",
@@ -96,12 +96,24 @@
    "unscored": 0,
    "avg_score": 0.24,
    "updated_at": "2026-11-10T17:57:46Z"
+  },
+  "DtUNxZNxl30": {
+   "title": "2027 Rookie Racing GR GT3 | Motegi Japan | Toyota Lexus #grgt3 #grgt #eneos #motegi #supergt #jdm",
+   "url": "https://youtube.com/watch?v=DtUNxZNxl30",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.0,
+   "updated_at": "2026-11-10T23:32:26Z"
   }
  },
  "totals": {
-  "sampled": 113,
+  "sampled": 114,
   "positive": 14,
-  "neutral": 4,
+  "neutral": 5,
   "negative": 2,
   "unscored": 93
  }
