@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T23:32:26Z",
+ "updated_at": "2026-11-11T06:45:52Z",
  "videos": {
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
@@ -23,7 +23,7 @@
    "negative": 2,
    "unscored": 0,
    "avg_score": 0.136,
-   "updated_at": "2026-11-10T17:57:46Z"
+   "updated_at": "2026-11-11T06:45:52Z"
   },
   "O926nl3K5lQ": {
    "title": "GR GT3 concept 世界デビュー!! ENEOS X PRIME GR GT3 concept",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 88,
    "avg_score": 0.537,
-   "updated_at": "2026-11-10T17:57:46Z"
+   "updated_at": "2026-11-11T06:45:52Z"
   },
   "c7ge76lAD7A": {
    "title": "ENEOS X PRIME GR GT3 concept走ってます！",
@@ -59,7 +59,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-10T17:57:46Z"
+   "updated_at": "2026-11-11T06:45:52Z"
   },
   "zYBSe7x-xX0": {
    "title": "“GR GT or GR GT3?” 🇯🇵",
@@ -83,7 +83,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-11-10T17:57:46Z"
+   "updated_at": "2026-11-11T06:45:52Z"
   },
   "HL2WsW4QwSU": {
    "title": "Nürburgring Prototype! Toyota GR GT Carbon CHASE Unboxing | Ver2 Toys Weekly Ep102",
@@ -95,7 +95,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.24,
-   "updated_at": "2026-11-10T17:57:46Z"
+   "updated_at": "2026-11-11T06:45:52Z"
   },
   "DtUNxZNxl30": {
    "title": "2027 Rookie Racing GR GT3 | Motegi Japan | Toyota Lexus #grgt3 #grgt #eneos #motegi #supergt #jdm",
@@ -108,12 +108,24 @@
    "unscored": 0,
    "avg_score": 0.0,
    "updated_at": "2026-11-10T23:32:26Z"
+  },
+  "uQPBVsM9AaY": {
+   "title": "Toyota GR GT Up Close | Twin-Turbo V8 Supercar",
+   "url": "https://youtube.com/watch?v=uQPBVsM9AaY",
+   "comment_count": 2,
+   "sampled": 2,
+   "positive": 1,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.22,
+   "updated_at": "2026-11-11T06:45:52Z"
   }
  },
  "totals": {
-  "sampled": 114,
-  "positive": 14,
-  "neutral": 5,
+  "sampled": 116,
+  "positive": 15,
+  "neutral": 6,
   "negative": 2,
   "unscored": 93
  }
