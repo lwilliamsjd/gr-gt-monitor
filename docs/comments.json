@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T06:45:52Z",
+ "updated_at": "2026-11-11T15:25:58Z",
  "videos": {
   "DT8ByJalT30": {
    "title": "Забрал Toyota GR GT в MadOut2! #madout2 #automobile",
@@ -13,29 +13,17 @@
    "avg_score": null,
    "updated_at": "2026-11-10T23:32:26Z"
   },
-  "IQelW85wo-g": {
-   "title": "GR GT3 Race Debut!! Exhaust Sound @ Super-GT Grand Final MOTEGI",
-   "url": "https://youtube.com/watch?v=IQelW85wo-g",
-   "comment_count": 11,
-   "sampled": 4,
-   "positive": 2,
-   "neutral": 0,
-   "negative": 2,
-   "unscored": 0,
-   "avg_score": 0.136,
-   "updated_at": "2026-11-11T06:45:52Z"
-  },
   "O926nl3K5lQ": {
    "title": "GR GT3 concept 世界デビュー!! ENEOS X PRIME GR GT3 concept",
    "url": "https://youtube.com/watch?v=O926nl3K5lQ",
-   "comment_count": 124,
+   "comment_count": 126,
    "sampled": 100,
-   "positive": 11,
+   "positive": 10,
    "neutral": 1,
    "negative": 0,
-   "unscored": 88,
-   "avg_score": 0.537,
-   "updated_at": "2026-11-11T06:45:52Z"
+   "unscored": 89,
+   "avg_score": 0.544,
+   "updated_at": "2026-11-11T15:25:58Z"
   },
   "c7ge76lAD7A": {
    "title": "ENEOS X PRIME GR GT3 concept走ってます！",
@@ -83,7 +71,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-11-11T06:45:52Z"
+   "updated_at": "2026-11-11T15:25:58Z"
   },
   "HL2WsW4QwSU": {
    "title": "Nürburgring Prototype! Toyota GR GT Carbon CHASE Unboxing | Ver2 Toys Weekly Ep102",
@@ -95,38 +83,50 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.24,
-   "updated_at": "2026-11-11T06:45:52Z"
+   "updated_at": "2026-11-11T15:25:58Z"
   },
   "DtUNxZNxl30": {
    "title": "2027 Rookie Racing GR GT3 | Motegi Japan | Toyota Lexus #grgt3 #grgt #eneos #motegi #supergt #jdm",
    "url": "https://youtube.com/watch?v=DtUNxZNxl30",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 0,
-   "neutral": 1,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.0,
-   "updated_at": "2026-11-10T23:32:26Z"
-  },
-  "uQPBVsM9AaY": {
-   "title": "Toyota GR GT Up Close | Twin-Turbo V8 Supercar",
-   "url": "https://youtube.com/watch?v=uQPBVsM9AaY",
    "comment_count": 2,
    "sampled": 2,
    "positive": 1,
    "neutral": 1,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.22,
-   "updated_at": "2026-11-11T06:45:52Z"
+   "avg_score": 0.21,
+   "updated_at": "2026-11-11T15:25:58Z"
+  },
+  "uQPBVsM9AaY": {
+   "title": "Toyota GR GT Up Close | Twin-Turbo V8 Supercar",
+   "url": "https://youtube.com/watch?v=uQPBVsM9AaY",
+   "comment_count": 5,
+   "sampled": 5,
+   "positive": 2,
+   "neutral": 3,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.247,
+   "updated_at": "2026-11-11T15:25:58Z"
+  },
+  "i0fmMdIvGAU": {
+   "title": "Toyota GR GT vs Corvette ZR1X: Which Would You Buy?",
+   "url": "https://youtube.com/watch?v=i0fmMdIvGAU",
+   "comment_count": 3,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.0,
+   "updated_at": "2026-11-11T15:25:58Z"
   }
  },
  "totals": {
-  "sampled": 116,
-  "positive": 15,
-  "neutral": 6,
-  "negative": 2,
-  "unscored": 93
+  "sampled": 117,
+  "positive": 14,
+  "neutral": 9,
+  "negative": 0,
+  "unscored": 94
  }
 }
