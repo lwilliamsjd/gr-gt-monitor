@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T12:56:11Z",
+ "updated_at": "2026-11-12T20:56:07Z",
  "videos": {
   "DBmmxqvTsn8": {
    "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-11-12T12:56:11Z"
+   "updated_at": "2026-11-12T20:56:07Z"
   },
   "HL2WsW4QwSU": {
    "title": "Nürburgring Prototype! Toyota GR GT Carbon CHASE Unboxing | Ver2 Toys Weekly Ep102",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.24,
-   "updated_at": "2026-11-12T12:56:11Z"
+   "updated_at": "2026-11-12T20:56:07Z"
   },
   "DtUNxZNxl30": {
    "title": "2027 Rookie Racing GR GT3 | Motegi Japan | Toyota Lexus #grgt3 #grgt #eneos #motegi #supergt #jdm",
@@ -59,19 +59,19 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.21,
-   "updated_at": "2026-11-12T12:56:11Z"
+   "updated_at": "2026-11-12T20:56:07Z"
   },
   "uQPBVsM9AaY": {
    "title": "Toyota GR GT Up Close | Twin-Turbo V8 Supercar",
    "url": "https://youtube.com/watch?v=uQPBVsM9AaY",
-   "comment_count": 110,
-   "sampled": 81,
-   "positive": 34,
-   "neutral": 31,
-   "negative": 16,
+   "comment_count": 148,
+   "sampled": 100,
+   "positive": 51,
+   "neutral": 34,
+   "negative": 15,
    "unscored": 0,
-   "avg_score": 0.091,
-   "updated_at": "2026-11-12T12:56:11Z"
+   "avg_score": 0.173,
+   "updated_at": "2026-11-12T20:56:07Z"
   },
   "i0fmMdIvGAU": {
    "title": "Toyota GR GT vs Corvette ZR1X: Which Would You Buy?",
@@ -83,14 +83,26 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-12T12:56:11Z"
+   "updated_at": "2026-11-12T20:56:07Z"
+  },
+  "LtRh92XNgQ4": {
+   "title": "Toyota GR GT",
+   "url": "https://youtube.com/watch?v=LtRh92XNgQ4",
+   "comment_count": 4,
+   "sampled": 4,
+   "positive": 1,
+   "neutral": 3,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.107,
+   "updated_at": "2026-11-12T20:56:07Z"
   }
  },
  "totals": {
-  "sampled": 91,
-  "positive": 36,
-  "neutral": 37,
-  "negative": 16,
+  "sampled": 114,
+  "positive": 54,
+  "neutral": 43,
+  "negative": 15,
   "unscored": 2
  }
 }
