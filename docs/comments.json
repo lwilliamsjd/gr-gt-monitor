@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-11-13T01:56:40Z",
+ "updated_at": "2026-11-13T09:43:23Z",
  "videos": {
-  "DBmmxqvTsn8": {
-   "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
-   "url": "https://youtube.com/watch?v=DBmmxqvTsn8",
-   "comment_count": 2,
-   "sampled": 1,
-   "positive": 0,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 1,
-   "avg_score": null,
-   "updated_at": "2026-11-13T01:56:40Z"
-  },
   "zYBSe7x-xX0": {
    "title": "“GR GT or GR GT3?” 🇯🇵",
    "url": "https://youtube.com/watch?v=zYBSe7x-xX0",
@@ -47,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.24,
-   "updated_at": "2026-11-12T20:56:07Z"
+   "updated_at": "2026-11-13T09:43:23Z"
   },
   "DtUNxZNxl30": {
    "title": "2027 Rookie Racing GR GT3 | Motegi Japan | Toyota Lexus #grgt3 #grgt #eneos #motegi #supergt #jdm",
@@ -64,14 +52,14 @@
   "uQPBVsM9AaY": {
    "title": "Toyota GR GT Up Close | Twin-Turbo V8 Supercar",
    "url": "https://youtube.com/watch?v=uQPBVsM9AaY",
-   "comment_count": 148,
+   "comment_count": 177,
    "sampled": 100,
-   "positive": 51,
-   "neutral": 34,
-   "negative": 15,
+   "positive": 57,
+   "neutral": 31,
+   "negative": 12,
    "unscored": 0,
-   "avg_score": 0.173,
-   "updated_at": "2026-11-12T20:56:07Z"
+   "avg_score": 0.224,
+   "updated_at": "2026-11-13T09:43:23Z"
   },
   "i0fmMdIvGAU": {
    "title": "Toyota GR GT vs Corvette ZR1X: Which Would You Buy?",
@@ -83,7 +71,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-12T20:56:07Z"
+   "updated_at": "2026-11-13T09:43:23Z"
   },
   "LtRh92XNgQ4": {
    "title": "Toyota GR GT",
@@ -95,19 +83,19 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.107,
-   "updated_at": "2026-11-12T20:56:07Z"
+   "updated_at": "2026-11-13T09:43:23Z"
   },
   "yhsvzt2014w": {
    "title": "XBOX Edition GR GT #shorts",
    "url": "https://youtube.com/watch?v=yhsvzt2014w",
-   "comment_count": 5,
+   "comment_count": 6,
    "sampled": 1,
    "positive": 0,
    "neutral": 1,
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-13T01:56:40Z"
+   "updated_at": "2026-11-13T09:43:23Z"
   },
   "2VfFSBmPUf8": {
    "title": "Almost Almost Almost #gr86 #grgt #gazooracing #toyota",
@@ -144,13 +132,25 @@
    "unscored": 0,
    "avg_score": 0.248,
    "updated_at": "2026-11-13T01:56:40Z"
+  },
+  "n_A1sDTd7yg": {
+   "title": "Toyota GR GT: The V8 Hybrid We've Been Waiting For",
+   "url": "https://youtube.com/watch?v=n_A1sDTd7yg",
+   "comment_count": 8,
+   "sampled": 6,
+   "positive": 4,
+   "neutral": 2,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.319,
+   "updated_at": "2026-11-13T09:43:23Z"
   }
  },
  "totals": {
-  "sampled": 117,
-  "positive": 55,
-  "neutral": 45,
-  "negative": 15,
-  "unscored": 2
+  "sampled": 122,
+  "positive": 65,
+  "neutral": 44,
+  "negative": 12,
+  "unscored": 1
  }
 }
