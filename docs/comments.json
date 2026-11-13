@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T20:56:07Z",
+ "updated_at": "2026-11-13T01:56:40Z",
  "videos": {
   "DBmmxqvTsn8": {
    "title": "SuperGTもてぎRound3GRGT参戦!!Part1#supergt #grgt",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-12T12:56:11Z"
+   "updated_at": "2026-11-13T01:56:40Z"
   },
   "zYBSe7x-xX0": {
    "title": "“GR GT or GR GT3?” 🇯🇵",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-12T03:54:51Z"
+   "updated_at": "2026-11-13T01:56:40Z"
   },
   "anTDsYP3OpY": {
    "title": "SUPER GT 2026 Rd.8 MOTEGI - GR GT3 Concept",
@@ -96,12 +96,60 @@
    "unscored": 0,
    "avg_score": 0.107,
    "updated_at": "2026-11-12T20:56:07Z"
+  },
+  "yhsvzt2014w": {
+   "title": "XBOX Edition GR GT #shorts",
+   "url": "https://youtube.com/watch?v=yhsvzt2014w",
+   "comment_count": 5,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.0,
+   "updated_at": "2026-11-13T01:56:40Z"
+  },
+  "2VfFSBmPUf8": {
+   "title": "Almost Almost Almost #gr86 #grgt #gazooracing #toyota",
+   "url": "https://youtube.com/watch?v=2VfFSBmPUf8",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": -0.026,
+   "updated_at": "2026-11-13T01:56:40Z"
+  },
+  "p725wo43RJU": {
+   "title": "Toyota GR GT",
+   "url": "https://youtube.com/watch?v=p725wo43RJU",
+   "comment_count": 1,
+   "sampled": 0,
+   "positive": 0,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": null,
+   "updated_at": "2026-11-13T01:56:40Z"
+  },
+  "cBehx6rwKjs": {
+   "title": "Toyota Just Showed Us the GR GT and It's INSANE!",
+   "url": "https://youtube.com/watch?v=cBehx6rwKjs",
+   "comment_count": 1,
+   "sampled": 1,
+   "positive": 1,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.248,
+   "updated_at": "2026-11-13T01:56:40Z"
   }
  },
  "totals": {
-  "sampled": 114,
-  "positive": 54,
-  "neutral": 43,
+  "sampled": 117,
+  "positive": 55,
+  "neutral": 45,
   "negative": 15,
   "unscored": 2
  }
