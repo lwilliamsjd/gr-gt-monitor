@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-11-14T06:43:32Z",
+ "updated_at": "2026-11-14T14:18:02Z",
  "videos": {
-  "HL2WsW4QwSU": {
-   "title": "Nürburgring Prototype! Toyota GR GT Carbon CHASE Unboxing | Ver2 Toys Weekly Ep102",
-   "url": "https://youtube.com/watch?v=HL2WsW4QwSU",
-   "comment_count": 5,
-   "sampled": 2,
-   "positive": 1,
-   "neutral": 1,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.24,
-   "updated_at": "2026-11-14T06:43:32Z"
-  },
   "DtUNxZNxl30": {
    "title": "2027 Rookie Racing GR GT3 | Motegi Japan | Toyota Lexus #grgt3 #grgt #eneos #motegi #supergt #jdm",
    "url": "https://youtube.com/watch?v=DtUNxZNxl30",
@@ -28,14 +16,14 @@
   "uQPBVsM9AaY": {
    "title": "Toyota GR GT Up Close | Twin-Turbo V8 Supercar",
    "url": "https://youtube.com/watch?v=uQPBVsM9AaY",
-   "comment_count": 209,
+   "comment_count": 212,
    "sampled": 100,
    "positive": 58,
-   "neutral": 31,
-   "negative": 11,
+   "neutral": 30,
+   "negative": 12,
    "unscored": 0,
-   "avg_score": 0.24,
-   "updated_at": "2026-11-14T06:43:32Z"
+   "avg_score": 0.232,
+   "updated_at": "2026-11-14T14:18:02Z"
   },
   "i0fmMdIvGAU": {
    "title": "Toyota GR GT vs Corvette ZR1X: Which Would You Buy?",
@@ -47,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-14T06:43:32Z"
+   "updated_at": "2026-11-14T14:18:02Z"
   },
   "LtRh92XNgQ4": {
    "title": "Toyota GR GT",
@@ -71,7 +59,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-14T06:43:32Z"
+   "updated_at": "2026-11-14T14:18:02Z"
   },
   "2VfFSBmPUf8": {
    "title": "Almost Almost Almost #gr86 #grgt #gazooracing #toyota",
@@ -100,14 +88,14 @@
   "n_A1sDTd7yg": {
    "title": "Toyota GR GT: The V8 Hybrid We've Been Waiting For",
    "url": "https://youtube.com/watch?v=n_A1sDTd7yg",
-   "comment_count": 15,
-   "sampled": 7,
+   "comment_count": 17,
+   "sampled": 8,
    "positive": 4,
    "neutral": 2,
-   "negative": 1,
+   "negative": 2,
    "unscored": 0,
-   "avg_score": 0.155,
-   "updated_at": "2026-11-14T06:43:32Z"
+   "avg_score": 0.107,
+   "updated_at": "2026-11-14T14:18:02Z"
   },
   "JMD4BE9y6j8": {
    "title": "Inside Toyota’s GR Garage | Lexus LFA & GR GT",
@@ -124,14 +112,14 @@
   "VSumAHK3t2U": {
    "title": "The Greatest Nürburgring PROTOTYPES of 2026 Compilation - TOYOTA GR GT RS, R5 Turbo, Revuelto SV ...",
    "url": "https://youtube.com/watch?v=VSumAHK3t2U",
-   "comment_count": 4,
-   "sampled": 4,
+   "comment_count": 5,
+   "sampled": 5,
    "positive": 4,
-   "neutral": 0,
+   "neutral": 1,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.694,
-   "updated_at": "2026-11-14T06:43:32Z"
+   "avg_score": 0.555,
+   "updated_at": "2026-11-14T14:18:02Z"
   },
   "CB7d3QqGcyo": {
    "title": "Porque El TOYOTA GR GT3 PROMETE MUCHO",
@@ -143,7 +131,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.0,
-   "updated_at": "2026-11-13T23:41:37Z"
+   "updated_at": "2026-11-14T14:18:02Z"
   },
   "hOBiDn7siUI": {
    "title": "Toyota’s Twin-Turbo V8 Supercar 🔥 GR GT #ToyotaGRGT #GazooRacing #CarEdit #Shorts #fyp",
@@ -160,9 +148,9 @@
  },
  "totals": {
   "sampled": 132,
-  "positive": 72,
-  "neutral": 47,
-  "negative": 12,
+  "positive": 71,
+  "neutral": 46,
+  "negative": 14,
   "unscored": 1
  }
 }
