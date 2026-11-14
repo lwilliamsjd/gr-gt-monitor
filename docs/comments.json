@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T14:18:02Z",
+ "updated_at": "2026-11-14T19:15:26Z",
  "videos": {
   "DtUNxZNxl30": {
    "title": "2027 Rookie Racing GR GT3 | Motegi Japan | Toyota Lexus #grgt3 #grgt #eneos #motegi #supergt #jdm",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.107,
-   "updated_at": "2026-11-13T23:41:37Z"
+   "updated_at": "2026-11-14T19:15:26Z"
   },
   "yhsvzt2014w": {
    "title": "XBOX Edition GR GT #shorts",
@@ -71,19 +71,19 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": -0.013,
-   "updated_at": "2026-11-13T23:41:37Z"
+   "updated_at": "2026-11-14T19:15:26Z"
   },
   "cBehx6rwKjs": {
    "title": "Toyota Just Showed Us the GR GT and It's INSANE!",
    "url": "https://youtube.com/watch?v=cBehx6rwKjs",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 1,
+   "comment_count": 3,
+   "sampled": 2,
+   "positive": 2,
    "neutral": 0,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.248,
-   "updated_at": "2026-11-13T01:56:40Z"
+   "avg_score": 0.401,
+   "updated_at": "2026-11-14T19:15:26Z"
   },
   "n_A1sDTd7yg": {
    "title": "Toyota GR GT: The V8 Hybrid We've Been Waiting For",
@@ -101,13 +101,13 @@
    "title": "Inside Toyota’s GR Garage | Lexus LFA & GR GT",
    "url": "https://youtube.com/watch?v=JMD4BE9y6j8",
    "comment_count": 4,
-   "sampled": 1,
+   "sampled": 2,
    "positive": 1,
-   "neutral": 0,
+   "neutral": 1,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.25,
-   "updated_at": "2026-11-13T17:52:24Z"
+   "avg_score": 0.125,
+   "updated_at": "2026-11-14T19:15:26Z"
   },
   "VSumAHK3t2U": {
    "title": "The Greatest Nürburgring PROTOTYPES of 2026 Compilation - TOYOTA GR GT RS, R5 Turbo, Revuelto SV ...",
@@ -143,14 +143,26 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.421,
-   "updated_at": "2026-11-13T23:41:37Z"
+   "updated_at": "2026-11-14T19:15:26Z"
+  },
+  "6ZzuZm-D_-k": {
+   "title": "GR GT GRATIS! | #guerrero4real en #Twitch",
+   "url": "https://youtube.com/watch?v=6ZzuZm-D_-k",
+   "comment_count": 2,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 0,
+   "negative": 0,
+   "unscored": 1,
+   "avg_score": null,
+   "updated_at": "2026-11-14T19:15:26Z"
   }
  },
  "totals": {
-  "sampled": 132,
-  "positive": 71,
-  "neutral": 46,
+  "sampled": 135,
+  "positive": 72,
+  "neutral": 47,
   "negative": 14,
-  "unscored": 1
+  "unscored": 2
  }
 }
