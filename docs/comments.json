@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T17:50:57Z",
+ "updated_at": "2026-11-15T22:58:26Z",
  "videos": {
   "uQPBVsM9AaY": {
    "title": "Toyota GR GT Up Close | Twin-Turbo V8 Supercar",
@@ -35,7 +35,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.107,
-   "updated_at": "2026-11-15T02:49:52Z"
+   "updated_at": "2026-11-15T22:58:26Z"
   },
   "yhsvzt2014w": {
    "title": "XBOX Edition GR GT #shorts",
@@ -64,14 +64,14 @@
   "cBehx6rwKjs": {
    "title": "Toyota Just Showed Us the GR GT and It's INSANE!",
    "url": "https://youtube.com/watch?v=cBehx6rwKjs",
-   "comment_count": 3,
-   "sampled": 2,
-   "positive": 2,
+   "comment_count": 4,
+   "sampled": 3,
+   "positive": 3,
    "neutral": 0,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.401,
-   "updated_at": "2026-11-15T02:49:52Z"
+   "avg_score": 0.381,
+   "updated_at": "2026-11-15T22:58:26Z"
   },
   "n_A1sDTd7yg": {
    "title": "Toyota GR GT: The V8 Hybrid We've Been Waiting For",
@@ -95,7 +95,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.083,
-   "updated_at": "2026-11-15T02:49:52Z"
+   "updated_at": "2026-11-15T22:58:26Z"
   },
   "VSumAHK3t2U": {
    "title": "The Greatest Nürburgring PROTOTYPES of 2026 Compilation - TOYOTA GR GT RS, R5 Turbo, Revuelto SV ...",
@@ -112,26 +112,26 @@
   "CB7d3QqGcyo": {
    "title": "Porque El TOYOTA GR GT3 PROMETE MUCHO",
    "url": "https://youtube.com/watch?v=CB7d3QqGcyo",
-   "comment_count": 4,
-   "sampled": 4,
+   "comment_count": 5,
+   "sampled": 5,
    "positive": 0,
    "neutral": 3,
    "negative": 0,
-   "unscored": 1,
+   "unscored": 2,
    "avg_score": 0.0,
-   "updated_at": "2026-11-14T23:06:01Z"
+   "updated_at": "2026-11-15T22:58:26Z"
   },
   "hOBiDn7siUI": {
    "title": "Toyota’s Twin-Turbo V8 Supercar 🔥 GR GT #ToyotaGRGT #GazooRacing #CarEdit #Shorts #fyp",
    "url": "https://youtube.com/watch?v=hOBiDn7siUI",
-   "comment_count": 2,
-   "sampled": 1,
-   "positive": 1,
+   "comment_count": 4,
+   "sampled": 2,
+   "positive": 2,
    "neutral": 0,
    "negative": 0,
    "unscored": 0,
-   "avg_score": 0.421,
-   "updated_at": "2026-11-15T02:49:52Z"
+   "avg_score": 0.4,
+   "updated_at": "2026-11-15T22:58:26Z"
   },
   "6ZzuZm-D_-k": {
    "title": "GR GT GRATIS! | #guerrero4real en #Twitch",
@@ -143,7 +143,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-15T02:49:52Z"
+   "updated_at": "2026-11-15T22:58:26Z"
   },
   "aRPJcT3QIZ4": {
    "title": "ENGINEER VISITS CONFIDENTIAL GR GAZOO RACING SITE// SEE TOYOTA GR GT IN FLESH ALONG WITH LFA!",
@@ -159,10 +159,10 @@
   }
  },
  "totals": {
-  "sampled": 158,
-  "positive": 81,
+  "sampled": 161,
+  "positive": 83,
   "neutral": 59,
   "negative": 15,
-  "unscored": 3
+  "unscored": 4
  }
 }
