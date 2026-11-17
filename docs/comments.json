@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-11-17T04:37:41Z",
+ "updated_at": "2026-11-17T14:39:52Z",
  "videos": {
-  "LtRh92XNgQ4": {
-   "title": "Toyota GR GT",
-   "url": "https://youtube.com/watch?v=LtRh92XNgQ4",
-   "comment_count": 4,
-   "sampled": 4,
-   "positive": 1,
-   "neutral": 3,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.107,
-   "updated_at": "2026-11-15T22:58:26Z"
-  },
   "yhsvzt2014w": {
    "title": "XBOX Edition GR GT #shorts",
    "url": "https://youtube.com/watch?v=yhsvzt2014w",
@@ -47,7 +35,7 @@
    "negative": 4,
    "unscored": 0,
    "avg_score": 0.125,
-   "updated_at": "2026-11-17T04:37:41Z"
+   "updated_at": "2026-11-17T14:39:52Z"
   },
   "JMD4BE9y6j8": {
    "title": "Inside Toyota’s GR Garage | Lexus LFA & GR GT",
@@ -64,14 +52,14 @@
   "VSumAHK3t2U": {
    "title": "The Greatest Nürburgring PROTOTYPES of 2026 Compilation - TOYOTA GR GT RS, R5 Turbo, Revuelto SV ...",
    "url": "https://youtube.com/watch?v=VSumAHK3t2U",
-   "comment_count": 45,
-   "sampled": 30,
-   "positive": 11,
-   "neutral": 14,
-   "negative": 5,
+   "comment_count": 53,
+   "sampled": 34,
+   "positive": 12,
+   "neutral": 15,
+   "negative": 7,
    "unscored": 0,
-   "avg_score": 0.13,
-   "updated_at": "2026-11-17T04:37:41Z"
+   "avg_score": 0.121,
+   "updated_at": "2026-11-17T14:39:52Z"
   },
   "CB7d3QqGcyo": {
    "title": "Porque El TOYOTA GR GT3 PROMETE MUCHO",
@@ -83,7 +71,7 @@
    "negative": 0,
    "unscored": 3,
    "avg_score": 0.0,
-   "updated_at": "2026-11-17T04:37:41Z"
+   "updated_at": "2026-11-17T14:39:52Z"
   },
   "hOBiDn7siUI": {
    "title": "Toyota’s Twin-Turbo V8 Supercar 🔥 GR GT #ToyotaGRGT #GazooRacing #CarEdit #Shorts #fyp",
@@ -112,33 +100,45 @@
   "aRPJcT3QIZ4": {
    "title": "ENGINEER VISITS CONFIDENTIAL GR GAZOO RACING SITE// SEE TOYOTA GR GT IN FLESH ALONG WITH LFA!",
    "url": "https://youtube.com/watch?v=aRPJcT3QIZ4",
-   "comment_count": 19,
-   "sampled": 15,
-   "positive": 8,
+   "comment_count": 20,
+   "sampled": 16,
+   "positive": 9,
    "neutral": 4,
    "negative": 2,
    "unscored": 1,
-   "avg_score": 0.314,
-   "updated_at": "2026-11-17T04:37:41Z"
+   "avg_score": 0.307,
+   "updated_at": "2026-11-17T14:39:52Z"
   },
   "el9Wh7xfDoE": {
    "title": "NEW Toyota GR GT3 Testing at Sebring",
    "url": "https://youtube.com/watch?v=el9Wh7xfDoE",
-   "comment_count": 79,
-   "sampled": 57,
-   "positive": 33,
-   "neutral": 20,
-   "negative": 4,
+   "comment_count": 128,
+   "sampled": 84,
+   "positive": 50,
+   "neutral": 29,
+   "negative": 5,
    "unscored": 0,
-   "avg_score": 0.268,
-   "updated_at": "2026-11-17T04:37:41Z"
+   "avg_score": 0.282,
+   "updated_at": "2026-11-17T14:39:52Z"
+  },
+  "0aSNPd-Gkdk": {
+   "title": "2027 Toyota GR GT – Engine, Performance, Price and Latest News",
+   "url": "https://youtube.com/watch?v=0aSNPd-Gkdk",
+   "comment_count": 6,
+   "sampled": 4,
+   "positive": 3,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.486,
+   "updated_at": "2026-11-17T14:39:52Z"
   }
  },
  "totals": {
-  "sampled": 134,
-  "positive": 62,
-  "neutral": 52,
-  "negative": 15,
+  "sampled": 166,
+  "positive": 83,
+  "neutral": 60,
+  "negative": 18,
   "unscored": 5
  }
 }
