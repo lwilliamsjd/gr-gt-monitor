@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T22:59:03Z",
+ "updated_at": "2026-11-18T04:33:23Z",
  "videos": {
   "yhsvzt2014w": {
    "title": "XBOX Edition GR GT #shorts",
@@ -11,7 +11,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-17T04:37:41Z"
+   "updated_at": "2026-11-18T04:33:23Z"
   },
   "2VfFSBmPUf8": {
    "title": "Almost Almost Almost #gr86 #grgt #gazooracing #toyota",
@@ -47,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.083,
-   "updated_at": "2026-11-16T22:19:40Z"
+   "updated_at": "2026-11-18T04:33:23Z"
   },
   "VSumAHK3t2U": {
    "title": "The Greatest Nürburgring PROTOTYPES of 2026 Compilation - TOYOTA GR GT RS, R5 Turbo, Revuelto SV ...",
@@ -83,7 +83,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.4,
-   "updated_at": "2026-11-15T22:58:26Z"
+   "updated_at": "2026-11-18T04:33:23Z"
   },
   "6ZzuZm-D_-k": {
    "title": "GR GT GRATIS! | #guerrero4real en #Twitch",
@@ -124,14 +124,14 @@
   "0aSNPd-Gkdk": {
    "title": "2027 Toyota GR GT – Engine, Performance, Price and Latest News",
    "url": "https://youtube.com/watch?v=0aSNPd-Gkdk",
-   "comment_count": 6,
-   "sampled": 4,
+   "comment_count": 8,
+   "sampled": 5,
    "positive": 3,
    "neutral": 1,
    "negative": 0,
-   "unscored": 0,
+   "unscored": 1,
    "avg_score": 0.486,
-   "updated_at": "2026-11-17T14:39:52Z"
+   "updated_at": "2026-11-18T04:33:23Z"
   },
   "OQaOdTJ_6yM": {
    "title": "Toyota GR GT 641 HP Hybrid V8 Supercar Coming in 2027",
@@ -144,13 +144,37 @@
    "unscored": 0,
    "avg_score": 0.285,
    "updated_at": "2026-11-17T22:59:03Z"
+  },
+  "K4kJ-3_9DB4": {
+   "title": "Toyota GR GT Vibes 🔥 #shorts #viral #toyota#",
+   "url": "https://youtube.com/watch?v=K4kJ-3_9DB4",
+   "comment_count": 4,
+   "sampled": 4,
+   "positive": 0,
+   "neutral": 3,
+   "negative": 1,
+   "unscored": 0,
+   "avg_score": -0.085,
+   "updated_at": "2026-11-18T04:33:23Z"
+  },
+  "a3XNnn4uLxg": {
+   "title": "Toyota GR GT 25th Anniversary Edition Driving",
+   "url": "https://youtube.com/watch?v=a3XNnn4uLxg",
+   "comment_count": 2,
+   "sampled": 2,
+   "positive": 0,
+   "neutral": 2,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.0,
+   "updated_at": "2026-11-18T04:33:23Z"
   }
  },
  "totals": {
-  "sampled": 190,
+  "sampled": 197,
   "positive": 98,
-  "neutral": 67,
-  "negative": 20,
-  "unscored": 5
+  "neutral": 72,
+  "negative": 21,
+  "unscored": 6
  }
 }
