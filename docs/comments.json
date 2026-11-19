@@ -1,30 +1,6 @@
 {
- "updated_at": "2026-11-19T13:29:59Z",
+ "updated_at": "2026-11-19T22:17:10Z",
  "videos": {
-  "VSumAHK3t2U": {
-   "title": "The Greatest Nürburgring PROTOTYPES of 2026 Compilation - TOYOTA GR GT RS, R5 Turbo, Revuelto SV ...",
-   "url": "https://youtube.com/watch?v=VSumAHK3t2U",
-   "comment_count": 67,
-   "sampled": 44,
-   "positive": 18,
-   "neutral": 16,
-   "negative": 9,
-   "unscored": 1,
-   "avg_score": 0.141,
-   "updated_at": "2026-11-19T13:29:59Z"
-  },
-  "hOBiDn7siUI": {
-   "title": "Toyota’s Twin-Turbo V8 Supercar 🔥 GR GT #ToyotaGRGT #GazooRacing #CarEdit #Shorts #fyp",
-   "url": "https://youtube.com/watch?v=hOBiDn7siUI",
-   "comment_count": 4,
-   "sampled": 2,
-   "positive": 2,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.4,
-   "updated_at": "2026-11-19T03:40:18Z"
-  },
   "6ZzuZm-D_-k": {
    "title": "GR GT GRATIS! | #guerrero4real en #Twitch",
    "url": "https://youtube.com/watch?v=6ZzuZm-D_-k",
@@ -47,19 +23,19 @@
    "negative": 2,
    "unscored": 1,
    "avg_score": 0.288,
-   "updated_at": "2026-11-19T13:29:59Z"
+   "updated_at": "2026-11-19T22:17:10Z"
   },
   "el9Wh7xfDoE": {
    "title": "NEW Toyota GR GT3 Testing at Sebring",
    "url": "https://youtube.com/watch?v=el9Wh7xfDoE",
-   "comment_count": 218,
+   "comment_count": 224,
    "sampled": 100,
-   "positive": 66,
-   "neutral": 28,
+   "positive": 67,
+   "neutral": 27,
    "negative": 5,
    "unscored": 1,
-   "avg_score": 0.351,
-   "updated_at": "2026-11-19T13:29:59Z"
+   "avg_score": 0.363,
+   "updated_at": "2026-11-19T22:17:10Z"
   },
   "0aSNPd-Gkdk": {
    "title": "2027 Toyota GR GT – Engine, Performance, Price and Latest News",
@@ -71,7 +47,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.553,
-   "updated_at": "2026-11-19T13:29:59Z"
+   "updated_at": "2026-11-19T22:17:10Z"
   },
   "OQaOdTJ_6yM": {
    "title": "Toyota GR GT 641 HP Hybrid V8 Supercar Coming in 2027",
@@ -83,7 +59,7 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": 0.096,
-   "updated_at": "2026-11-18T22:07:36Z"
+   "updated_at": "2026-11-19T22:17:10Z"
   },
   "K4kJ-3_9DB4": {
    "title": "Toyota GR GT Vibes 🔥 #shorts #viral #toyota#",
@@ -112,33 +88,33 @@
   "UgjAc8PsjhI": {
    "title": "Toyota’s GR GT Looks Meaner in Person",
    "url": "https://youtube.com/watch?v=UgjAc8PsjhI",
-   "comment_count": 35,
-   "sampled": 12,
-   "positive": 5,
+   "comment_count": 49,
+   "sampled": 14,
+   "positive": 6,
    "neutral": 4,
-   "negative": 3,
+   "negative": 4,
    "unscored": 0,
-   "avg_score": 0.062,
-   "updated_at": "2026-11-19T13:29:59Z"
+   "avg_score": 0.067,
+   "updated_at": "2026-11-19T22:17:10Z"
   },
   "I2HPk65BLAs": {
    "title": "Is the NEW 2027 GR GT One of the Coolest and Best Toyota Products Ever??",
    "url": "https://youtube.com/watch?v=I2HPk65BLAs",
-   "comment_count": 11,
-   "sampled": 10,
+   "comment_count": 14,
+   "sampled": 11,
    "positive": 4,
    "neutral": 5,
-   "negative": 1,
+   "negative": 2,
    "unscored": 0,
-   "avg_score": 0.21,
-   "updated_at": "2026-11-19T13:29:59Z"
+   "avg_score": 0.161,
+   "updated_at": "2026-11-19T22:17:10Z"
   }
  },
  "totals": {
-  "sampled": 205,
-  "positive": 112,
-  "neutral": 66,
-  "negative": 22,
-  "unscored": 5
+  "sampled": 162,
+  "positive": 94,
+  "neutral": 49,
+  "negative": 15,
+  "unscored": 4
  }
 }
