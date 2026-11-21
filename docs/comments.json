@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-11-20T21:17:00Z",
+ "updated_at": "2026-11-21T02:30:42Z",
  "videos": {
-  "aRPJcT3QIZ4": {
-   "title": "ENGINEER VISITS CONFIDENTIAL GR GAZOO RACING SITE// SEE TOYOTA GR GT IN FLESH ALONG WITH LFA!",
-   "url": "https://youtube.com/watch?v=aRPJcT3QIZ4",
-   "comment_count": 21,
-   "sampled": 17,
-   "positive": 9,
-   "neutral": 5,
-   "negative": 2,
-   "unscored": 1,
-   "avg_score": 0.288,
-   "updated_at": "2026-11-20T21:17:00Z"
-  },
   "el9Wh7xfDoE": {
    "title": "NEW Toyota GR GT3 Testing at Sebring",
    "url": "https://youtube.com/watch?v=el9Wh7xfDoE",
@@ -49,18 +37,6 @@
    "avg_score": 0.096,
    "updated_at": "2026-11-20T21:17:00Z"
   },
-  "K4kJ-3_9DB4": {
-   "title": "Toyota GR GT Vibes 🔥 #shorts #viral #toyota#",
-   "url": "https://youtube.com/watch?v=K4kJ-3_9DB4",
-   "comment_count": 5,
-   "sampled": 5,
-   "positive": 0,
-   "neutral": 4,
-   "negative": 1,
-   "unscored": 0,
-   "avg_score": -0.068,
-   "updated_at": "2026-11-20T03:31:38Z"
-  },
   "a3XNnn4uLxg": {
    "title": "Toyota GR GT 25th Anniversary Edition Driving",
    "url": "https://youtube.com/watch?v=a3XNnn4uLxg",
@@ -71,7 +47,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-20T03:31:38Z"
+   "updated_at": "2026-11-21T02:30:42Z"
   },
   "UgjAc8PsjhI": {
    "title": "Toyota’s GR GT Looks Meaner in Person",
@@ -100,14 +76,14 @@
   "tbOVFYZOXwA": {
    "title": "Toyota just made a move nobody saw coming with GR GT..",
    "url": "https://youtube.com/watch?v=tbOVFYZOXwA",
-   "comment_count": 2,
-   "sampled": 2,
-   "positive": 1,
-   "neutral": 1,
-   "negative": 0,
+   "comment_count": 7,
+   "sampled": 7,
+   "positive": 3,
+   "neutral": 2,
+   "negative": 2,
    "unscored": 0,
-   "avg_score": 0.35,
-   "updated_at": "2026-11-20T03:31:38Z"
+   "avg_score": 0.119,
+   "updated_at": "2026-11-21T02:30:42Z"
   },
   "c4z1-wkoKMA": {
    "title": "toyota gr gt edit #caredits #tajnymatesedit",
@@ -119,7 +95,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.382,
-   "updated_at": "2026-11-20T03:31:38Z"
+   "updated_at": "2026-11-21T02:30:42Z"
   },
   "lbPgPknLHU4": {
    "title": "$300k toyota GR GT👀❤️#toyota #luxurycars",
@@ -131,14 +107,26 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": null,
-   "updated_at": "2026-11-20T03:31:38Z"
+   "updated_at": "2026-11-21T02:30:42Z"
+  },
+  "hpiPr-TMRfc": {
+   "title": "Toyota'nın Yeni Canavarı: GR GT",
+   "url": "https://youtube.com/watch?v=hpiPr-TMRfc",
+   "comment_count": 3,
+   "sampled": 1,
+   "positive": 0,
+   "neutral": 1,
+   "negative": 0,
+   "unscored": 0,
+   "avg_score": 0.0,
+   "updated_at": "2026-11-21T02:30:42Z"
   }
  },
  "totals": {
-  "sampled": 202,
-  "positive": 116,
-  "neutral": 60,
-  "negative": 23,
-  "unscored": 3
+  "sampled": 186,
+  "positive": 109,
+  "neutral": 53,
+  "negative": 22,
+  "unscored": 2
  }
 }
