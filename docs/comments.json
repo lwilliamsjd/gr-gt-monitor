@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T11:24:55Z",
+ "updated_at": "2026-11-21T19:28:57Z",
  "videos": {
   "el9Wh7xfDoE": {
    "title": "NEW Toyota GR GT3 Testing at Sebring",
@@ -10,8 +10,8 @@
    "neutral": 27,
    "negative": 6,
    "unscored": 0,
-   "avg_score": 0.359,
-   "updated_at": "2026-11-21T11:24:55Z"
+   "avg_score": 0.354,
+   "updated_at": "2026-11-21T19:28:57Z"
   },
   "0aSNPd-Gkdk": {
    "title": "2027 Toyota GR GT – Engine, Performance, Price and Latest News",
@@ -23,7 +23,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": 0.553,
-   "updated_at": "2026-11-21T11:24:55Z"
+   "updated_at": "2026-11-21T19:28:57Z"
   },
   "OQaOdTJ_6yM": {
    "title": "Toyota GR GT 641 HP Hybrid V8 Supercar Coming in 2027",
@@ -35,7 +35,7 @@
    "negative": 1,
    "unscored": 0,
    "avg_score": 0.096,
-   "updated_at": "2026-11-21T11:24:55Z"
+   "updated_at": "2026-11-21T19:28:57Z"
   },
   "a3XNnn4uLxg": {
    "title": "Toyota GR GT 25th Anniversary Edition Driving",
@@ -52,26 +52,26 @@
   "UgjAc8PsjhI": {
    "title": "Toyota’s GR GT Looks Meaner in Person",
    "url": "https://youtube.com/watch?v=UgjAc8PsjhI",
-   "comment_count": 143,
-   "sampled": 61,
-   "positive": 29,
+   "comment_count": 149,
+   "sampled": 64,
+   "positive": 30,
    "neutral": 16,
-   "negative": 15,
+   "negative": 17,
    "unscored": 1,
-   "avg_score": 0.117,
-   "updated_at": "2026-11-21T11:24:55Z"
+   "avg_score": 0.113,
+   "updated_at": "2026-11-21T19:28:57Z"
   },
   "I2HPk65BLAs": {
    "title": "Is the NEW 2027 GR GT One of the Coolest and Best Toyota Products Ever??",
    "url": "https://youtube.com/watch?v=I2HPk65BLAs",
-   "comment_count": 18,
-   "sampled": 14,
-   "positive": 5,
-   "neutral": 7,
-   "negative": 2,
+   "comment_count": 22,
+   "sampled": 18,
+   "positive": 7,
+   "neutral": 8,
+   "negative": 3,
    "unscored": 0,
-   "avg_score": 0.138,
-   "updated_at": "2026-11-21T11:24:55Z"
+   "avg_score": 0.128,
+   "updated_at": "2026-11-21T19:28:57Z"
   },
   "tbOVFYZOXwA": {
    "title": "Toyota just made a move nobody saw coming with GR GT..",
@@ -83,7 +83,7 @@
    "negative": 2,
    "unscored": 0,
    "avg_score": 0.119,
-   "updated_at": "2026-11-21T11:24:55Z"
+   "updated_at": "2026-11-21T19:28:57Z"
   },
   "c4z1-wkoKMA": {
    "title": "toyota gr gt edit #caredits #tajnymatesedit",
@@ -123,10 +123,10 @@
   }
  },
  "totals": {
-  "sampled": 198,
-  "positive": 113,
-  "neutral": 57,
-  "negative": 26,
+  "sampled": 205,
+  "positive": 116,
+  "neutral": 58,
+  "negative": 29,
   "unscored": 2
  }
 }
