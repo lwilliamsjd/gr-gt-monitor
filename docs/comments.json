@@ -1,18 +1,6 @@
 {
- "updated_at": "2026-11-24T12:41:20Z",
+ "updated_at": "2026-11-24T23:05:57Z",
  "videos": {
-  "UgjAc8PsjhI": {
-   "title": "Toyota’s GR GT Looks Meaner in Person",
-   "url": "https://youtube.com/watch?v=UgjAc8PsjhI",
-   "comment_count": 183,
-   "sampled": 80,
-   "positive": 38,
-   "neutral": 20,
-   "negative": 21,
-   "unscored": 1,
-   "avg_score": 0.135,
-   "updated_at": "2026-11-24T12:41:20Z"
-  },
   "tbOVFYZOXwA": {
    "title": "Toyota just made a move nobody saw coming with GR GT..",
    "url": "https://youtube.com/watch?v=tbOVFYZOXwA",
@@ -23,7 +11,7 @@
    "negative": 2,
    "unscored": 0,
    "avg_score": 0.286,
-   "updated_at": "2026-11-24T12:41:20Z"
+   "updated_at": "2026-11-24T23:05:57Z"
   },
   "hpiPr-TMRfc": {
    "title": "Toyota'nın Yeni Canavarı: GR GT",
@@ -35,7 +23,7 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.0,
-   "updated_at": "2026-11-24T12:41:20Z"
+   "updated_at": "2026-11-24T23:05:57Z"
   },
   "b-FacBG0tFs": {
    "title": "Toyota GR GT",
@@ -47,7 +35,7 @@
    "negative": 0,
    "unscored": 1,
    "avg_score": null,
-   "updated_at": "2026-11-24T12:41:20Z"
+   "updated_at": "2026-11-24T23:05:57Z"
   },
   "Y1OyREHWHR4": {
    "title": "GR GT V-8 Twin Turbo Hybrid Engine Revving! Toyota Lexus Century Gazoo Racing",
@@ -59,26 +47,14 @@
    "negative": 0,
    "unscored": 0,
    "avg_score": 0.214,
-   "updated_at": "2026-11-24T12:41:20Z"
-  },
-  "Sfi4hQC-nhQ": {
-   "title": "Toyota GR GT Is Here — Is This Toyota’s Most Exciting Sports Car Yet?",
-   "url": "https://youtube.com/watch?v=Sfi4hQC-nhQ",
-   "comment_count": 1,
-   "sampled": 1,
-   "positive": 1,
-   "neutral": 0,
-   "negative": 0,
-   "unscored": 0,
-   "avg_score": 0.428,
-   "updated_at": "2026-11-24T12:41:20Z"
+   "updated_at": "2026-11-24T23:05:57Z"
   }
  },
  "totals": {
-  "sampled": 94,
-  "positive": 45,
-  "neutral": 24,
-  "negative": 23,
-  "unscored": 2
+  "sampled": 13,
+  "positive": 6,
+  "neutral": 4,
+  "negative": 2,
+  "unscored": 1
  }
 }
